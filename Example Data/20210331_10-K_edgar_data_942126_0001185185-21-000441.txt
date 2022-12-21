@@ -1,0 +1,3145 @@
+<Header>
+<FileStats>
+    <FileName>20210331_10-K_edgar_data_942126_0001185185-21-000441.txt</FileName>
+    <GrossFileSize>4312783</GrossFileSize>
+    <NetFileSize>140609</NetFileSize>
+    <NonText_DocumentType_Chars>299178</NonText_DocumentType_Chars>
+    <HTML_Chars>1645267</HTML_Chars>
+    <XBRL_Chars>1255461</XBRL_Chars>
+    <XML_Chars>857902</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001185185-21-000441.hdr.sgml : 20210331
+<ACCEPTANCE-DATETIME>20210331160333
+ACCESSION NUMBER:		0001185185-21-000441
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		66
+CONFORMED PERIOD OF REPORT:	20201231
+FILED AS OF DATE:		20210331
+DATE AS OF CHANGE:		20210331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TAITRON COMPONENTS INC
+		CENTRAL INDEX KEY:			0000942126
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC [5065]
+		IRS NUMBER:				954249240
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25844
+		FILM NUMBER:		21793213
+
+	BUSINESS ADDRESS:	
+		STREET 1:		28040 WEST HARRISON PARKWAY
+		CITY:			VALENCIA
+		STATE:			CA
+		ZIP:			91355
+		BUSINESS PHONE:		(661) 257-6060
+
+	MAIL ADDRESS:	
+		STREET 1:		28040 WEST HARRISON PARKWAY
+		CITY:			VALENCIA
+		STATE:			CA
+		ZIP:			91355
+
+</SEC-Header>
+</Header>
+
+ 0001185185-21-000441.txt : 20210331
+
+10-K
+ 1
+ taitron20201231_10k.htm
+ FORM 10-K
+
+taitron20201231_10k.htm 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+(Mark One) 
+
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For the fiscal year ended December 31, 2020 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For the transition period from __________ to __________ 
+
+Commission file number 0-25844 
+
+TAITRON COMPONENTS INCORPORATED 
+
+ (Exact name of registrant as specified in its charter) 
+
+California 
+			 95-4249240 
+
+(State or other jurisdiction of incorporation or organization) 
+			 (I.R.S. Employer Identification No.) 
+
+28040 West Harrison Parkway, Valencia, California 
+			 91355 
+
+(Address of principal executive offices) 
+			 (Zip Code) 
+
+Registrant s telephone number, including area code: (661) 257-6060 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+			 Trading Symbol(s) 
+			 Name of each exchange on which registered 
+
+Class A common stock, .001 par value 
+			 TAIT 
+			 NASDAQ Capital Market 
+
+Securities registered pursuant to Section 12(g) of the Act: None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of larger accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+			 Accelerated filer 
+
+Non-accelerated filer 
+			 Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+
+The aggregate market value of common stock held by non-affiliates of the registrant, based upon the closing price of the common stock as reported by The Nasdaq Capital Market, was approximately 7.8 million as of the last business day of the registrant s most recently completed second fiscal quarter ended June 30, 2020. 
+
+Number of shares outstanding of each of the registrant s classes of common stock, as of the latest practicable date: 
+
+Class 
+			 Outstanding on March 15, 2021 
+
+Class A common stock, .001 par value 
+			 5,062,235 
+
+Class B common stock, .001 par value 
+			 762,612 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+ Portions of the registrant s definitive proxy statement pursuant to Regulation 14A in connection with the 2021 annual meeting of shareholders are incorporated by reference into Part III of this Form 10-K. The proxy statement will be filed with the SEC not later than 120 days after the registrant s fiscal year ended December 31, 2020. 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. 
+
+Business 
+
+3 
+
+Item 1A. 
+
+Risk Factors 
+
+6 
+
+Item 1B. 
+
+Unresolved Staff Comments 
+
+13 
+
+Item 2. 
+
+Properties 
+
+13 
+
+Item 3. 
+
+Legal Proceedings 
+
+13 
+
+Item 4. 
+
+Mine Safety Disclosures 
+
+13 
+
+PART II 
+
+Item 5. 
+
+Market for the Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+14 
+
+Item 6. 
+
+Selected Financial Data 
+
+14 
+
+Item 7. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+15 
+
+Item 7A. 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+17 
+
+Item 8. 
+
+Financial Statements and Supplementary Data 
+
+18 
+
+Item 9. 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+36 
+
+Item 9A. 
+
+Controls and Procedures 
+
+36 
+
+Item 9B. 
+
+Other Information 
+
+36 
+
+PART III 
+
+Item 10. 
+
+Directors, Executive Officers and Corporate Governance 
+
+37 
+
+Item 11. 
+
+Executive Compensation 
+
+37 
+
+Item 12. 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+37 
+
+Item 13. 
+
+Certain Relationships, Related Transactions and Director Independence 
+
+37 
+
+Item 14. 
+
+Principal Accounting Fees and Services 
+
+37 
+
+PART IV 
+
+Item 15. 
+
+Exhibits, Financial Statement Schedules 
+
+38 
+
+Item 16. 
+
+Form 10-K Summary 
+
+38 
+
+Signatures 
+
+39 
+
+Table of Contents 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This Annual Report on Form 10-K contains statements which constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements represent our expectations or beliefs concerning future events, including the following: any statements regarding future sales, costs and expenses and gross profit percentages; any statements regarding the continuation of historical trends; any statements regarding expected capital expenditures; and any statements regarding the sufficiency of our cash balances and cash generated from operating and financing activities for future liquidity and capital resource needs, and are usually denoted by words or phrases such as believes, plans, should, expects, thinks, projects, estimates, anticipates, will likely result, or similar expressions. We wish to caution readers that all forward-looking statements are necessarily speculative and not to place undue reliance on forward-looking statements, which speak only as of the date made, and to advise readers that actual results could vary due to a variety of risks and uncertainties, some of which are discussed in this report in the Part I, Item 1A. Risk Factors and elsewhere in this report. Except as required by law, we undertake no obligation to update forward-looking statements. 
+
+References to Taitron , the Company , the company , we, our and us refer to Taitron Components Incorporated and its majority-owned subsidiary, unless the context otherwise requires. 
+
+PART I 
+
+ITEM 1. BUSINESS. 
+
+General 
+
+We are primarily a supplier of original designed and manufactured (ODM) products that include value-added engineering and turn-key solutions. We focus on providing original equipment manufacturers (OEMs) and contract electronic manufacturers (CEMs) with ODM products for their multi-year turn-key projects ODM Projects and ODM electronic components ODM Components ). Our product offerings range from discrete semiconductors through small electronic devices. We also distribute brand name electronic components with a vast inventory available on hand. We are incorporated in California and were originally formed in 1989. We maintain two (2) divisions, in Taiwan and China. 
+
+Our Taiwan and China locations provide support for inventory sourcing, purchases and coordinating the manufacture of our ODM Projects and ODM Components (collectively we refer to as ODM Products ). In 2020 and 2019, we offered approximately 81 and 57, respectively, different ODM Products that are manufactured to specifications developed as a result of our engineering support services. Our China location also serves as the engineering center responsible for making component datasheets and test specifications, arranging pre-production and mass production at our manufacturer partners, preparing samples, monitoring the quality of shipments, performing failure analysis reports, and designing circuits with partners for ODM Projects. 
+
+We have also developed a reputation for stocking a large selection of electronic component inventories to meet the rapid delivery requirements of our customers. At December 31, 2020, our inventory consisted of approximately 12,000 different products manufactured by more than 100 different suppliers. However, our core strategy has shifted to primarily focus on our ODM Products that require custom products designed for specific applications to OEM customers, and away from actively marketing our superstore strategy of maintaining a vast quantity of electronic components to fill customer orders immediately from available stock held in inventory. 
+
+ODM Projects 
+
+Our ODM Projects are custom made and are marketed in specific industries such as: wild animal feeders, timers for DC motors, public street light controllers, LED modules for swimming pools and water fountain lights, LED headlamps for vacuum cleaners, battery testers, universal remote-control devices and battery chargers. 
+
+Our distribution of ODM Projects originates from our 50,000 square-foot facility located in Valencia, California. We utilize a computerized inventory control/tracking system which enables us to quickly access inventory levels and trace product shipments. See Item 2 - Properties. 
+
+-3-
+
+Table of Contents 
+
+ODM Product Industry 
+
+ODM product providers have experienced rapid change and growth as an increasing number of OEMs outsource their manufacturing requirements. OEMs have continued to turn to outsourcing in order to reduce product cost; achieve accelerated time-to-market and time-to-volume production; access advanced design and manufacturing technologies; improve inventory management and purchasing power; and reduce their capital investment in manufacturing resources. This enables OEMs to concentrate on what they believe to be their core strengths, such as new product definition, design, marketing and sales. We believe further growth opportunities exist for ODM product providers to penetrate the worldwide market. By designing private brand products for our domestic OEM customers, we are able to expand export sales to overseas CEM customers. 
+
+ODM Products Strategy 
+
+We offer value-added ODM products to our existing OEM and CEM customers utilizing our engineering design center in Shanghai, China. The sales of our ODM Products were 6,488,000 and 6,598,000 in 2020 and 2019, respectively. Strategic allies such as Teamforce Co. Ltd., Grand Shine Management (see Part II, Item 8: Note 4 Other Assets) and Zowie Technology Corporation (see Part II, Item 8: Note 4 Other Assets) provide us with engineering support services in our ODM projects in order to lower costs and to shorten the design cycle. 
+
+By offering application engineering service to current customers, we are often involved in reviewing their bill of materials (BOMs) and circuit diagrams. Based upon their credit history, type of products, production volume, profitability of the industry and circuit schematics, we offer different solutions for quality improvement, additional functions and cost savings throughout the re-design processes such as component replacement, digital circuit instead of analog circuit, microprocessor instead of logic circuit, integrated circuit instead of discrete components. Our preference is to target low but increasing volume, high margin, stable demand, profitable and specialty products, and financially stable customers who know how to market their products. Our strengths are in microprocessor programming, power supply, power management, LED message sign, RF transmission and receiving, encoders and decoders, remote controllers, DC motor control and power amplifiers. In many cases, we have been able to take advantage of our component distribution capability by using current stock to reduce lead time and choosing the low-cost components we currently sell. We depend on our outsourcing partners in mold design, plastic injection, metal stamping, wire hardness and final assembly. We ask between 15 to 30 down payment before accepting a purchase order and offer customers 30 to 60 days payment terms. All purchasing orders must have a firm delivery schedule under a non-cancelable and non-returnable (NCNR) agreement. To reduce the manufacturing and handling cost, we arrange production of the same model once a year and keep product in our warehouse to be released according to the predetermined schedule. 
+
+Superstore Marketing Strategy Change 
+
+Since 1997, we have marketed ourselves as the discrete components superstore, with an in-depth focus on discrete semiconductors, passive and optoelectronic components and extensive inventory of a wide variety of these products. Our superstore strategy consists of carrying a large quantity and variety of components in inventory to meet the rapid delivery requirements of our customers. Recently, our core strategy has shifted to primarily focus on our ODM Products that require custom services designed for specific applications to OEM customers, and away from actively marketing our superstore strategy of maintaining a vast quantity of electronic components to fill customer orders immediately from available stock held in inventory. We will continue offering our existing wide variety of components for resale, but these products will be more passively marketed and distributed online for clearance through our website shopping portal, instead of actively through traditional sales agents and distributors. 
+
+Customers 
+
+We market our ODM products to OEMs and our electronic components inventory to distributors, OEMs and CEMs. During each of 2020 and 2019, we distributed our products to approximately 200 customers, however our two largest customers combined accounted for approximately 59 (individually by approximately 45 and 14 of net sales during 2020 and approximately 59 (individually by approximately 42 and 17 during 2019. 
+
+We believe that exceptional customer service and customer relations are key elements of our success, and train our sales force to provide prompt, efficient and courteous service to all customers. See Business - Sales and Marketing Channels. We have the ability to ship most orders the same day they are placed and, historically, most of our customers orders have been shipped within the requested delivery schedule. 
+
+-4-
+
+Table of Contents 
+
+Sales and Marketing Channels 
+
+As of March 15, 2021, our sales and marketing department consisted of 8 employees. We have centralized our sales order processing and customer service department into our headquarters at Valencia, California. 
+
+As a result of our marketing strategy change to focus primarily on ODM Products and away from our superstore inventory, we expect our remaining components inventory will be more passively marketed and distributed online for clearance through our internet sales portal, however at potentially lower rates due to the pricing pressures normally attributed with online shopping. 
+
+Suppliers 
+
+In connection with our ODM products, we have built special partnership agreements with a few selected system integration companies in China. These agreements ensure the quality of the products and services and also provide a warranty on our finished products. Most of the projects involve multiple years of cooperation among components suppliers, overseas partners and the end customers in the US, and therefore, increase business stability and reduce the financial risk of excess inventory. 
+
+We believe that it s important to develop and maintain good relationships with our discrete electronic component suppliers, since we do not have long-term supply, distribution or franchise agreements with any of our suppliers. Instead, we cultivate strong working relationships with each of our suppliers. 
+
+Competition 
+
+The ODM products we provide are available from many independent sources as well as from the in-house manufacturing capabilities of current and potential customers. Our competitors may be more established in the industry and have substantially greater financial, manufacturing, or marketing resources than we do. In addition, in recent years, original design manufacturers that provide design and manufacturing services to OEMs have significantly increased their share of outsourced manufacturing services provided to OEMs in the consumer electronic product market. Competition from ODMs may increase if our business in these markets grows or if ODMs expand further into these markets. We believe that our principal competitive advantages in our targeted markets are our engineering capabilities, product quality, flexibility, cost and timeliness in responding to design and schedule changes, reliability in meeting product delivery schedules, pricing, technological sophistication and geographic location. 
+
+We operate our discrete electronic components business online in a highly competitive environment and face competition from numerous local, regional and national distributors (both in purchasing and selling inventory) and electronic component manufacturers, including some of our own suppliers. Many of our competitors are more established and have greater name recognition and financial and marketing resources than us. 
+
+Management Information Systems 
+
+We have made a significant investment in computer hardware, software and personnel. The Management Information Systems (MIS) department is responsible for software and hardware upgrades, maintenance of current software and related databases, and designing custom systems. We believe that our MIS department is crucial to our success and believe in continually upgrading our hardware and software. We also developed a vendor management inventory software program which allows participating customers to access and manage their own inventory through the internet. The web site also provides users with other current information about us. 
+
+Warehouse Management System 
+
+We utilize a wireless, fully bar-coded warehouse perpetual inventory tracking system that greatly enhances the processing speed, accuracy of product quantity and location control within the warehouse. It also reduces potential errors and accelerates the delivery of components to our customers. We continuously improve our warehouse management system with custom programming features. 
+
+Foreign Trade Regulation 
+
+A large portion of the products we distribute are manufactured in Asia, including Taiwan, Hong Kong, Japan, China, South Korea, Thailand and the Philippines. The purchase of goods manufactured in foreign countries is subject to a number of risks, including economic disruptions, including recent disruptions caused by the COVID-19 pandemic, transportation delays and interruptions, foreign exchange rate fluctuations, imposition of tariffs and import and export controls, and changes in governmental policies, any of which could have a material adverse effect on our business and results of operations. 
+
+-5-
+
+Table of Contents 
+
+Sales to Asian customers were 9 and 13 of our total sales in 2020 and 2019, respectively. 
+
+From time to time, protectionist pressures have influenced U.S. trade policy concerning the imposition of significant duties or other trade restrictions upon foreign products. We cannot predict whether additional U.S. customs quotas, duties, taxes or other charges or restrictions will be imposed upon the importation of foreign components in the future or what effect any of these actions would have on our business, financial condition or results of operations. During 2020, we remained impacted by tariff costs on certain products imported from China, which went into effect as of July 6, 2018. However, we also have been able to pass along a portion of these costs to our customers to mitigate these costs. 
+
+Our ability to remain competitive with respect to the pricing of imported components could be adversely affected by increases in tariffs or duties, changes in trade treaties, strikes in air or sea transportation, and possible future U.S. legislation with respect to pricing and import quotas on products from foreign countries. For example, it is possible that political or economic developments in China, or with respect to the United States relationship with China, could have an adverse effect on our business. Our ability to remain competitive also could be affected by other governmental actions related to, among other things, anti-dumping legislation and international currency fluctuations. While we do not believe that any of these factors adversely impact our business at present, we cannot assure that these factors will not materially adversely affect us in the future. Any significant disruption in the delivery of merchandise from our suppliers, substantially all of whom are foreign, could have a material adverse impact on our business and results of operations. 
+
+Employees 
+
+As of March 15, 2021, we had 16 employees, all of whom are employed on a full-time basis. None of our employees are covered by a collective bargaining agreement and we consider our relations with employees to be good. 
+
+Website Availability of Our Reports Filed with the Securities and Exchange Commission 
+
+We maintain a website (http://www.taitroncomponents.com), but we are not including the information contained on this website as a part of, or incorporating it by reference into, this annual report on Form 10-K. We make available free of charge through this website our annual reports, quarterly reports and current reports on Form 8-K, and amendments to these reports, as soon as reasonably practicable after we electronically file that material with, or furnish the material to, the Securities and Exchange Commission. 
+
+ITEM 1A. RISK FACTORS. 
+
+Certain factors may have a material adverse effect on our business, prospects, financial condition and results of operations. You should carefully consider the risks and uncertainties described below together with all of the other information contained in this Annual Report on Form 10-K, including our consolidated financial statements and the related notes, before deciding to invest in our common shares. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties not presently known to us or that we currently believe to be immaterial may also adversely affect our business. If any of the following risks actually occurs, our business, financial condition, results of operations and future prospects could be materially and adversely affected. 
+
+If our suppliers fail to meet our component and manufacturing needs, it could delay our production and our product shipments to customers and negatively affect our operations. 
+
+Our ODM Products comprise many components and subassemblies produced by outside suppliers. We depend greatly on these suppliers for items that are essential to the manufacture of our products, including printed circuit boards and integrated circuits. For certain items, we qualify only a single source, which magnifies the risk of shortages and decreases our ability to negotiate with that supplier on the basis of price. From time to time, we have been unable to obtain sufficient components that we have needed due to shortages or quality issues from some of our suppliers. If our suppliers fail to meet our manufacturing needs, it would delay our production and our product shipments to customers and negatively affect our operations. 
+
+Our primary suppliers are located in Asia. If a manufacturer should be unable to deliver products to us on a timely basis or at all, our business could be adversely affected. Though we have had many years of favorable experience with these suppliers, there can be no assurance that circumstances might not change and compel one or more of these suppliers to curtail or terminate deliveries to us. Moreover, the use of contract manufacturers to provide components typically requires that we place production orders several months in advance of our expected need for the products. This in turn leads to risks that we may lack sufficient inventory to sell to our customers where our expectations were conservative, or that we may order excess product inventory where our expectations were optimistic. We have in the past, experienced shortages of some parts needed to manufacture our ODM Products. 
+
+-6-
+
+Table of Contents 
+
+In addition, since a significant number of the products we distribute are manufactured in Taiwan, Hong Kong, China, South Korea and the Philippines, we are subject to a number of risks associated with foreign operations, including economic disruptions, transportation delays and interruptions, foreign exchange rate fluctuations, imposition of tariffs and import and export controls and changes in governmental policies, any of which could have a material adverse effect on our business and results of operations. 
+
+The company's lack of long-term sales contracts may have a material adverse effect on its business. 
+
+ Most of the company's sales are made on an order-by-order basis, rather than through long-term sales contracts. The company generally works with its customers to develop non-binding forecasts for future orders. Based on such non-binding forecasts, the company makes commitments regarding the level of business that it will seek and accept, the inventory that it purchases, and the levels of utilization of personnel and other resources. A variety of conditions, both specific to each customer and generally affecting each customer's industry may cause customers to cancel, reduce, or delay orders that were either previously made or anticipated, file for bankruptcy protection, or default on their payments. Generally, customers may cancel, reduce, or delay purchase orders and commitments without penalty. The company seeks to mitigate these risks, in some cases, by entering into noncancelable/nonreturnable sales agreements, but there is no guarantee that such agreements will adequately protect the company. Significant or numerous cancellations, reductions, delays in orders by customers, loss of customers, and/or customer defaults on payments could materially adversely affect the company's business. 
+
+Changes in demand or downturns in the markets we serve could affect our business and operating results. 
+
+The industries into which we market and sell our products are cyclical and may experience downturns. These industries also experience volatility, and future volatility as well as downturns, or any failure of these industries to recover from downturns, could materially harm our business and operating results. In addition, our business and financial position may be adversely affected by current and future economic conditions that cause a decline in business and consumer spending in the markets served by our or our customers products. 
+
+The competitive pressures the company faces, such as pricing and margin reductions, could have a material adverse effect on the company's business. 
+
+The company operates in a highly competitive international environment. The company competes with other large multinational and national electronic components and enterprise computing solutions distributors, as well as numerous other smaller, specialized competitors who generally focus on narrower market sectors, products, or industries. The company also competes for customers with its suppliers. The size of the company's competitors varies across market sectors, as do the resources the company has allocated to the sectors in which it does business. Therefore, some of the company's competitors may have a more extensive customer and/or supplier base than the company in one or more of its market sectors. There is significant competition within each market sector and geography that creates pricing and margin pressure and the need for constant attention to improve service and product offerings and increase market share. Other competitive factors include rapid technological changes, product availability, credit availability, speed of delivery, ability to tailor solutions to changing customer needs, and quality and depth of product lines and training, as well as service and support provided to the customer. The company also faces competition from companies in the logistics and product fulfillment, catalog distribution, and e-commerce supply chain services markets. The company expects to encounter increased competition from its current and/or new competitors, making it more difficult for the company to retain its market share. There is no guarantee that the company's response to competition will be successful. The company's failure to maintain and enhance its competitive position could have a material adverse effect on its business. 
+
+A small number of suppliers and customers account for a significant portion of the company s business. 
+
+Grand Shine Electronics and Zowie Technology accounted for approximately 35 and 15 of our net purchases for each of the fiscal years 2020 and 2019, respectively. We do not regard any one supplier as essential to our operations, since equivalent replacements for most of our products are available from one or more of our other suppliers or are available from various other sources at competitive prices. However, a change in supplier may delay the delivery of our inventory and adversely impact our results of operations. 
+
+In 2020, we had two customers accounting for more than 10 of our net sales, for approximately 45 and 14 . In 2019, we had two customers accounting for more than 10 of our net sales, for approximately 42 and 17 . As of December 31, 2020, we had two customers accounting for more than 10 of our trade accounts receivable, net of allowances, of approximately 50 and 25 and as of December 31, 2019 the company had two customers of approximately 63 and 25 . In the event the company s largest customers were to decrease their demand for the company s products or in the event such customers ceased to purchase products from the company, the company s operations would be materially and adversely impacted. 
+
+-7-
+
+Table of Contents 
+
+The company may not be able to adequately anticipate, prevent, or mitigate damage resulting from criminal and other illegal or fraudulent activities committed against it. 
+
+Global businesses are facing increasing risks of criminal, illegal, and other fraudulent acts. The evolving nature of such threats, considering new and sophisticated methods used by criminals, including phishing, misrepresentation, social engineering and forgery, is making it increasingly difficult for the company to anticipate and adequately mitigate these risks. In addition, designing and implementing measures to defend against, prevent, and detect these types of activities are increasingly costly and invasive into the operations of the business. As a result, the company could experience a material loss in the future to the extent that controls and other measures implemented to address these threats fail to prevent or detect such acts. 
+
+Products sold by the company may be found to be defective and, as a result, warranty and/or product liability claims may be asserted against the company, which may have a material adverse effect on the company. 
+
+The company's business could be materially adversely affected as a result of a significant quality or performance issue in the products or components sold by the company. Despite our efforts to revise and update our manufacturing and test processes, we may not be able to control and eliminate manufacturing flaws adequately. These flaws may include undetected software or hardware defects associated with new products, existing products or products that haves been integrated into a system or apparatus with the products of other vendors. If we fail to adequately monitor, develop and implement appropriate test and manufacturing processes we could experience a rate of product failure that results in substantial shipment delays, warranty costs or damage to our reputation. Product flaws may also consume our limited engineering resources and interrupt our development efforts. Significant product failures would increase our costs and result in the loss of future sales and be harmful to our business. 
+
+Declines in value of the company's inventory could materially adversely affect its business. 
+
+The market for the company's products and services is subject to rapid technological change, evolving industry standards, changes in end-market demand, evolving customer expectations, oversupply of product, and regulatory requirements, which can contribute to the decline in value or potential obsolescence of inventory. Many of the company's suppliers will not allow products to be returned after they have been held in inventory beyond a certain amount of time, and, in most instances, the return rights are limited to a certain percentage of the amount of product the company purchased in a particular time frame. As we continue to shift our primarily focus to our ODM Products and away from actively marketing our superstore strategy of maintaining a vast quantity of electronic components to fill customer orders immediately from available stock held in inventory, we expect the value of our existing inventory to decline. We had inventory balances in the amount of 3,518,000 and 3,588,000 at December 31, 2020 and 2019, respectively, which is presented net of valuation allowances of 4,759,000 and 5,893,000 at December 31, 2020 and 2019, respectively. Further declines in the value of the company s inventory could have a material adverse effect on the company's business. 
+
+Tariffs may result in increased prices and could adversely affect the company's business and results of operations. 
+
+Recently, the U.S. government imposed tariffs on certain products imported into the U.S. and the Chinese government imposed tariffs on certain products imported into China, which have increased the prices of many of the products that the company purchases from its suppliers. The tariffs, along with any additional tariffs or trade restrictions that may be implemented by the U.S., China or other countries, could result in further increased prices. While the company intends to pass price increases on to its customers, the effect of tariffs on prices may impact sales and results of operations. Retaliatory tariffs imposed by other countries on U.S. goods have not yet had a significant impact, but the company cannot predict further developments. The tariffs and the additional operational costs incurred in minimizing the number of products subject to the tariffs could adversely affect the operating profits of the company and customer demand for certain products which could have an adverse effect on the company s business and results of operations. 
+
+-8-
+
+Table of Contents 
+
+The company is subject to U.S. and certain foreign export and import controls, sanctions, embargoes, anti-corruption laws, and anti-money laundering laws and regulations. In the event of non-compliance, the company can face serious consequences, which can harm its business. 
+
+The company is subject to export control and import laws and regulations, including the U.S. Export Administration Regulations EAR ), U.S. Customs regulations, various economic and trade sanctions regulations administered by the U.S. Treasury Department's Office of Foreign Assets Controls OFAC ). Products the company sells which are either manufactured in the United States or based on U.S. technology ("U.S. Products") are subject to the EAR when exported and re-exported to and from all international jurisdictions, in addition to the local jurisdiction's export regulations applicable to individual shipments. Licenses or proper license exemptions may be required by local jurisdictions' export regulations, including EAR, for the shipment of certain U.S. Products to certain countries, including China, and other countries in which the company operates. Non-compliance with the EAR, OFAC regulations, or other applicable export regulations can result in a wide range of penalties including the denial of export privileges, fines, criminal penalties, and the seizure of inventories. In the event that any export regulatory body determines that any shipments made by the company violate the applicable export regulations, the company could be fined significant sums and/or its export capabilities could be restricted, which could have a material adverse effect on the company's business. 
+
+Further, the company is also subject to the U.S. Foreign Corrupt Practices Act of 1977, as amended, the U.S. domestic bribery statute contained in 18 U.S.C. 201, and other state and national anti-bribery and anti-money laundering laws in the countries in which it conducts business. Anti-corruption laws are interpreted broadly and prohibit companies and their employees, agents, contractors, and other collaborators from authorizing, promising, offering, or providing, directly or indirectly, improper payments or anything else of value to recipients in the public or private sector. The company engages third parties to provide services. The company can be held liable for the corrupt or other illegal activities of its employees, agents, and contractors, even if it does not explicitly authorize or have actual knowledge of such activities. Any violations of the laws and regulations described above may result in substantial civil and criminal fines and penalties, imprisonment, litigation, reputational harm, and other consequences. 
+
+The company is subject to environmental laws and regulations that could materially adversely affect its business. 
+
+A number of jurisdictions in which the company's products are sold have enacted laws addressing environmental and other impacts from product disposal, use of hazardous materials in products, use of chemicals in manufacturing, recycling of products at the end of their useful life, and other related matters. These laws prohibit the use of certain substances in the manufacture of the company's products and impose a variety of requirements for modification of manufacturing processes, registration, chemical testing, labeling, and other matters. Failure to comply with these laws or any other applicable environmental regulations could result in fines or suspension of sales. Additionally, these directives and regulations may result in the company having non-compliant inventory that may be less readily salable or have to be written off. Some environmental laws impose liability, sometimes without fault, for investigating or cleaning up contamination on or emanating from the company's currently or formerly owned, leased, or operated property, as well as for damages to property or natural resources and for personal injury arising out of such contamination. The presence of environmental contamination could also interfere with ongoing operations or adversely affect the company's ability to sell or lease its properties. The discovery of contamination for which the company is responsible, the enactment of new laws and regulations, or changes in how existing regulations are enforced, could require the company to incur costs for compliance or subject it to unexpected liabilities, which could be material. 
+
+The company may not have adequate or cost-effective liquidity or capital resources. 
+
+The company requires cash for general corporate purposes, such as funding its ongoing working capital, acquisitions, and capital expenditure needs. At December 31, 2020, the company had cash and cash equivalents of approximately 6.6 million. The company believes that funds generated from operations, existing cash balances and, if necessary, related party short-term loans, are likely to be sufficient to finance its working capital and capital expenditure requirements for the foreseeable future. If these funds are not sufficient, the company may need to secure new sources of asset-based lending on accounts receivables or issue debt or equity securities. In the event the company requires additional capital to meet its business needs, there can be no assurance that additional funding will be available when needed or, if available, that it can be obtained on commercially reasonable terms. 
+
+-9-
+
+Table of Contents 
+
+The company s revenues and operating results may fluctuate unexpectedly from quarter to quarter, which may in turn affect its stock price. 
+
+The company s quarterly revenues and operating results have fluctuated in the past, and are likely to vary in the future due to the various factors, including: 
+
+General economic conditions affecting spending and the rates of growth or decline in the markets the company services; 
+
+ Variations in product order backlogs, and reductions in the size, delays in the timing, or cancellation of significant customer orders; 
+
+ The timing of introductions and marketplace acceptance of new or enhanced products by the company or its competitors; 
+
+ Expansions or reductions in the company s relationships with its OEM customers; 
+
+ Unforeseen warranty costs that exceed established reserves; 
+
+ Timing and levels of the company s operating expenses; or 
+
+ Emerging new technologies that change the nature of or need for the company s products and components held in inventory. 
+
+We believe that period-to-period comparisons of our operating results may not necessarily be reliable indicators of our future performance. It is likely that in some future period our operating results will not meet your expectations or those of public market analysts. Any unanticipated change in revenues or operating results is likely to cause the company s stock price to fluctuate since such changes reflect new information available to investors and analysts. New information may cause investors and analysts to revalue the company s stock and this, in the aggregate, may cause fluctuations in the company s stock price. 
+
+If the company fails to maintain an effective system of internal controls or discovers material weaknesses in its internal controls over financial reporting, it may not be able to report its financial results accurately or timely or detect fraud, which could have a material adverse effect on its business. 
+
+An effective internal control environment is necessary for the company to produce reliable financial reports, safeguard assets, and is an important part of its effort to prevent financial fraud. The company is required to annually evaluate the effectiveness of the design and operation of its internal controls over financial reporting. Based on these evaluations, the company may conclude that enhancements, modifications, or changes to internal controls are necessary or desirable. While management evaluates the effectiveness of the company's internal controls on a regular basis, these controls may not always be effective. There are inherent limitations on the effectiveness of internal controls, including collusion, management override, and failure in human judgment. In addition, control procedures are designed to reduce rather than eliminate financial statement risk. If the company fails to maintain an effective system of internal controls, or if management or the company's independent registered public accounting firm discovers material weaknesses in the company's internal controls, it may be unable to produce reliable financial reports or prevent fraud, which could have a material adverse effect on the company's business. In addition, the company may be subject to sanctions or investigation by regulatory authorities, such as the SEC or NASDAQ. Any such actions could result in an adverse reaction in the financial markets due to a loss of confidence in the reliability of the company's financial statements, which could cause the market price of its common stock to decline or limit the company's access to capital. 
+
+The company's success depends upon its key executives. 
+
+Any failure to attract and retain necessary talent may materially and adversely affect the company's business, prospects, financial condition, and results of operations. The company's success depends, to a significant extent, on the capability, expertise, and continued services of its senior management team. The company relies on the expertise and experience of certain key executives in developing business strategies, business operations, and maintaining relationships with customers and suppliers. If the company were to lose any of its key executives, it may not be able to find a suitable replacement with comparable knowledge and experience. The company may also need to offer better remuneration and other benefits to attract and retain key executives and therefore cannot be assured that costs and expenses will not increase significantly as a result of increased talent acquisition and retention cost. 
+
+-10-
+
+Table of Contents 
+
+Cyber security and privacy breaches may hurt the company's business, damage its reputation, increase its costs, and cause losses. 
+
+The company's information technology systems could be subject to invasion, cyber-attack, or data privacy breaches by employees, others with authorized access, and unauthorized persons. Such attacks could result in disruption to the company's operations and/or loss or disclosure of, or damage to, the company's or any of its customer's or supplier's data, confidential information, or reputation. The company's information technology systems security measures may also be breached due to employee error, malfeasance, or otherwise. Additionally, outside parties may attempt to fraudulently induce employees, customers, or suppliers to disclose sensitive information in order to gain access to the company's data and information technology systems. Any such breach could result in significant legal and financial exposure, damage to the company's reputation, loss of competitive advantage, and a loss of confidence in the security of the company's information technology systems that could potentially have an impact on the company's business. Because the techniques used to obtain unauthorized access, disable or degrade, or sabotage the company's information technology systems change frequently and often are not recognized until launched, the company may be unable to anticipate these techniques or to implement adequate preventive measures. Further, third parties, such as hosted solution providers, that provide services for the company's operations, could also be a source of security risk in the event of a failure of their own security systems and infrastructure. 
+
+The company makes investments seeking to address risks and vulnerabilities, including ongoing monitoring, updating networks and systems, and personnel awareness training of potential cybersecurity threats to help ensure employees remain diligent in identifying potential risks. In addition, the company has deployed monitoring capabilities to support early detection, internal and external escalation, and effective responses to potential anomalies. As part of the company's review of potential risks, the company analyzes emerging cyber security threats as well as the company's plan and strategies to address them. Although the company has developed systems and processes that are designed to protect information and prevent data loss and other security breaches, including systems and processes designed to reduce the impact of a security breach, such measures cannot provide absolute security. Such breaches, whether successful or unsuccessful, could result in the company incurring costs related to, for example, rebuilding internal systems, defending against litigation, including litigation brought by governmental authorities, responding to regulatory inquiries or actions, paying damages, or taking other remedial steps. Also, global privacy legislation, enforcement, and policy activity are rapidly expanding and creating a complex compliance environment. The company's failure to comply with federal, state, or international privacy related or data protection laws and regulations could result in proceedings against the company by governmental entities or others and other fines or penalties that could have a material adverse effect on the company s business. 
+
+The company relies heavily on its internal information systems, which, if not properly functioning, could materially adversely affect the company's business. 
+
+The company's current global operations reside on multiple technology platforms. The size and complexity of the company's computer systems make them potentially vulnerable to breakdown, malicious intrusion, and random attack. To date, the company has not experienced any identifiable significant issues. Failure to properly or adequately address any unaccounted for or unforeseen issues could impact the company's ability to perform necessary business operations, which could materially adversely affect the company's business. 
+
+The company may be subject to intellectual property rights claims, which are costly to defend, could require payment of damages or licensing fees and could limit the company's ability to use certain technologies in the future. 
+
+Certain of the company's products and services include intellectual property owned primarily by the company's third party suppliers and, to a lesser extent, the company itself. Substantial litigation and threats of litigation regarding intellectual property rights exist in the business in which the company operates. From time to time, third parties (including certain companies in the business of acquiring patents not for the purpose of developing technology but with the intention of aggressively seeking licensing revenue from purported infringers) may assert patent, copyright and/or other intellectual property rights to technologies that are important to the company's business. In some cases, depending on the nature of the claim, the company may be able to seek indemnification from its suppliers for itself and its customers against such claims, but there is no assurance that it will be successful in obtaining such indemnification or that the company is fully protected against such claims. In addition, the company is exposed to potential liability for technology that it develops itself or when it combines multiple technologies of its suppliers for which it may have limited or no indemnification protections. In any dispute involving products or services that incorporate intellectual property from multiple sources or is developed, licensed by the company, or obtained through acquisition, the company's customers could also become the targets of litigation. The company may be obligated in certain instances to indemnify and defend its customers if the products or services the company sells are alleged to infringe any third party's intellectual property rights. Any infringement claim brought against the company, regardless of the duration, outcome, or size of damage award, could result in substantial cost to the company; divert management s attention and resources, be time consuming to defend, result in substantial damages or awards or cause product shipment delays. 
+
+-11-
+
+Table of Contents 
+
+Additionally, if an infringement claim is successful, the company may be required to pay damages or seek royalty or license arrangements, which may not be available on commercially reasonable terms. The payment of any such damages or royalties may significantly increase the company's operating expenses and harm the company's operating results and financial condition. Also, royalty or license arrangements may not be available at all. The company may have to stop selling certain products or using technologies, which could affect the company's ability to compete effectively. 
+
+Public health threats could have an adverse effect on our operations and financial results. 
+
+Public health threats, including COVID-19, could adversely affect the company s ongoing business operations. The outbreak of COVID-19 has severely impacted global economic activity and caused significant volatility in financial markets. The global impact of the outbreak has been rapidly evolving and many countries, including the United States, have reacted by instituting quarantines, mandating business and school closures and restricting travel. As a result, the COVID-19 pandemic is negatively impacting almost every industry directly or indirectly. The company cannot predict the scope and severity of any potential business shutdowns or disruptions, including any future shutdowns relating to COVID-19, but if the company or any of the third parties with whom it engages, including its suppliers, were to experience shutdowns or other business disruptions, the company s ability to conduct its business in the manner and on the timelines presently planned could be materially and negatively impacted, which could have a material adverse effect on the company s business and its results of operation and financial condition. 
+
+Trading in the company s stock has historically been limited and the company s stock price has been volatile, which may affect your ability to sell your shares. 
+
+The average trading volume in the company s stock has been historically low, with little or no trading at all on some days. This, as well as other factors, has caused the price of the company s stock to be volatile. Consequently, it may be difficult to sell your shares of the company s stock at the price you paid for them or at a price equal to that quoted on the NASDAQ Stock Market. In addition, stock markets have experienced extreme price and volume volatility recently. This volatility has had a substantial effect on the market prices of securities of many smaller public companies for reasons frequently unrelated or disproportionate to the operating performance of the specific companies. These market fluctuations may adversely affect the market price of our common stock. 
+
+-12-
+
+Table of Contents 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS. Not applicable. 
+
+ITEM 2. PROPERTIES. 
+
+We own our headquarters and main distribution facility located in Valencia, California. This facility is approximately 50,000 total square feet, of which 40,000 square feet is warehouse space and 10,000 square feet is general office space. We also occasionally sublease approximately 3,500 square feet of our unused office space as rental property to others. We believe this facility is adequately covered by insurance (except earthquake coverage). 
+
+We also have the following properties: (1) we own 4,500 square feet of office space in Shanghai, China - this property is being used as our project design and engineering center and partially as rental property for lease to others and (2) we own 2,500 square feet of office space in Taipei, Taiwan. We believe these existing facilities are adequate for the foreseeable future and have no plans to renovate or expand them. 
+
+During 2019, we sold our 15,000 square foot building in Mexico used for office and warehouse distribution for gross proceeds of 200,000. 
+
+ITEM 3. LEGAL PROCEEDINGS. 
+
+In the ordinary course of business, we may become involved in legal proceedings from time to time. As of the date of this report, we are not aware of any material pending legal proceedings. 
+
+ITEM 4. MINE SAFETY DISCLOSURES. Not applicable. 
+
+-13-
+
+Table of Contents 
+
+PART II 
+
+ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+Market Information. Our Class A common stock is listed on the Nasdaq Capital Market (trading symbol: "TAIT"). 
+
+Number of Shareholders of Record . As of March 15, 2021, there were 15 registered holders of record of our Class A common stock and 1 holder of record of our Class B common stock, which is not traded. We are unable to estimate the total number of shareholders represented by these Class A holders of record, because many these shares are held by brokers beneficially on behalf of shareholders. 
+
+Dividends and Dividend Policy . The declaration and payment of future dividends will be at the discretion of the Board of Directors and will be dependent upon our financial condition, results of operations, capital requirements, and other factors they deem relevant. We are not aware of any contractual or similar restrictions that limit our ability to pay dividends, currently or in the future. See Management s Discussion and Analysis - Results of Operations; Liquidity and Capital Resources. 
+
+During the nine months ended September 30, 2019, we declared and paid quarterly dividends of .03 per share. For the quarter ended December 31, 2019 and for the nine months ended September 30, 2020, we paid quarterly dividends of 0.035 per share. For the quarter ended December 31, 2020, we declared and paid quarterly dividends of .04 per share. 
+
+Securities authorized for issuance under equity compensation plans. 
+
+Equity Compensation Plan Information 
+
+Number of securities to be issued upon exercise of outstanding options, warrants and rights 
+
+Weighted-average exercise price of outstanding options, warrants and rights 
+
+Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a)) 
+
+Plan Category 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Equity compensation plans approved by security holders 
+
+295,500 
+
+1.92 
+
+656,500 
+
+Equity compensation plans not approved by security holders 
+
+- 
+
+- 
+
+- 
+
+Total 
+
+295,500 
+
+1.92 
+
+656,500 
+
+Recent Sales of Unregistered Sales of Equity Securities. None. 
+
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers. None. 
+
+ITEM 6. SELECTED FINANCIAL DATA. Not Applicable. 
+
+-14-
+
+Table of Contents 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+
+This discussion contains forward-looking statements that involve risks and uncertainties that could cause actual results or events to differ materially from those expressed or implied by such forward-looking statements as a result of many important factors, including those set forth in Part I of this Annual Report on Form 10-K under the caption Risk Factors. Please see Cautionary Note Regarding Forward-Looking Statements in Part I above. We do not undertake any obligation to update forward-looking statements to reflect events or circumstances occurring after the date of this Annual Report. The following discussion should be read in conjunction with the consolidated financial statements, including the related notes, appearing in Item 8 of this Annual Report on Form 10-K. 
+
+Critical Accounting Policies and Estimates 
+
+Use of Estimates We have made a number of estimates and assumptions relating to the reporting of assets and liabilities and the disclosure of contingent assets and liabilities to prepare our consolidated financial statements included in Item 8 of this Annual Report on Form 10-K in accordance with generally accepted accounting principles in the United States. These estimates have a significant impact on our valuation and reserve accounts relating to the allowance for sales returns and allowances, doubtful accounts, inventory reserves and deferred income taxes. Actual results could differ from these estimates. 
+
+Revenue Recognition Revenue is recognized at the point at which control of the underlying products are transferred to the customer. Satisfaction of our performance obligations occur upon the transfer of control of products, either from our facilities or directly from suppliers to customers. We consider customer purchase orders to be the contracts with a customer. All revenue is generated from contracts with customers. Reserves for sales allowances and customer returns are established based upon historical experience and our estimates of future returns. Sales returns for both years ended December 31, 2020 and 2019 aggregated 5,000. The allowance for sales returns and allowances and doubtful accounts at December 31, 2020 and 2019 aggregated 7,000 and 19,000, respectively. We review the actual sales returns and bad debts for our customers and establish an estimate of future returns and an allowance for doubtful accounts. 
+
+Inventory - Inventory, consisting principally of products held for resale, is recorded at the lower of cost (determined using the first in-first out method) and net realizable value. We had inventory balances in the amount of 3,518,000 and 3,588,000 at December 31, 2020 and 2019, respectively, which is presented net of valuation allowances of 4,759,000 and 5,893,000 at December 31, 2020 and 2019, respectively. We increased our reserves by 0 and 405,000 during the years ended December 31, 2020 and 2019, respectively, while also applying 1,134,000 and 1,701,000 of our existing reserves to the underlying inventory values during the years ended December 31, 2020 and 2019, respectively. We evaluate inventories to identify excess, high-cost, slow-moving or other factors rendering inventories as unmarketable at normal profit margins. Due to the large number of transactions and the complexity of managing and maintaining a large inventory of product offerings, estimates are made regarding adjustments to the cost of inventories. If our assumptions about future demand change, or market conditions are less favorable than those projected, additional write-downs of inventories may be required. In any case, actual amounts could be different from those estimated. 
+
+Deferred Taxes If determined that it is more likely than not that we will not realize all or part of our net deferred tax assets in the future, we record a valuation allowance against the deferred tax assets, which allowance will be charged to income tax expense in the period of such determination. We also consider the scheduled reversal of deferred tax liabilities, tax planning strategies and future taxable income in assessing if deferred tax assets could be realized. We also consider the weight of both positive and negative evidence in determining whether a valuation allowance is needed. However, due to a period of consistent losses through December 31, 2016, we have fully reserved a 2,121,000 and 2,587,000 allowance against our net deferred tax assets at December 31, 2020 and 2019, respectively. 
+
+Overview 
+
+We are primarily focused on supplying ODM products for our OEM customer s multi-year turn-key projects. We also distribute discrete semiconductors, commodity Integrated Circuits (ICs), optoelectronic devices and passive components to other electronic distributors, CEMs and OEMs, who incorporate them in their products. 
+
+Our core strategy has shifted to primarily focus on higher margin ODM Projects that require custom products designed for specific applications to OEM customers, and away from actively marketing our superstore strategy of maintaining a vast quantity of electronic components to fill customer orders immediately from available stock held in inventory. As a result, we expect our components inventory will be more passively marketed and distributed online for clearance through our internet sales portal, however at potentially lower rates due to the pricing pressures normally attributed with online shopping. In 2019, we recorded a 405,000 increase to our inventory reserves. 
+
+-15-
+
+Table of Contents 
+
+In accordance with generally accepted accounting principles, we have classified inventory as a current asset in our December 31, 2020, consolidated financial statements representing approximately 32.4 of current assets and 24.6 of total assets. However, if all or a substantial portion of the inventory was required to be immediately liquidated, the inventory would not be as readily marketable or liquid as other items included or classified as a current asset, such as cash. We cannot assure you that demand in the discrete semiconductor market will increase and that market conditions will improve. Therefore, it is possible that further declines in our carrying values of inventory may result. 
+
+Our gross profit margins are subject to a number of factors, including product demand, the relative strength of the U.S. dollar, provisions for inventory reserves, our ability to purchase inventory at favorable prices and our sales product mix. 
+
+Results of Operations 
+
+The Year Ended December 31, 2020 Compared to the Year Ended December 31, 2019 
+
+Net sales were 6,696,000 and 6,783,000 in 2020 and 2019, respectively, representing a decrease of 87,000 or 1.3 . The decrease was primarily in ODM Projects and owing to slowing demand by our customer inventory reductions. Key customers of our ODM Projects have variable life cycles and production demands. As some projects are accelerating and others approach end of life, the timing of new production creates a fluctuation in sales. In the first quarter of 2021, we do not expect net sales to be impacted significantly by the ongoing outbreak of COVID-19 as a result of inventory on hand to fulfill customer orders. 
+
+Gross profit was 3,281,000 and 3,076,000 in 2020 and 2019, respectively, which represented 49 and 45.3 of net sales for those periods. The gross margin increase was driven primarily by an increase in ODM Project sales volume, offset by inventory reserve increases in 2019. During 2020, we remained impacted by tariff costs on certain products imported from China, which went into effect as of July 6, 2018. However, we continue to pass along a portion of these costs to our customers to mitigate these costs. 
+
+Selling, general and administrative expenses were 2,227,000 and 2,378,000 in 2020 and 2019, respectively, which represented 33.3 and 35.1 of net sales for those periods. The year-over-year decrease of 151,000 was primarily due to travel expenses decreasing and decreases to professional fees. 
+
+Operating income was 1,054,000 and 698,000 in 2020 and 2019, respectively, which represented 15.7 and 10.3 of net sales for those periods. 
+
+Net interest income, primarily earned from certificates of deposits in banks was 37,000 and 28,000 in 2020 and 2019, respectively. 
+
+Income tax provision was 4,000 and 0 in 2020 and 2019, respectively. Our tax provision is primarily based upon our state income tax liabilities. 
+
+As result of the foregoing, we recognized net income of 1,359,000 and 773,000 in 2020 and 2019, respectively, which represented 20.3 and 11.4 of net sales for those periods. 
+
+Liquidity and Capital Resources 
+
+We historically have satisfied our liquidity requirements through cash generated from operations, short-term commercial loans, subordinated related party promissory notes and issuance of equity securities. A summary of our cash flows resulting from our operating, investing and financing activities for the years ended December 31, 2020 and 2019 were as follows: 
+
+Twelve Months Ended December 31, 
+
+2020 
+
+2019 
+
+Operating activities 
+
+2,052,000 
+
+1,413,000 
+
+Investing activities 
+
+(17,000 
+
+(3,000 
+
+Financing activities 
+
+(592,000 
+
+(591,000 
+
+Cash provided by operating activities increased to 2,052,000 during 2020, as compared to 1,413,000 in the prior year. The 639,000 increase was primarily due to changes in inventory and accounts receivable and net income increasing by 553,000 during 2020. 
+
+-16-
+
+Table of Contents 
+
+Cash used for investing activities was 17,000 during 2020, as compared to 3,000 in the prior year. The change primarily resulted in year 2019 from the sale of our Mexico building for gross proceeds of 200,000 offset by payments of 186,000 for an additional investment in Zowie Technology (see Item 8 - Note 4 Other Assets). 
+
+Cash used in financing activities was 592,000 during 2020, as compared to 591,000 in the prior year. In 2020, we received loan proceeds in the amount of approximately 163,000 from the Small Business Administration SBA under the Paycheck Protection Program PPP (see Item 8 - Note 5 Long Term Debt), made dividend payments of 840,000 and received proceeds from the exercise of stock options of 85,000. In 2019, we made dividend payments of 717,000 and received proceeds from the exercise of stock options of 126,000. 
+
+We believe that funds generated from operations, existing cash balances and, if necessary, related party short-term loans, are likely to be sufficient to finance our working capital and capital expenditure requirements for the foreseeable future. If these funds are not sufficient, we may secure new sources of asset-based lending on accounts receivables or issue debt or equity securities. Otherwise, we may need to liquidate assets to generate the necessary working capital. 
+
+Inventory is included and classified as a current asset. As of December 31, 2020, inventory represented approximately 32.4 of current assets and 24.6 of total assets. However, it is likely to take over one (1) year for the inventory to turn and therefore is likely not saleable within a one (1) year time frame. Hence, inventory would not be as readily marketable or liquid as other items included in current assets, such as cash. 
+
+Recent Accounting Pronouncements 
+
+Refer to Note 1 of our consolidated financial statements for recent accounting pronouncements. 
+
+Off-Balance Sheet Arrangements 
+
+We had no material off-balance sheet arrangements that have, or are likely to have, a current or future material effect on our operations. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. Not applicable. 
+
+-17-
+
+Table of Contents 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm 
+
+19 
+
+Consolidated Balance Sheets 
+
+21 
+
+Consolidated Statements of Operations and Comprehensive Income 
+
+22 
+
+Consolidated Statements of Shareholders' Equity 
+
+23 
+
+Consolidated Statements of Cash Flows 
+
+24 
+
+Notes to Consolidated Financial Statements 
+
+25 
+
+-18-
+
+Table of Contents 
+
+18012 Sky Park Circle, Suite 200 
+
+			 Irvine, California 92614 
+
+			 tel 949-852-1600 
+
+			 fax 949-852-1606 
+
+			 www.rjicpas.com 
+
+Report of Independent Registered Public Accounting Firm 
+
+To the Board of Directors 
+
+ Taitron Components Incorporated 
+
+Opinion on the Consolidated Financial Statement 
+
+We have audited the accompanying consolidated balance sheets of Taitron Components Incorporated (the Company as of December 31, 2020 and 2019 and the related consolidated statements of operations and comprehensive income, shareholders equity and cash flows for the years then ended and the related notes to consolidated financial statements (collectively, the consolidated financial statements ). 
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the consolidated financial position of the Company as of December 31, 2020 and 2019 and the results of their operations and their cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Security and Exchange Commission and the PCAOB. 
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audit included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error fraud, and performing procedures that respond to those risks. Such procedures include examining, on a test basis, evidence supporting the amounts and disclosures in the consolidated financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+Critical audit matters 
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to the Audit Committee of the Board of Directors and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2) involved challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions on the critical audit matter or on the accounts or disclosures to which they relate. 
+
+-19-
+
+Table of Contents 
+
+Assessment of reserves for slow-moving or potential obsolescence 
+
+As discussed in Note 1 and 2 to the consolidated financial statements, the Company assesses the valuation of its inventories, which principally consists of products held for resale, each reporting period. Slow-moving inventory or inventory with potential obsolescence is written down to its estimated net realizable value if less than cost. Estimates of slow-moving or potential obsolescence include the Company s analysis of anticipated demand, possible alternative uses of its inventory, as well as other qualitative factors. As of December 31, 2020, the Company s inventories totaled 3,518,000, net of reserves for slow-moving or potential obsolescence of 4,759,000. 
+
+We identified the assessment of the value of the reserves for slow-moving or potential obsolescence as a critical audit matter. Subjective auditor judgment was required to evaluate the Company s estimates of anticipated demand and possible alternative uses of its inventory, which are affected by market and economic conditions outside the Company s control. 
+
+The primary procedures we performed to address the critical audit matter included, among other things, the following: 1) evaluation of the completeness, accuracy, and relevance of underlying data used in the estimate of the reserve; 2) development of an independent estimate of the reserve using historical information and compared it to management s reserve; and 3) comparison of the reserve as of December 31, 2020 to the actual reserve recorded subsequent to the measurement date. 
+
+We have served as the Company s auditor since 2020. 
+
+Irvine, California 
+
+ March 31, 2021 
+
+-20-
+
+Table of Contents 
+
+TAITRON COMPONENTS INCORPORATED AND SUBSIDIARY 
+
+Consolidated Balance Sheets 
+
+December 31, 
+
+December 31, 
+
+2020 
+
+2019 
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+6,652,000 
+
+5,313,000 
+
+Accounts receivable, less allowances of 7,000, and 19,000 respectively 
+
+639,000 
+
+1,022,000 
+
+Inventories, less reserves for obsolescence of 4,759,000, and 5,893,000, respectively (Note 2) 
+
+3,518,000 
+
+3,588,000 
+
+Prepaid expenses and other current assets 
+
+46,000 
+
+85,000 
+
+Total current assets 
+
+10,855,000 
+
+10,008,000 
+
+Property and equipment, net 
+
+3,217,000 
+
+3,386,000 
+
+Other assets (Note 3) 
+
+189,000 
+
+205,000 
+
+Total assets 
+
+14,261,000 
+
+13,599,000 
+
+Liabilities and Equity 
+
+Current liabilities: 
+
+Accounts payable 
+
+410,000 
+
+462,000 
+
+Accrued liabilities 
+
+446,000 
+
+322,000 
+
+Total current liabilities 
+
+856,000 
+
+784,000 
+
+Long-term debt (Note 4) 
+
+163,000 
+
+- 
+
+Total liabilities 
+
+1,019,000 
+
+784,000 
+
+Commitments and contingencies (Note 6) 
+
+Equity: 
+
+Shareholders' equity: 
+
+Preferred stock, 0.001 par value. Authorized 5,000,000 shares; 
+
+			 None issued or outstanding 
+
+- 
+
+- 
+
+Class A common stock, 0.001 par value. Authorized 20,000,000 shares; 
+
+			 5,062,235 and 4,990,235 shares issued and outstanding, respectively 
+
+5,000 
+
+5,000 
+
+Class B common stock, 0.001 par value. Authorized, issued and outstanding 762,612 shares 
+
+1,000 
+
+1,000 
+
+Additional paid-in capital 
+
+11,071,000 
+
+10,959,000 
+
+Accumulated other comprehensive income 
+
+(66,000 
+
+38,000 
+
+Retained earnings 
+
+2,231,000 
+
+1,712,000 
+
+Total shareholders equity - Taitron Components Inc. 
+
+13,242,000 
+
+12,715,000 
+
+Noncontrolling interest in subsidiary 
+
+- 
+
+100,000 
+
+Total equity 
+
+13,242,000 
+
+12,815,000 
+
+Total liabilities and equity 
+
+14,261,000 
+
+13,599,000 
+
+See accompanying notes to consolidated financial statements. 
+
+-21-
+
+Table of Contents 
+
+TAITRON COMPONENTS INCORPORATED AND SUBSIDIARY 
+
+Consolidated Statements of Operations and Comprehensive Income 
+
+Twelve Months Ended December 31, 
+
+2020 
+
+2019 
+
+Net product revenue 
+
+6,696,000 
+
+6,783,000 
+
+Cost of products sold 
+
+3,415,000 
+
+3,707,000 
+
+Gross profit 
+
+3,281,000 
+
+3,076,000 
+
+Selling, general and administrative expenses 
+
+2,227,000 
+
+2,378,000 
+
+Operating income 
+
+1,054,000 
+
+698,000 
+
+Interest income, net 
+
+37,000 
+
+28,000 
+
+Loss on investments 
+
+- 
+
+(193,000 
+
+Other income, net 
+
+272,000 
+
+273,000 
+
+Income before income taxes 
+
+1,363,000 
+
+806,000 
+
+Income tax provision 
+
+(4,000 
+
+- 
+
+Net income 
+
+1,359,000 
+
+806,000 
+
+Net income attributable to noncontrolling interests 
+
+- 
+
+33,000 
+
+Net income attributable to Taitron Components Inc. 
+
+1,359,000 
+
+773,000 
+
+Net income per share: Basic - Class A 
+
+0.23 
+
+0.14 
+
+Basic - Class B 
+
+0.23 
+
+0.14 
+
+Diluted - Class A 
+
+0.23 
+
+0.13 
+
+Diluted - Class B 
+
+0.23 
+
+0.14 
+
+Weighted average shares outstanding: Basic - Class A 
+
+5,035,277 
+
+4,961,610 
+
+Basic - Class B 
+
+762,612 
+
+762,612 
+
+Diluted - Class A 
+
+5,091,277 
+
+5,077,610 
+
+Diluted - Class B 
+
+762,612 
+
+762,612 
+
+Cash dividends declared per common share 
+
+0.145 
+
+0.125 
+
+Net income 
+
+1,359,000 
+
+806,000 
+
+Other comprehensive income: 
+
+Foreign currency translation adjustment 
+
+(104,000 
+
+(90,000 
+
+Comprehensive income 
+
+1,255,000 
+
+716,000 
+
+Comprehensive income(loss) attributable to noncontrolling interests 
+
+(100,000 
+
+4,000 
+
+Comprehensive income attributable to Taitron Components Inc. 
+
+1,355,000 
+
+712,000 
+
+See accompanying notes to consolidated financial statements. 
+
+-22-
+
+Table of Contents 
+
+TAITRON COMPONENTS INCORPORATED AND SUBSIDIARY 
+
+Consolidated Statements of Shareholders Equity 
+
+For the years ended December 31, 2020 and December 31, 2019 
+
+Total 
+
+Accumulated 
+
+Shareholders 
+
+Common Stock 
+
+Additional 
+
+Other 
+
+Taitron 
+
+Class A 
+
+Class B 
+
+Paid-in 
+
+Comprehensive 
+
+Retained 
+
+Components 
+
+Noncontrolling 
+
+Total 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+capital 
+
+Income (Loss) 
+
+Earnings 
+
+Equity 
+
+Interest in Sub 
+
+Equity 
+
+Balances at December 31, 2018 
+
+4,867,235 
+
+5,000 
+
+762,612 
+
+1,000 
+
+10,812,000 
+
+128,000 
+
+1,656,000 
+
+12,602,000 
+
+96,000 
+
+12,698,000 
+
+Consolidated net income 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+773,000 
+
+773,000 
+
+4,000 
+
+777,000 
+
+Other comprehensive loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(90,000 
+
+- 
+
+(90,000 
+
+- 
+
+(90,000 
+
+Exercise stock options 
+
+123,000 
+
+- 
+
+- 
+
+- 
+
+126,000 
+
+- 
+
+- 
+
+126,000 
+
+- 
+
+126,000 
+
+Amortization of stock based compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+21,000 
+
+- 
+
+- 
+
+21,000 
+
+- 
+
+21,000 
+
+Cash dividends 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(717,000 
+
+(717,000 
+
+- 
+
+(717,000 
+
+Balances at December 31, 2019 
+
+4,990,235 
+
+5,000 
+
+762,612 
+
+1,000 
+
+10,959,000 
+
+38,000 
+
+1,712,000 
+
+12,715,000 
+
+100,000 
+
+12,815,000 
+
+Consolidated net income 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+1,359,000 
+
+1,359,000 
+
+(100,000 
+
+1,259,000 
+
+Other comprehensive loss 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(104,000 
+
+- 
+
+(104,000 
+
+- 
+
+(104,000 
+
+Exercise stock options 
+
+72,000 
+
+- 
+
+- 
+
+- 
+
+85,000 
+
+- 
+
+- 
+
+85,000 
+
+- 
+
+85,000 
+
+Amortization of stock based compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+27,000 
+
+- 
+
+- 
+
+27,000 
+
+- 
+
+27,000 
+
+Cash dividends 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(840,000 
+
+(840,000 
+
+- 
+
+(840,000 
+
+Balances at December 31, 2020 
+
+5,062,235 
+
+5,000 
+
+762,612 
+
+1,000 
+
+11,071,000 
+
+(66,000 
+
+2,231,000 
+
+13,242,000 
+
+- 
+
+13,242,000 
+
+See accompanying notes to consolidated financial statements. 
+
+-23-
+
+Table of Contents 
+
+TAITRON COMPONENTS INCORPORATED AND SUBSIDIARY 
+
+Consolidated Statements of Cash Flows 
+
+Twelve Months Ended December 31, 
+
+2020 
+
+2019 
+
+Operating activities: 
+
+Net income 
+
+1,359,000 
+
+806,000 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+186,000 
+
+178,000 
+
+Provision for inventory reserves 
+
+- 
+
+405,000 
+
+Reversal of inventory reserves 
+
+(1,134,000 
+
+(1,701,000 
+
+Provision for sales returns and doubtful accounts 
+
+5,000 
+
+5,000 
+
+Stock based compensation 
+
+27,000 
+
+21,000 
+
+Loss on investments 
+
+- 
+
+193,000 
+
+Gain on sale of assets 
+
+- 
+
+(160,000 
+
+Noncontrolling interest 
+
+(100,000 
+
+- 
+
+Changes in assets and liabilities: 
+
+Accounts receivable 
+
+378,000 
+
+(126,000 
+
+Inventories 
+
+1,204,000 
+
+2,305,000 
+
+Prepaid expenses and other current assets 
+
+39,000 
+
+(18,000 
+
+Accounts payable 
+
+(52,000 
+
+(510,000 
+
+Accrued liabilities 
+
+124,000 
+
+11,000 
+
+Other assets and liabilities 
+
+16,000 
+
+4,000 
+
+Total adjustments 
+
+693,000 
+
+607,000 
+
+Net cash provided by operating activities 
+
+2,052,000 
+
+1,413,000 
+
+Investing activities: 
+
+Acquisition of property and equipment 
+
+(17,000 
+
+(17,000 
+
+Proceeds from sale of assets 
+
+- 
+
+200,000 
+
+Payment for investment in convertible securities 
+
+- 
+
+(186,000 
+
+Net cash used for investing activities 
+
+(17,000 
+
+(3,000 
+
+Financing activities: 
+
+Borrowings on notes payable 
+
+163,000 
+
+- 
+
+Dividend payments 
+
+(840,000 
+
+(717,000 
+
+Proceeds from stock options exercised 
+
+85,000 
+
+126,000 
+
+Net cash used for financing activities 
+
+(592,000 
+
+(591,000 
+
+Impact of exchange rates on cash 
+
+(104,000 
+
+- 
+
+Net increase in cash and cash equivalents 
+
+1,339,000 
+
+819,000 
+
+Cash and cash equivalents, beginning of period 
+
+5,313,000 
+
+4,494,000 
+
+Cash and cash equivalents, end of period 
+
+6,652,000 
+
+5,313,000 
+
+Supplemental disclosures of cash flow information: 
+
+Cash paid for interest 
+
+- 
+
+- 
+
+Cash paid for income taxes, net 
+
+3,000 
+
+3,000 
+
+See accompanying notes to consolidated financial statements. 
+
+-24-
+
+Table of Contents 
+
+TAITRON COMPONENTS INCORPORATED AND SUBSIDIARY 
+
+Notes to Consolidated Financial Statements 
+
+1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Overview of Business 
+
+We are primarily a supplier of original designed and manufactured (ODM) electronic components ODM Components with our product offerings ranging from discrete semiconductors through small electronic devices. Our products include value-added engineering and turn-key solutions, focusing on providing contract electronic manufacturers (CEMs) and original equipment manufacturers (OEMs) with ODM products for their multi-year turn-key projects ODM Projects ). We also distribute brand name electronic components with a vast inventory available on hand. We are incorporated in California, and were originally formed in 1989. We maintain divisions in Taiwan and China which were established in 1996 and 2005, respectively. 
+
+Basis of Presentation 
+
+The accompanying consolidated financial statements have been prepared in accordance with generally accepted accounting principles GAAP as promulgated in the United States of America. 
+
+Principles of Consolidation 
+
+Our consolidated financial statements include the accounts of Taitron Components and its two divisions. 
+
+Concentration of Risk 
+
+A significant number of the products we distribute are manufactured in Taiwan, Hong Kong, China, South Korea and the Philippines. The purchase of goods manufactured in foreign countries is subject to a number of risks, including economic disruptions, transportation delays and interruptions, foreign exchange rate fluctuations, imposition of tariffs and import and export controls and changes in governmental policies, any of which could have a material adverse effect on our business and results of operations. 
+
+The ability to remain competitive with respect to the pricing of imported components could be adversely affected by increases in tariffs or duties, changes in trade treaties, strikes in air or sea transportation, and possible future U.S. legislation with respect to pricing and import quotas on products from foreign countries. For example, it is possible that political or economic developments in China, or with respect to the relationship of the United States with China, could have an adverse effect on our business. Our ability to remain competitive could also be affected by other government actions related to, among other things, anti-dumping legislation and international currency fluctuations. While we do not believe that any of these factors adversely impact our business at present, we cannot provide assurance that these factors will not materially adversely affect us in the future. Any significant disruption in the delivery of merchandise from our suppliers, substantially all of whom are foreign, could also have a material adverse impact on our business and results of operations. Management estimates that over 90 of our products purchased were produced in Asia. 
+
+Grand Shine Electronics and Zowie Technology (see also Note 4 Other Assets) accounted for approximately 35 and 15 of our net purchases for each of the fiscal years 2020 and 2019, respectively. However, we do not regard any one supplier as essential to our operations, since equivalent replacements for most of our products are either available from one or more of our other suppliers or are available from various other sources at competitive prices. We believe that, even if we lose our direct relationship with a supplier, there exist alternative sources for a supplier s products. 
+
+We had customers accounting for more than 10 of our net sales. In 2020, we had two customers each for approximately 45 and 14 , and in 2019, we had two customers each for approximately 42 and 17 . 
+
+We had customers accounting for more than 10 of our trade accounts receivable, net of allowances. As of December 31, 2020, we had two customers each of approximately 50 and 25 and as of December 31, 2019 we had two customers each of approximately 63 and 25 . 
+
+Risks and Uncertainties 
+
+In 2020, the spread of COVID-19 has caused significant volatility in U.S. and international markets. There is significant uncertainty around the breadth and duration of business disruptions related to COVID-19, as well as its impact on the U.S. and international economies and, as such, we are unable to determine if it will have a material impact to our operations and cash flows. 
+
+-25-
+
+Table of Contents 
+
+Cash and Cash Equivalents 
+
+Cash and cash equivalents include cash on hand and on deposit at banking institutions as well as all highly liquid short-term investments with original maturities of 90 days or less. Our cash equivalents are comprised primarily of money market investments. Our deposit accounts are not insured, however, we do not believe there is a significant credit risk with respect to the non-performance of these institutions based on their respective creditworthiness and liquidity. 
+
+Revenue Recognition 
+
+We recognize revenue from contracts with customers in accordance with Financial Accounting Standards Board FASB ASC Topic 606, Revenue from Contracts with Customers ASC 606 ). Revenue is recognized at the point at which control of the underlying products are transferred to the customer. Satisfaction of our performance obligations occur upon the transfer of control of products, either from our facilities or directly from suppliers to customers. We consider customer purchase orders to be the contracts with a customer. All revenue is generated from contracts with customers. Reserves for sales allowances and customer returns are established based upon historical experience and management s estimates of future returns. Sales returns for each of the years ended December 31, 2020 and 2019 amounted to 5,000. 
+
+Business Segments 
+
+We operate in one industry, the business of supplying ODM products and electronic components. Management designates the internal reporting used by the chief executive officer for making decisions and assessing performance as the source of our reportable segments. See Note 13 to the consolidated financial statements Geographic Information, for additional information. 
+
+Nature of products 
+
+We are primarily a supplier of original designed and manufactured (ODM) products that include value-added engineering and turn-key solutions. The following is a description of major products lines from which we generate our revenue: 
+
+ODM Projects - Our custom made small devices for original equipment manufacturers (OEMs) and contract electronic manufacturers (CEMs) in their multi-year turn-key projects and marketed in specific industries such as: wild animal feeders, timers for DC motors, public street light controllers, and battery chargers. 
+
+ODM Components - Our private labeled electronic components. 
+
+Distribution Components - Our name brand electronic components. 
+
+Disaggregation of revenue 
+
+In the following table, revenue is disaggregated by primary geographical market, major product line, and timing of revenue recognition. 
+
+Twelve Months Ended December 31, 
+
+2020 
+
+2019 
+
+Primary geographical markets: 
+
+United States 
+
+5,955,000 
+
+5,809,000 
+
+Asia 
+
+722,000 
+
+950,000 
+
+Other 
+
+19,000 
+
+24,000 
+
+6,696,000 
+
+6,783,000 
+
+Major product lines: 
+
+ODM projects 
+
+3,936,000 
+
+4,012,000 
+
+ODM components 
+
+2,552,000 
+
+2,586,000 
+
+Distribution components 
+
+208,000 
+
+185,000 
+
+6,696,000 
+
+6,783,000 
+
+Timing of revenue recognition: 
+
+Products transferred at a point in time 
+
+6,696,000 
+
+6,783,000 
+
+-26-
+
+Table of Contents 
+
+Allowances for Sales Returns and Doubtful Accounts 
+
+Sales Returns - We may, on a case-by-case basis, accept returns of products from our customers, without restocking charges, when they can demonstrate an acceptable cause for the return. Requests by a distributor to return products purchased for its own inventory generally are not included under this policy. We may, on a case-by-case basis, accept returns of products upon payment of a restocking fee, which is generally 10 to 30 of the net sales price. We will not accept returns of any products that were special-ordered by a customer or that otherwise are not generally included in our inventory. 
+
+Doubtful Accounts - Accounts receivable are recorded at net realizable value or the amount we expect to collect on gross customer trade receivables. We evaluate the collectability of our accounts receivable based on a combination of factors. If we become aware of a customer s inability to meet its financial obligations after a sale has occurred, we record an allowance to reduce the net receivable to the amount we reasonably believe we will be able to collect from the customer. For all other customers, we recognize allowances for doubtful accounts based on the length of time the receivables are past due, the current business environment and historical experience. If the financial condition of our customers were to deteriorate or if economic conditions worsen, additional allowances may be required in the future. All of our accounts receivables are trade-related receivables. 
+
+The allowances for sales returns and doubtful accounts at December 31, 2020 and 2019 amounted to 7,000 and 19,000, respectively. 
+
+Inventory 
+
+Inventory, consisting principally of products held for resale, is stated at the lower of cost, using the first-in, first-out method, and net realizable value. The amount presented in the accompanying consolidated balance sheet is net of valuation allowances of 4,759,000 and 5,893,000 at December 31, 2020 and 2019, respectively. 
+
+Based upon regular evaluations of inventory to identify costs in excess of the lower of cost and net realizable value, slow-moving inventory and potential obsolescence, we increased our reserves by 0 and 405,000 during the years ended December 31, 2020 and 2019, respectively, while also applying 1,134,000 and 1,701,000 of our existing reserves to the underlying inventory values during the years ended December 31, 2020 and 2019, respectively (see Note 2 Inventory). 
+
+Property and Equipment 
+
+Property and equipment are carried at cost less accumulated depreciation and amortization. Depreciation and amortization of property and equipment are computed principally using accelerated and straight-line methods using lives from 5 to 7 years for furniture, equipment, computer software and hardware and 31.5 years for building and building improvements. Property and equipment amortized using an accelerated method does not result in a material difference over the straight-line method. Renewals and betterments, which extend the life of an existing asset, are capitalized while normal repairs and maintenance costs are expensed as incurred. 
+
+Investments 
+
+Investments are accounted for using the equity method if the investment provides us the ability to exercise significant influence, but not control, over an investee. Significant influence is generally deemed to exist if we have an ownership interest in the voting stock of the investee between 20 and 50 , although other factors, such as representation on the investee's Board of Directors, are considered in determining whether the equity method is appropriate. 
+
+All other equity investments, which consist of investments for which we do not possess the ability to exercise significant influence, are accounted for under the cost method. Under the cost method of accounting, investments are carried at cost and are adjusted only for other-than-temporary declines in realizable value and additional investments. 
+
+Impairment of Long-Lived Assets and Long-Lived Assets to Be Disposed Of 
+
+In accordance with ASC 360, we evaluate long-lived assets for impairment whenever events or changes in circumstances indicate that their net book value may not be recoverable. When such factors and circumstances exist, we compare the projected undiscounted future cash flows associated with the related asset or group of assets over their estimated useful lives against their respective carrying amount. Impairment, if any, is based on the excess of the carrying amount over the fair value, based on market value when available, or discounted expected cash flows, of those assets and is recorded in the period in which the determination is made. We currently believe there is no impairment of our long-lived assets. There can be no assurance, however, that market conditions will not change or demand for our products under development will continue. Either of these could result in future impairment of long-lived assets. 
+
+-27-
+
+Table of Contents 
+
+Marketing 
+
+Marketing costs consist primarily of payroll and related expenses for personnel engaged in marketing, business development, and selling activities. Advertising, including other promotional costs, are expensed as incurred, and were 3,000 and 4,000 for the years ended December 31, 2020 and 2019, respectively. 
+
+Shipping Activities 
+
+Outbound shipping charges to customers are included in Net sales . Outbound shipping-related costs are included in Cost of goods sold . 
+
+Stock-Based Compensation 
+
+We account for all share-based compensation in accordance ASC 718-20. Stock-based compensation cost is measured at the grant date, based on the estimated fair value of the award, and is recognized as expense over the requisite vesting period. 
+
+Income Taxes 
+
+We account for income taxes under the asset and liability method. Deferred tax assets and liabilities are recognized for future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which the temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. Valuation allowances are recorded, when necessary, to reduce deferred tax assets to the amount expected to be realized. 
+
+ASC 740, Income Taxes ASC 740 ), which clarifies the accounting and disclosure for uncertainty in tax positions, as defined, seeks to reduce the diversity in practice associated with certain aspects of the recognition and measurement related to accounting for income taxes. We adopted the provisions of ASC 740 as of January 1, 2007, and have analysed filing positions in each of the federal and state jurisdictions where we are required to file income tax returns, as well as all open tax years in these jurisdictions. We have identified the U.S. federal and California as our "major" tax jurisdictions. With limited exceptions, we remain subject to Internal Revenue Service IRS examination of our income tax returns filed within the last three (3) years, and to California Franchise Tax Board examination of our income tax returns filed within the last four (4) years. However, we have certain tax attribute carryforwards which will remain subject to review and adjustment by the relevant tax authorities until the statute of limitations closes with respect to the year in which such attributes are utilized. 
+
+We believe that our income tax filing positions and deductions will be sustained on audit and do not anticipate any adjustments that will result in a material change to our financial position. Therefore, no reserves for uncertain income tax positions have been recorded pursuant to ASC 740. Our policy for recording interest and penalties associated with income-based tax audits is to record such items as a component of income taxes. 
+
+Fair Value Measurements 
+
+When determining the fair value measurements for assets and liabilities required or permitted to be recorded at fair value, we consider the principal or most advantageous market in which we would transact and consider assumptions that market participants would use when pricing the asset or liability, such as inherent risk, transfer restrictions, and risk of nonperformance. We use the following three levels of inputs in determining the fair value of our assets and liabilities, focusing on the most observable inputs when available: 
+
+Level 1 - Unadjusted quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities. 
+
+Level 2 - Quoted prices in markets that are not active; or other inputs that are observable, either directly or indirectly, for substantially the full term of the asset or liability. 
+
+Level 3 - Prices or valuation techniques that require inputs that are both significant to the fair value measurement and unobservable. 
+
+To the extent that valuation is based on models or inputs that are less observable or unobservable in the market, the determination of fair value requires more judgment. In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. In such cases, for disclosure purposes, the level in the fair value hierarchy within which the fair value measurement is disclosed is determined based on the lowest level input that is significant to the fair value measurement. 
+
+-28-
+
+Table of Contents 
+
+Net Income Per Share 
+
+Basic income per share is computed by dividing net income available to common shareholders by the weighted average number of common shares outstanding during the period. Diluted income per share includes potentially dilutive securities such as outstanding options and warrants, using the treasury stock method in the determination of dilutive shares outstanding during each reporting period. 
+
+Foreign Currency Translation 
+
+The financial statements of our divisions in Taiwan and China are translated from the Taiwanese Dollar and the Chinese Yuan, respectively, into U.S. dollars for financial reporting purposes. Balance sheet accounts are translated at year-end or historical rates while income and expenses are translated at weighted-average exchange rates for the year. Translation gains or losses related to net assets are shown as a separate component of shareholders equity as accumulated other comprehensive income. Gains and losses resulting from realized foreign currency transactions (transactions denominated in a currency other than the entities functional currency) are included in operations. The transactional gains and losses are not significant to the consolidated financial statements. 
+
+Use of Estimates 
+
+Our management has made a number of estimates and assumptions relating to the reporting of assets and liabilities and the disclosure of contingent assets and liabilities to prepare these consolidated financial statements in conformity with accounting principles generally accepted in the United States of America. These estimates have a significant impact on our valuation and reserve accounts relating to income taxes, the allowance for sales returns and allowances, doubtful accounts and inventory reserves. Actual results could differ from these estimates. 
+
+New Accounting Pronouncements 
+
+In June 2016, the Financial Accounting Standards Board FASB issued Accounting Standards Update (ASU) No. 2016-13, Financial Instruments Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments , to replace the incurred loss methodology with an expected credit loss model that requires consideration of a broader range of information to estimate credit losses over the lifetime of the asset, including current conditions and reasonable and supportable forecasts in addition to historical loss information, to determine expected credit losses. Pooling of assets with similar risk characteristics and the use of a loss model are also required. Also, in April 2019, the FASB issued ASU No. 2019-04, Codification Improvements to Topic 326, Financial Instruments Credit Losses, Topic 815, Derivatives and Hedging , and Topic 825, Financial Instruments , to clarify the inclusion of recoveries of trade receivables previously written off when estimating an allowance for credit losses. The amendments in this update were required to be applied using the modified retrospective method with an adjustment to retained earnings and were effective for us beginning with fiscal year 2020, including interim periods. The adoption of the amendments in this update as of January 1, 2020 did not have a material impact on our accounts receivable, as well as our results of operations for the year ended December 31, 2020. 
+
+In August 2018, the FASB issued ASU No. 2018-13, Fair Value Measurement (Topic 820): Disclosure Framework Changes to the Disclosure Requirements for Fair Value Measurement , to improve the fair value measurement reporting of financial instruments. The amendments in this update require, among other things, added disclosure of the range and weighted average of significant unobservable inputs used to develop Level 3 fair value measurements. The amendments in this update eliminate, among other things, disclosure of the reasons for and amounts of transfers between Level 1 and Level 2 for assets and liabilities that are measured at fair value on a recurring basis and an entity s valuation processes for Level 3 fair value measurements. The amendments in this update were effective for us beginning with fiscal year 2020. Retrospective application is required for all amendments in this update except the added disclosures, which should be applied prospectively. The adoption of the amendments in this update did not have a material impact on our consolidated financial position and results of operations as of and for the year ended December 31, 2020. 
+
+In December 2019, the FASB issued Accounting Standards Update ASU 2019-12, Simplifying the Accounting for Income Taxes . The pronouncement simplifies the accounting for income taxes by removing certain exceptions to the general principles in ASC Topic 740, Income Taxes . The pronouncement also improves consistent application of and simplifies GAAP for other areas of Topic 740 by clarifying and amending existing guidance. ASU 2019-12 will be effective for us beginning in the first quarter of fiscal 2021, with early adoption permitted. We are still evaluating the impact this guidance will have on our consolidated financial statements. 
+
+In October 2020, the FASB issued ASU No. 2020-10 Codification Improvements , to make incremental improvements to U.S. GAAP and address stakeholder suggestions, including, among other things, clarifying that the requirement to provide comparative information in the financial statements extends to the corresponding disclosures section. The amendments in this update will be effective for us beginning with fiscal year 2021, with early adoption permitted. The amendments in this update should be applied retrospectively and at the beginning of the period that includes the adoption date. The adoption of the amendments in this update is not expected to have a material impact on our consolidated financial position and results of operations. 
+
+-29-
+
+Table of Contents 
+
+Management does not believe any other recently issued, but not yet effective accounting pronouncements would have a material effect on our present or future consolidated financial statements. 
+
+2 - INVENTORY 
+
+Inventory, consisting principally of products held for resale, is stated at the lower of cost, using the first-in, first-out method, and net realizable value. The amount presented in the accompanying consolidated balance sheets is net of valuation allowances of 4,759,000 and 5,893,000 at December 31, 2020 and 2019, respectively. 
+
+Based upon regular evaluations of inventory to identify costs in excess of the lower of cost and net realizable value and slow-moving inventory, we increased our reserves by 0 and 405,000 for the years ended December 31, 2020 and 2019, respectively, while also applying 1,134,000 and 1,701,000 of our existing reserves to the underlying inventory values during the years ended December 31, 2020 and 2019, respectively. 
+
+3 - PROPERTY AND EQUIPMENT 
+
+Property and equipment, at cost, is summarized as follows: 
+
+December 31, 
+
+2020 
+
+2019 
+
+Land 
+
+1,284,000 
+
+1,284,000 
+
+Buildings and improvements 
+
+4,867,000 
+
+4,867,000 
+
+Furniture and equipment 
+
+797,000 
+
+794,000 
+
+Computer software and hardware 
+
+577,000 
+
+563,000 
+
+Total Property and Equipment 
+
+7,525,000 
+
+7,508,000 
+
+Less: Accumulated depreciation and amortization 
+
+(4,308,000 
+
+(4,122,000 
+
+Property and Equipment, net 
+
+3,217,000 
+
+3,386,000 
+
+Depreciation expense for the years ended December 31, 2020 and 2019 was 186,000 and 178,000, respectively. 
+
+During 2019, we sold our 15,000 square foot of office and distribution space in Mexico for gross proceeds of 200,000. 
+
+4 - OTHER ASSETS 
+
+The following table presents a summary roll-forward of other assets: 
+
+Investment in securities - Zowie Technology 
+
+Other 
+
+Other Assets Total 
+
+Balance at December 31, 2018 
+
+193,000 
+
+19,000 
+
+212,000 
+
+Investment 
+
+186,000 
+
+- 
+
+186,000 
+
+Net investment losses during the year 
+
+(193,000 
+
+- 
+
+(193,000 
+
+Balance at December 31, 2019 
+
+186,000 
+
+19,000 
+
+205,000 
+
+Other changes 
+
+- 
+
+(16,000 
+
+(16,000 
+
+Balance at December 31, 2020 
+
+186,000 
+
+3,000 
+
+189,000 
+
+Our 186,000 investment in securities as of December 31, 2020 relates to 317,428 shares of preferred convertible debt of Zowie Technology Corporation (Taipei Hsien, Taiwan), a supplier of electronic component products (see Part I: Item 1 Business Suppliers) with our option after 3 (three) years to convert the investment into common stock or refundable bearing 7 annual interest rate. Our investment represents approximately 7.9 of their total outstanding shares although we do not have significant influence or control. This investment is accounted for under the cost (plus impairment) basis of accounting, however when facts and circumstances indicate that the carrying value of this asset may not be recoverable, we recognize an impairment loss. The impairment loss recognized is the amount by which the carrying amount exceeds the estimated fair value. In 2019, due to our estimated valuation assessment, we recognized an impairment loss of 193,000. 
+
+-30-
+
+Table of Contents 
+
+5 - LONG-TERM DEBT 
+
+On April 27, 2020, we received loan proceeds in the amount of 163,200 from the Small Business Administration SBA under the Paycheck Protection Program PPP ). The PPP, established as part of the Coronavirus Aid, Relief and Economic Security Act CARES Act ), provides for loans to qualifying businesses for amounts up to 2.5 times of the average monthly payroll expenses of the qualifying business. The loans and accrued interest are forgivable after twenty-four (24) weeks conditional upon loan proceeds used for eligible purposes, including payroll, benefits, rent and utilities, and we maintain our payroll levels. The amount of loan forgiveness may be reduced if we terminate, lay-off or furlough employees or reduce salaries during the period. 
+
+Any unforgiven portion of the PPP loan is payable over two (2) years at an interest rate of 1 , with a deferral of payments to the date that SBA remits our loan forgiveness amount to our lender. We believe our use of the proceeds were consistent with purposes of the PPP. While we currently believe that our use of the loan proceeds will meet the conditions for forgiveness of the loan, we cannot ensure that we will receive forgiveness of the loan, in whole or in part. 
+
+6 - RELATED PARTY TRANSACTIONS 
+
+We purchase electronic component products from Princeton Technology Corporation PTC ), a company controlled by Mr. Richard Chiang, one of the directors on our board. During the years ended December 31, 2020 and 2019, we purchased products in the amount of 61,000 and 100,000, respectively, from PTC. All of these purchases were for products we carry in inventory and we consider these purchases to be in the normal course of business and negotiated on an arm s length basis. We have also entered into a distributor agreement with PTC, and accordingly, we expect to continue purchasing from PTC in the future. 
+
+7 - SHARE BASED COMPENSATION 
+
+Our 2018 Stock Incentive Plan (the Plan authorizes the issuance of up to 1,000,000 shares pursuant to options or awards granted under the Plan. Under the Plan, incentive stock and nonstatutory options were granted at prices equal to at least the fair market value of our Class A common stock at the date of grant. Outstanding options vest in three (3) equal annual installments beginning one (1) year from the date of grant and are subject to termination provisions as defined in the Plan. The fair values of options was estimated using the Black-Scholes option-pricing model at their respective grant date using the following assumptions: 
+
+Year Ended December 31, 
+
+2020 
+
+2019 
+
+Weighted-average grant date fair value per share 
+
+0.17 - 0.19 
+
+0.40 - 0.48 
+
+Risk-free interest rate 
+
+0.78 
+
+1.47 
+
+Dividend yield 
+
+5.8 
+
+4.7 
+
+Expected term (in years) 
+
+10 
+
+10 
+
+Volatility 
+
+25 
+
+31 
+
+Stock option activity during the periods indicated is as follows: 
+
+Number of Shares 
+
+Weighted Average Exercise Price 
+
+Weighted Average Years Remaining Contractual Term 
+
+Aggregate Intrinsic Value 
+
+Outstanding at December 31, 2018 
+
+453,000 
+
+1.35 
+
+5.0 
+
+182,400 
+
+Grants 
+
+52,500 
+
+2.78 
+
+8.0 
+
+- 
+
+Exercised 
+
+(123,000 
+
+1.03 
+
+- 
+
+- 
+
+Forfeited 
+
+(1,000 
+
+0.84 
+
+- 
+
+- 
+
+Outstanding at December 31, 2019 
+
+381,500 
+
+1.65 
+
+5.6 
+
+429,000 
+
+Grants 
+
+41,000 
+
+2.29 
+
+7.5 
+
+- 
+
+Exercised 
+
+(72,000 
+
+1.18 
+
+- 
+
+- 
+
+Forfeited 
+
+(55,000 
+
+1.36 
+
+- 
+
+- 
+
+Outstanding at December 31, 2020 
+
+295,500 
+
+1.92 
+
+5.4 
+
+359,000 
+
+Exercisable at December 31, 2020 
+
+156,000 
+
+1.72 
+
+4.9 
+
+186,000 
+
+-31-
+
+Table of Contents 
+
+At December 31, 2020, the range of individual weighted average exercise prices was 1.02 to 2.55 and the unamortized compensation expense was approximately 34,000. 
+
+8 - SHAREHOLDER S EQUITY 
+
+Preferred Stock - There are 5,000,000 shares of authorized preferred stock, par value 0.001 per share, with no shares of preferred stock issued or outstanding. The terms of the shares are subject to the discretion of the Board of Directors. 
+
+Class A Common Stock - There are 20,000,000 shares of authorized Class A common stock, par value 0.001 per share, with 5,062,235 and 4,990,235 issued and outstanding as of December 31, 2020 and 2019, respectively. Each holder of Class A common stock is entitled to one (1) vote for each share held. During 2020 and 2019, we issued 72,000 and 123,000 shares of our Class A common stock, respectively. 
+
+Class B Common Stock - There are 762,612 shares of authorized Class B common stock, par value 0.001 per share, with 762,612 shares issued and outstanding since 1995. Each holder of Class B common stock is entitled to ten (10) votes for each share held. The shares of Class B common stock are convertible at any time at the election of the shareholder into one (1) share of Class A common stock, subject to certain adjustments. Our Chief Executive Officer is the sole beneficial owner of the outstanding shares of Class B common stock. 
+
+Dividends During the nine months ended September 30, 2019, we declared and paid quarterly dividends of .03 per share. For the quarter ended December 31, 2019 and for the nine months ended September 30, 2020, we paid quarterly dividends of 0.035 per share. For the quarter ended December 31, 2020, we declared and paid quarterly dividends of .04 per share. 
+
+9 - INCOME TAXES 
+
+Income tax provision is summarized as follows: 
+
+Year Ended December 31, 
+
+2020 
+
+2019 
+
+Current: 
+
+Federal 
+
+- 
+
+- 
+
+State 
+
+4,000 
+
+- 
+
+4,000 
+
+- 
+
+Deferred: 
+
+Federal 
+
+310,000 
+
+97,000 
+
+State 
+
+160,000 
+
+7,000 
+
+Decrease in valuation allowance 
+
+(470,000 
+
+(104,000 
+
+- 
+
+- 
+
+Income tax provision 
+
+4,000 
+
+- 
+
+The actual income tax provision differs from the expected tax computed by applying the Federal corporate tax rate of 21 to the income before income taxes as follows: 
+
+Year Ended December 31, 
+
+2020 
+
+2019 
+
+Expected income tax benefit 
+
+286,000 
+
+204,000 
+
+State tax expense, net of Federal benefit 
+
+3,000 
+
+- 
+
+Foreign loss 
+
+- 
+
+(30,000 
+
+Decrease in valuation allowance 
+
+(470,000 
+
+(104,000 
+
+Other 
+
+185,000 
+
+(70,000 
+
+Income tax provision 
+
+4,000 
+
+- 
+
+-32-
+
+Table of Contents 
+
+The tax effects of temporary differences which give rise to significant portions of the deferred taxes are summarized as follows: 
+
+December 31, 
+
+2020 
+
+2019 
+
+Deferred tax assets: 
+
+Inventory reserves 
+
+1,420,000 
+
+1,758,000 
+
+Allowances for bad debts and returns 
+
+2,000 
+
+5,000 
+
+Accrued expenses 
+
+21,000 
+
+21,000 
+
+Asset valuation reserve 
+
+539,000 
+
+539,000 
+
+Net operating loss carry forwards 
+
+213,000 
+
+283,000 
+
+Other 
+
+72,000 
+
+160,000 
+
+Total deferred tax assets 
+
+2,267,000 
+
+2,766,000 
+
+Valuation allowance 
+
+(2,121,000 
+
+(2,587,000 
+
+146,000 
+
+179,000 
+
+Deferred tax liabilities: 
+
+Deferred state taxes 
+
+(146,000 
+
+(179,000 
+
+Total deferred tax liabilities 
+
+(146,000 
+
+(179,000 
+
+Net deferred tax assets 
+
+- 
+
+- 
+
+As of December 31, 2020, we had approximately 660,000 and 842,000 in net operating loss carryforwards for federal and state income tax purposes, respectively. In assessing the realizability of the deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. We consider the scheduled reversal of deferred tax assets, the level of historical taxable income and tax planning strategies in making the assessment of the realizability of deferred tax assets. We have identified the U.S. federal and California as our "major" tax jurisdiction. With limited exceptions, we remain subject to IRS examination of our income tax returns filed within the last three (3) years, and to California Franchise Tax Board examination of our income tax returns filed within the last four (4) years. 
+
+As a result of the implementation of ASC 740, we recognized no material adjustment to unrecognized tax benefits. At the adoption date of January 1, 2007, we had 795,000 of unrecognized tax benefits, all of which would affect our effective tax rate if recognized. At December 31, 2020 and 2019, we have 2,121,000 and 2,587,000 of unrecognized tax benefits, respectively. We will continue to classify income tax penalties and interest, if any, as part of interest and other expenses in our statements of operations. We have incurred no interest or penalties as of December 31, 2020 and 2019. 
+
+-33-
+
+Table of Contents 
+
+10 - NET INCOME PER SHARE 
+
+Year ended December 31, 
+
+2020 
+
+2019 
+
+Numerator for basic and diluted net income per Class A common stock and Class B common stock share: 
+
+Net income attributable to Taitron Components Inc. 
+
+1,359,000 
+
+773,000 
+
+Less cash dividends: 
+
+Class A common stock 
+
+730,000 
+
+620,000 
+
+Class B common stock 
+
+111,000 
+
+95,000 
+
+Total undistributed earnings 
+
+518,000 
+
+58,000 
+
+Class A common stock undistributed earnings - basic and diluted 
+
+450,000 
+
+50,000 
+
+Class B common stock undistributed earnings - basic and diluted 
+
+68,000 
+
+8,000 
+
+Total undistributed earnings - basic and diluted 
+
+518,000 
+
+58,000 
+
+Numerator for basic and diluted net income per share: 
+
+Class A common stock 
+
+1,180,000 
+
+670,000 
+
+Class B common stock 
+
+179,000 
+
+103,000 
+
+1,359,000 
+
+773,000 
+
+Year ended December 31, 
+
+2020 
+
+2019 
+
+Denominator for basic and diluted net income per Class A common stock and Class B common stock share: 
+
+Weighted average number of common shares used in basic income per share (Class A common stock 
+
+5,035,277 
+
+4,961,610 
+
+Weighted average number of common shares used in basic income per share (Class B common stock 
+
+762,612 
+
+762,612 
+
+5,797,889 
+
+5,724,222 
+
+Weighted average number of common shares used in diluted income per share (Class A common stock 
+
+5,091,277 
+
+5,077,610 
+
+Weighted average number of common shares used in diluted income per share (Class B common stock 
+
+762,612 
+
+762,612 
+
+5,853,889 
+
+5,840,222 
+
+Basic net income per share: 
+
+Class A common stock 
+
+0.23 
+
+0.14 
+
+Class B common stock 
+
+0.23 
+
+0.14 
+
+Diluted net income per share: 
+
+Class A common stock 
+
+0.23 
+
+0.13 
+
+Class B common stock 
+
+0.23 
+
+0.14 
+
+11 - EMPLOYEE BENEFIT PLANS 
+
+We have a defined contribution profit sharing plan pursuant to Section 401(k) of the Internal Revenue Code the Plan covering only our U.S. based employees. Participants once eligible, as defined by the Plan, may contribute up to the maximum allowed under the Internal Revenue Code. The Plan also provides for safe harbor matching contributions, vesting immediately, at our discretion. For each year ended December 31, 2020 and 2019, employer matching contributions were approximately 34,000 and 28,000, respectively. 
+
+Participants in the Plan, through self-directed brokerage accounts, held 487,159 shares in our Class A common stock as of December 31, 2020 and 2019. The Plan does not offer new issues of our common stock as an investment option. 
+
+-34-
+
+Table of Contents 
+
+12 - COMMITMENTS AND CONTINGENCIES 
+
+Legal and Regulatory Proceedings 
+
+ We are engaged in various legal and regulatory proceedings incidental to our normal business activities, none of which, individually or in the aggregate, are deemed to be a material risk to our financial condition. 
+
+Inventory Purchasing 
+
+ Outstanding commitments to purchase inventory from suppliers aggregated 1,972,000 and 780,000 as of December 31, 2020 and December 31, 2019, respectively. 
+
+13 - GEOGRAPHIC INFORMATION 
+
+The following table presents summary geographic information about revenues and long-lived assets (land and property, net of accumulated depreciation) attributed to countries based upon location of our customers or assets: 
+
+Year ended December 31, 
+
+December 31, 
+
+2020 
+
+2019 
+
+2020 
+
+2019 
+
+Long-lived 
+
+Long-lived 
+
+Revenues 
+
+Revenues 
+
+Assets 
+
+Assets 
+
+United States 
+
+5,955,000 
+
+5,809,000 
+
+2,306,000 
+
+2,411,000 
+
+South Korea 
+
+460,000 
+
+650,000 
+
+- 
+
+- 
+
+China 
+
+135,000 
+
+228,000 
+
+747,000 
+
+789,000 
+
+Taiwan 
+
+11,000 
+
+45,000 
+
+164,000 
+
+186,000 
+
+Other foreign countries 
+
+135,000 
+
+51,000 
+
+- 
+
+- 
+
+Total 
+
+6,696,000 
+
+6,783,000 
+
+3,217,000 
+
+3,386,000 
+
+-35-
+
+Table of Contents 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES. 
+
+Evaluation of Disclosure Controls and Procedures. 
+
+Our management, with the participation of our principal executive and principal financial officer, evaluated the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15(b) of the Securities Exchange Act of 1934 Exchange Act as of the end of the period covered by this report. Based on that evaluation, our principal executive and principal financial officers concluded that our disclosure controls and procedures as of the end of the period covered by this report were effective such that the information required to be disclosed by us in reports filed under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms and (ii) accumulated and communicated to our management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. 
+
+Internal Control over Financial Reporting. 
+
+a) Management s Annual Report on Internal Control over Financial Reporting. Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) for the Company. Our internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States. Because of its inherent limitations, internal control over financial reporting may not prevent nor detect misstatements. Therefore, even those systems determined to be effective can provide only reasonable assurance of achieving their control objectives. 
+
+Our internal controls framework is based on the criteria set forth in the Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and includes those policies and procedures that: (i) Pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of our assets; (ii) Provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that our receipts and expenditures are being made only in accordance with authorizations of our management and directors; and (iii) Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on the financial statements. 
+
+Based on such criteria, our management, with the participation of our principal executive and principal financial officer, evaluated the effectiveness of our internal control over financial reporting and concluded that it was effective as of December 31, 2020. 
+
+As a smaller reporting company, management's assessment of our internal control over financial reporting is not subject to attestation by our independent registered public accounting firm and as such, no attestation was performed by our independent registered public accounting firm. 
+
+b) Changes in Internal Control over Financial Reporting. There has been no change in our internal control over financial reporting that occurred in our last fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+ITEM 9B. OTHER INFORMATION. None. 
+
+-36-
+
+Table of Contents 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+
+The information required by this item will appear in our definitive proxy statement to be filed within 120 days after the close of the fiscal year-end in connection with our 2021 Annual Meeting of Shareholders the Proxy Statement ), and is incorporated herein by reference. 
+
+ITEM 11. EXECUTIVE COMPENSATION. 
+
+The information required by this item will appear in our Proxy Statement and is incorporated herein by reference. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+The information required by this item will appear in our Proxy Statement and is incorporated herein by reference. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE. 
+
+The information required by this item will appear in our Proxy Statement and is incorporated herein by reference. 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES. 
+
+The information required by this item will appear in our Proxy Statement and is incorporated herein by reference. 
+
+-37-
+
+Table of Contents 
+
+PART IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES. 
+
+a) The following documents are filed as a part of this Annual Report: 
+
+(1) Financial Statements 
+
+The list of consolidated financial statements and notes required by this Item 15(a)(1) is set forth in the Index to Financial Statements within this Annual Report. 
+
+(2) Financial Statement Schedules 
+
+All schedules have been omitted because the required information is included in the financial statements or notes thereto. 
+
+(b) Exhibits 
+
+The exhibits listed on the Exhibit Index below are filed as part of this Annual Report. 
+
+Exhibits No. 
+
+Description 
+
+10.1+ 
+
+2018 Omnibus Incentive Plan. Incorporated by reference from Appendix A to the registrant s Definitive Proxy Statement on Schedule 14A filed with the Securities and Exchange Commission on April 30, 2018. 
+
+21.1 
+
+List of Subsidiaries. Incorporated by reference from Exhibit 21.1 to the registrant s Annual Report on Form 10-K for the year ended December 31, 2009 filed with the Securities and Exchange Commission on March 31, 2010. 
+
+23.1 
+
+Consent of Independent Registered Public Accounting Firm Ramirez Jimenez International CPAs 
+
+24.1 
+
+Power of Attorney (contained on the signature page hereof) 
+
+31.1 
+
+Principal Executive Officer - Section 302 Certification 
+
+31.2 
+
+Principal Financial Officer - Section 302 Certification 
+
+32 
+
+Principal Executive and Principal Financial Officers - Section 906 Certification 
+
+101.INS 
+
+XBRL Instance Document 
+
+101.SCH 
+
+XBRL Taxonomy Extension Schema 
+
+101.CAL 
+
+XBRL Taxonomy Extension Calculation Linkbase 
+
+101.DEF 
+
+XBRL Taxonomy Extension Definition Linkbase 
+
+101.LAB 
+
+XBRL Taxonomy Extension Label Linkbase 
+
+101.PRE 
+
+XBRL Taxonomy Extension Presentation Linkbase 
+
+Filed herewith. 
+
+The information in this exhibit is furnished and deemed not filed with the Securities and Exchange Commission for purposes of section 18 of the Exchange Act of 1934, as amended, and is not to be incorporated by reference into any filing of Taitron Components Incorporated under the Securities Act of 1933, as amended, or the Exchange Act of 1934, as amended, whether made before or after the date hereof, regardless of any general incorporation language in such filing. 
+
++ 
+			 
+			 Each a management contract or compensatory plan or arrangement. 
+
+ITEM 16. FORM 10-K SUMMARY. None 
+
+-38-
+
+Table of Contents 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+TAITRON COMPONENTS INCORPORATED 
+
+Dated: March 31, 2021 
+
+By: 
+
+/s/ Stewart Wang 
+
+Stewart Wang 
+
+			 Chief Executive Officer 
+
+Dated: March 31, 2021 
+			 By: 
+			 /s/ David Vanderhorst 
+
+David Vanderhorst 
+
+			 Chief Financial Officer 
+
+POWER OF ATTORNEY 
+
+KNOW ALL MEN BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Stewart Wang and David Vanderhorst and each of them singly, as attorneys-in-fact and agents, with full power of substitution, for him in any and all capacities, to sign any amendments to this Annual Report, and to file the same, with exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that said attorneys-in-fact, or his substitutes, may do or cause to be done by virtue hereof. 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, this report has been signed by the following persons on behalf of the Registrant and in the capacities and on the dates indicated. 
+
+Signature 
+
+Title 
+
+Date 
+
+/s/ Johnson Ku 
+
+Chairman of the Board 
+
+March 31, 2021 
+
+Johnson Ku 
+
+/s/ Stewart Wang 
+
+Director, Chief Executive Officer and President 
+
+March 31, 2021 
+
+Stewart Wang 
+
+(Principal Executive Officer) 
+
+/s/ Richard Chiang 
+
+Director 
+
+March 31, 2021 
+
+Richard Chiang 
+
+/s/ Craig Miller 
+
+Director 
+
+March 31, 2021 
+
+Craig Miller 
+
+/s/ Chi-Lin Chung 
+
+Director 
+
+March 31, 2021 
+
+Chi-Lin Chung 
+
+/s/ David Vanderhorst 
+
+Chief Financial Officer 
+
+March 31, 2021 
+
+David Vanderhorst 
+
+(Principal Financial and Accounting Officer) 
+
+-39-
+
+<EX-23.1>
+ 2
+ ex_237396.htm
+ EXHIBIT 23.1
+
+ex_237396.htm 
+
+Exhibit 23.1 Consent of Independent Registered Public Accounting Firm Ramirez Jimenez International CPAs 
+
+Consent of Independent Registered Public Accounting Firm 
+
+We consent to the incorporation by reference in the Registration Statements on Form S-8 (Registration No. 333-134889 and Registration 333-237650) of Taitron Components Incorporated of our report dated March 31, 2021, appearing in the Annual Report on Form 10-K of Taitron Components Incorporated for the years ended December 31, 2020 and 2019. 
+
+/s/ Ramirez Jimenez International CPAs 
+
+Irvine, California 
+
+ March 31, 2021 
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ ex_237397.htm
+ EXHIBIT 31.1
+
+ex_237397.htm 
+
+Exhibit 31.1 Principal Executive Officer - Section 302 Certification 
+
+Certification of 
+
+ Principal Executive Officer 
+
+ Of Taitron Components Incorporated 
+
+ Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+I, Stewart Wang, certify that: 
+
+1. I have reviewed this Annual Report on Form 10-K of Taitron Components Incorporated; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Dated: March 31, 2021 
+			 
+			 By: /s/ Stewart Wang 
+
+			 Stewart Wang 
+
+			 Chief Executive Officer and President 
+
+			 (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex_237398.htm
+ EXHIBIT 31.2
+
+ex_237398.htm 
+
+Exhibit 31.2 Principal Financial Officer - Section 302 Certification 
+
+Certification of 
+
+ Principal Financial Officer 
+
+ Of Taitron Components Incorporated 
+
+ Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+I, David Vanderhorst, certify that: 
+
+1. I have reviewed this Annual Report on Form 10-K of Taitron Components Incorporated; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Dated: March 31, 2021 
+			 
+			 By: /s/ David Vanderhorst 
+
+			 David Vanderhorst 
+
+			 Chief Financial Officer 
+
+			 (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ ex_237399.htm
+ EXHIBIT 32
+
+ex_237399.htm 
+
+Exhibit 32 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Taitron Components Incorporated (the Company on Form 10-K for the fiscal year ended December 31, 2020, as filed with the Securities and Exchange Commission on the date hereof (the Report ), each of the undersigned officers of the Company certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to such officer s knowledge: 
+
+(1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of the dates and for the periods expressed in the Report. 
+
+Dated: March 31, 2021 
+			 
+			 By: /s/ Stewart Wang 
+
+			 Stewart Wang 
+
+			 Chief Executive Officer and President 
+
+			 (Principal Executive Officer) 
+
+Dated: March 31, 2021 
+			 
+			 By: /s/ David Vanderhorst 
+
+			 David Vanderhorst 
+
+			 Chief Financial Officer 
+
+			 (Principal Financial and Accounting Officer) 
+
+</EX-32>
+
+<EX-101.INS>
+ 6
+ tait-20201231.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ tait-20201231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ tait-20201231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ tait-20201231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ tait-20201231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ tait-20201231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

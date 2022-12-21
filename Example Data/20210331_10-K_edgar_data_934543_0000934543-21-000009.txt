@@ -1,0 +1,3855 @@
+<Header>
+<FileStats>
+    <FileName>20210331_10-K_edgar_data_934543_0000934543-21-000009.txt</FileName>
+    <GrossFileSize>2253747</GrossFileSize>
+    <NetFileSize>192907</NetFileSize>
+    <NonText_DocumentType_Chars>150076</NonText_DocumentType_Chars>
+    <HTML_Chars>758021</HTML_Chars>
+    <XBRL_Chars>625840</XBRL_Chars>
+    <XML_Chars>450519</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000934543-21-000009.hdr.sgml : 20210331
+<ACCEPTANCE-DATETIME>20210331121840
+ACCESSION NUMBER:		0000934543-21-000009
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		48
+CONFORMED PERIOD OF REPORT:	20201231
+FILED AS OF DATE:		20210331
+DATE AS OF CHANGE:		20210331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN CHURCH MORTGAGE CO
+		CENTRAL INDEX KEY:			0000934543
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				411793975
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1219
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25919
+		FILM NUMBER:		21791501
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10237 YELLOW CIRCLE DRIVE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55343
+		BUSINESS PHONE:		6129459455
+
+	MAIL ADDRESS:	
+		STREET 1:		10237 YELLOW CIRCLE DR
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55343
+
+</SEC-Header>
+</Header>
+
+ 0000934543-21-000009.txt : 20210331
+
+10-K
+ 1
+ frm10k123120.htm
+ AMERICAN CHURCH MORTGAGE COMPANY ANNUAL 10K
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+x 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For the fiscal year ended December 31, 2020 
+
+ or 
+
+ o TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For the transition period from ___________
+to ___________ 
+
+ Commission file number: 000-25919 
+
+ AMERICAN CHURCH
+MORTGAGE COMPANY 
+
+ (Exact Name of Registrant as Specified in
+its Charter) 
+
+Minnesota 
+ 
+ 41-1793975 
+
+State or Other Jurisdiction of 
+ Incorporation or Organization 
+ 
+ I.R.S. Employer Identification No. 
+
+10400 Yellow Circle Drive, Ste. 102 Minnetonka, MN 
+ 
+ 55343 
+ 
+ Address of Principal Executive Offices 
+ 
+ Zip Code 
+ 
+ (952) 945-9455 
+
+ Registrant s Telephone Number, Including Area
+Code 
+
+ Securities registered pursuant to Section 12(g)
+of the Act: 
+
+Title of each class 
+ Trading Symbol 
+ Name of exchange on which registered 
+ 
+ Common Stock, 0.01 par value per share 
+ ACMC 
+ None 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes o No x 
+
+ Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes o No x
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes x No o 
+
+ Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such file).
+ Yes x No o 
+
+ Indicate by check mark whether
+the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging
+growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting
+company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ Accelerated filer 
+ 
+ Non-accelerated filer 
+ Smaller reporting company 
+ 
+ Emerging growth company 
+
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+ Indicate by check mark whether
+the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control
+over financial reporting under Section 404(b) of the Sarbanes-Oxley Act by the registered public accounting firm that prepared or issued
+its audit report. 
+
+ Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes o No x 
+
+APPLICABLE ONLY TO CORPORATE ISSUERS: 
+
+State the aggregate market
+value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most recently
+completed second fiscal quarter. 2,388,738. 
+
+Indicate the number of shares outstanding of each of
+the issuer s classes of common stock, as of the latest practicable date. 
+
+Outstanding at March 31, 2021 
+ 
+ Common Stock, 0.01 par value per share 
+ 
+ 1,676,598 shares 
+ 
+ Our Class A Common Stock, .01 par value
+per share, has traded on the over-the-counter market Pink Sheets at certain isolated times under the symbol ACMC.PK 
+
+ Documents Incorporated by Reference 
+
+Portions of the Company s Proxy Statement to
+be delivered to its shareholders in connection with the Company s 2021 Annual Meeting of shareholders, which the Company plans to
+file with the Securities and Exchange Commission within 120 days of the end of the fiscal year covered by this report, are incorporated
+by reference in Part III of this report (Items 10, 11, 12, 13 and 14). 
+
+INDEX 
+
+Page 
+ No. 
+
+PART 1 
+
+Item 1. 
+ Business 
+ 4 
+
+Item 1A. 
+ Risk Factors 
+ 12 
+
+Item 1B. 
+ Unresolved Staff Comments 
+ 19 
+
+Item 2. 
+ Properties 
+ 19 
+
+Item 3. 
+ Legal Proceedings 
+ 19 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 19 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 20 
+
+Item 6. 
+ Reserved 
+ 21 
+
+Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 21 
+
+Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 27 
+
+Item 8. 
+ Financial Statements and Supplementary Data 
+ 27 
+
+Report of Independent Registered Public Accounting Firm 
+ F-1 
+
+Balance Sheets as of December 31, 2020 and 2019 
+ F-3 
+
+Statements of Operations for the Years Ended December 31, 2020 and 2019 
+ F-5 
+
+Statements of Shareholders Equity for the
+ Years Ended 
+ December 31, 2020 and 2019 
+ F-6 
+
+Statements of Cash Flows for the Years Ended December 31, 2020 and 2019 
+ F-7 
+
+Notes to Financial Statements 
+ F-9 
+
+Item 9. 
+ Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 27 
+
+Item 9A. 
+ Controls and Procedures 
+ 28 
+
+Item 9B. 
+ Other Information 
+ 29 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 29 
+
+Item 11. 
+ Executive Compensation 
+ 29 
+
+Item 12. 
+ 
+ Security Ownership of Certain Beneficial Owners and 
+ Management and Related Stockholder Matters 
+ 29 
+
+Item 13. 
+ Certain Relationships and Related Transactions and Director Independence 
+ 29 
+
+Item 14. 
+ Principal Accounting Fees and Services 
+ 29 
+
+PART IV 
+
+Item 15. 
+ Exhibits, Financial Statement Schedules 
+ 30 
+
+Item 16 
+ Form 10-K Summary 
+ 31 
+
+Signatures 
+ 
+ 31 
+
+PART I 
+
+FORWARD LOOKING STATEMENTS 
+
+In
+connection with the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, readers of this document
+and any document incorporated by reference herein, are advised that this document and documents incorporated by reference into this document
+contain both statements of historical facts and forward-looking statements. Forward looking statements are subject to certain risks and
+uncertainties, which could cause actual results to differ materially from those indicated by the forward-looking statements. Examples
+of forward looking statements include, but are not limited to (i) projections of revenues, income or loss, earning or loss per share,
+capital expenditures, dividends, capital structure and other financial items; (ii) statements of plans and objectives of ours or our
+management or Board of Directors, including any public sale of our securities, or estimates or predictions of actions by borrowers, competitors
+or regulatory authorities; (iii) statements of future economic performance; and (iv) statements of assumptions underlying other statements
+and statements about our business. 
+
+This
+document and documents incorporated by reference herein also identify important factors which could cause actual results to differ materially
+from those indicated by forward looking statements. These risks and uncertainties include, among other things, interest rate fluctuations
+as they affect the relative yield of our loan portfolio and our ability to compete in making loans to borrowers; payment default on loans
+made or bonds purchased by us, which could adversely affect our ability to make distributions to our shareholders or payments due on
+our secured investor certificates; the actions of competitors; the effects of government regulation; competition, risks related to uncertainty
+and disruption in global economic markets as a result of COVID-19 (commonly referred to as the coronavirus) and other factors which are
+described herein and/or in documents incorporated by reference herein, including the risks described in Item 1A. 
+
+The
+cautionary statements made pursuant to the Private Litigation Securities Reform Act of 1995 above and elsewhere by us should not be construed
+as exhaustive or as any admission regarding the adequacy of disclosures made by us prior to the effective date of such Act. Matters which
+are the subject of forward-looking statements are beyond our ability to control and in many cases, we cannot predict what factors would
+cause results to differ materially from those indicated by the forward-looking statements. 
+
+Item 1. Business. 
+
+The
+outbreak of the novel coronavirus (COVID-19) has adversely affected many industries in general and resulted in preventing the gathering
+of church congregations which impacts the ability of churches and other non-profit religious organizations normal methods of worship
+causing a decline in membership and tithings and offerings. The actual and threatened spread of COVID-19 globally or in the regions in
+which we operate or future widespread outbreak of infectious or contagious disease, can continue to reduce the ability of persons to
+worship in groups in general. The extent to which our business may be affected by the COVID-19 will largely depend on future developments
+which we cannot accurately predict, and its impact on churches and other non-profit religious organizations, including the duration
+of the outbreak, the continued spread and treatment of the coronavirus, and new information and developments that may emerge concerning
+the severity of the coronavirus and the actions to contain the coronavirus or treat its impact, among others. To the extent that churches
+and other non-profit organizations operations in the U.S. are materially and adversely affected by the COVID-19, business and financial
+results of this industry, and thus our business and financial results, could be materially and adversely impacted. 
+
+We
+have experienced declines in payments due from our borrowers and missed bond payments on the bonds owned by us. We have provided temporary
+deferrals of monthly payments which may impact our future operating income and may potentially impact future distributions of dividends
+to our shareholders and our ability to make payments due on our secured investor certificates. 
+
+General 
+
+We
+are a Minnesota corporation incorporated on May 27, 1994. We operate as a Real Estate Investment Trust REIT and are engaged
+in the business of making mortgage loans to churches and other non-profit religious organizations throughout the United States. The principal
+amount of loans we offer ranges from 100,000 to 2,000,000. We may also invest up to 40 of our Average Invested Assets in mortgage
+secured debt securities (bonds) issued by churches and other non-profit religious organizations. Between the date upon which we began
+active business operations (April 15, 1996) and December 31, 2020, we have made 201 loans to 171 churches totaling 109,203,100, with
+the average principal amount of such loans being approximately 543,000. Of the 201 loans we have made, 130 loans totaling 76,789,805
+have been repaid early by the borrowing churches. We also own, as of December 31, 2020, approximately 18,935,000 principal amount of
+Church Bonds (hereinafter defined). At no time have we paid a premium for any of the bonds in our portfolio. Subject to the supervision
+of our Board of Directors, our day to day business operations are managed by Church Loan Advisors, Inc. (the Advisor ),
+which provides investment advisory and administrative services to us. The principals of the Advisor include principals of American Investors
+Group, Inc., 
+
+4 
+
+American a FINRA member broker-dealer, which has served as underwriter of the public offerings of our common stock, as well as our public offerings
+of secured investor certificates. American withdrew its membership with FINRA effective July 31, 2020, citing COVID-19 as one of the
+primary reason affecting its future business to provide church loan financings. 
+
+The Company s Business Activities 
+
+Our
+business is managed by the Advisor. We have no employees, but we do have two executive officers. The Advisor's affiliate, American has
+been engaged since 1987 in the business of underwriting first mortgage bonds for churches throughout the United States. In underwriting
+church bonds, American reviewed financing proposals, analyzed prospective borrowers financial capability, and structured, marketed
+and sold, mortgage-backed securities which are debt obligations (bonds) of such borrowers to the investing general public. Since its
+inception, American had underwritten approximately 323 church bond financings, in which approximately 584,867,000 in first mortgage
+bonds and sold to public investors. The average size of single church bond financings underwritten by American since its inception is
+approximately 1,811,000. 
+
+In
+the course of its business, American identified a demand from potential borrowers for smaller loans of 100,000 to 2,000,000. Because
+of the regulatory, administrative expenses and complexity normally associated with the bond financing business, American determined that
+the economic feasibility of bond financing diminished for financings under 1,000,000. As a result, we believe that many churches are
+forced to either forego the project for which their financing request was made, fund their project from cash flow over a period of time
+and at greater expense, or seek bank financing at terms that are not always favorable or available to them, due to the historic reluctance
+of banks to lend to churches for other than economic reasons. Our objective is to provide a lending source to this segment of the industry
+by capitalizing on the human resources and experience available at American and the Advisor, and taking advantage of the marketing, advertising
+and general goodwill of American. 
+
+ Financing
+Business 
+
+ Our
+primary business is to make first mortgage loans in amounts ranging from 100,000 to 2,000,000, to churches and other non-profit religious
+organizations, and selecting and investing in mortgage-secured debt instruments Church Bonds issued by churches and other
+non-profit religious organizations throughout the United States. All of our loans belong to one portfolio segment. We attempt to apply
+our working capital (after adequate reserves determined by the Advisor) toward making mortgage loans and investing in Church Bonds. We
+seek to enhance returns on investments on such loans by: 
+
+offering terms of up to 30 years, generating the highest yields possible
+under current market conditions; 
+
+seeking origination fees (i.e. points from the borrower at
+the outset of a loan and upon any renewal of a loan; 
+
+making a limited amount of higher-interest rate second mortgage loans to
+qualified borrowers; and 
+
+purchasing mortgage-secured debt securities having various maturities issued
+by churches and other non-profit religious organizations. 
+
+Our
+policies limit the amount of second mortgage loans to 20 of the Company's Average Invested Assets (hereinafter defined) on the date
+any second mortgage loan is closed and limit the amount of mortgage-secured debt securities to 40 of Average Invested Assets on the
+date of their purchase. 
+
+Average
+Invested Assets for any period is defined as the average of the aggregated book value of the assets of the corporation invested,
+directly or indirectly, in loans (or interests in loans) secured by real estate, and first mortgage bonds, before reserves for depreciation
+or bad debts or other similar non-cash reserves computed by taking the average of such values at the end of each calendar month during
+such period. 
+
+All
+other mortgage loans made by us (or Church Bonds purchased for investment) will be secured by a first mortgage (or deed of trust) lien
+in favor of us. Although we attempt to make mortgage loans for various terms typically ranging from one to thirty years, we may determine
+to emphasize longer-term fixed-rate loans in our discretion, in order to reduce the risk to us of downward interest rate fluctuations. 
+
+Our
+lending and investing operations, including determination of a prospective borrower's or church bond issuer's financial credit worthiness,
+are made on our behalf by the Advisor. Employees and agents of the Advisor conduct all aspects of our business, including (i) marketing
+and advertising; (ii) communication with prospective borrowers; (iii) processing loan applications; (iv) closing the loans; (v) servicing
+the loans; (vi) enforcing the terms of our loans; (vii) shareholder relations and (viii) administering our day-to-day business. For its
+services, the Advisor is entitled to receive a management fee equal to 1.25 annually of the Company's Average Invested Assets, plus
+one-half of any origination fee charged to borrowers on mortgage loans we make. The management fee is reduced to 1 on assets from 35
+million to 50 million and to .75 on assets over 50 million. The Advisor s management fees are computed and payable monthly. 
+
+5 
+
+Current First Mortgage Loan Terms 
+
+We offer prospective borrowers
+a selection of loan types, which include a choice of fixed or variable rates of interest indexed to the prime rate, the U.S. Treasury
+10-Year Notes, or another generally recognized reference index, and having various terms to maturity, origination fees and other terms
+and conditions. The terms of loans we offer may be changed by our Advisor as a result of such factors as (i) the credit quality and experience
+of the borrowers; (ii) the terms of loans in our portfolio; (iii) competition from other lenders; (iv) anticipated need to increase the
+overall yield on our mortgage loan portfolio; (v) local and national economic factors; and (vi) actual experience in borrowers 
+demand for the loans. We currently offer the loan types described in the table below. This table describes certain material terms of loans
+available from us. The table does not purport to identify all possible terms, rates, and fees we may offer. We may modify the terms identified
+below or offer loan terms different than those identified below at any time. Many loans are individually negotiated and differ from the
+terms described below. 
+
+Loan Type 
+ Interest Rate (1) 
+ Origination Fee (2) 
+ 
+ 25/30 Year Term (3) 
+ Fixed @ 8.75 /8.95 respectively 
+ 3.5 
+ 
+ 20 Year Term (3) 
+ Variable Annually @ Prime + 2.50 
+ 3.5 
+ 
+ 3 Year Renewable Term (4) 
+ Fixed @ 8.25 
+ 3.0 
+ 
+ Construction 1 Year Term 
+ Fixed @ 9.00 
+ 2.0 
+
+(1) Prime means the prime rate of interest charged to preferred customers, as published by a
+federally chartered bank chosen by us. We may also tie our offered interest rates to other indices. 
+
+(2) These are target fees and negotiation of these fees with borrowers can occur. Origination
+fees are generally based on the original principal amount of the loan and are collected from the borrower at the origination and renewal
+of loans, one-half of which is payable directly to our Advisor. 
+
+(3) Fully amortized repayment term. Amortization terms may vary, as may other loan terms, depending on individual
+loan negotiations and competitive forces. 
+
+(4) Renewable term loans are repaid based on a 25-year amortization schedule and are renewable at the conclusion
+of their initial term for additional like terms up to an aggregated maximum of 25 years. We charge a fee of 1 upon the date of each renewal.
+If renewed by the borrower, the interest rate is adjusted upon renewal to Prime plus a specified percentage spread. 
+
+Mortgage Loan Processing and Underwriting 
+
+Mortgage loan applications are
+prepared and verified by our Advisor's personnel in our Loan Origination and Underwriting Department. Verification procedures are designed
+to assure a borrower's qualification under our Financing Policies which are specifically identified herein and include, among other things,
+obtaining: 
+
+applications containing key information concerning the prospective borrowers; 
+
+project description; 
+
+financial statements in accordance with our Financing Policies; 
+
+corporate records and other organizational documents of the borrower; 
+
+preliminary title report or commitment for mortgagee title insurance; and 
+
+a real estate appraisal in accordance with the Financing Policies. 
+
+All appraisals are prepared by
+independent third-party professionals who we approve based on their experience, reputation and education. All financial statements are
+prepared by independent third-party professionals or a qualified accountant that we hire that is independent of the borrower. Completed
+loan applications, together with a written summary are then presented to our Underwriting Committee. Our loan Underwriting Committee is
+comprised of the Advisor's President and Chief Financial Officer and Treasurer and certain members of its staff. Our Advisor may arrange
+for the provision of mortgage title insurance and for the services of professional independent third-party accountants and appraisers
+on behalf of borrowers in order to achieve 
+
+6 
+
+pricing
+efficiencies on their behalf and to assure the efficient delivery of title commitments, preliminary title reports and title policies,
+and financial statements and appraisals that meet our underwriting criteria. Our Advisor may arrange for the direct payment for such
+professional services and for the direct reimbursement to it of such expenditures by borrowers and prospective borrowers. Upon closing
+and funding of mortgage loans, an origination fee based on the original principal amount of each loan may be charged, of which one-half
+is payable by the borrower to our Advisor, and the other one-half to us. 
+
+Loan Commitments 
+
+Subsequent to approval by our
+Underwriting Committee, and prior to funding a loan, we may issue a loan commitment to qualified applicants. A loan commitment deposit
+may be required from the borrowing church to commence the loan preparation procedure. These deposits are directly applied by the Advisor
+to engage accountants and appraisers to prepare their respective reports on the church. Commitments may indicate, among other things,
+the loan amount, origination fees, closing costs, underwriting expenses (if any), funding conditions, approval expiration dates and interest
+rate and other terms. Commitments generally set forth a prevailing interest rate that is subject to change in accordance with
+market interest rate fluctuations until the final loan closing documents are prepared, at which time we commit to a stated interest rate.
+In certain cases we may establish lock in interest rate commitments up to sixty (60) days from the commitment to closing;
+however, interest rate commitments beyond sixty days will not normally be issued unless we receive an appropriate fee premium based upon
+our assessment of the risk associated with a longer period. 
+
+Loan Portfolio Management 
+
+Our portfolio of mortgage loans
+and Church Bonds is managed and serviced by our Advisor in accordance with the Advisory Agreement. The Advisor is responsible for all
+aspects of our mortgage loan business, including closing and recording of mortgage loans; collecting payments of principal and interest
+regularly and upon the maturity of a loan; enforcing loan payments and other lender's requirements; periodic review of each mortgage loan
+file and determination of its reserve classification; and exercising our remedies in connection with any defaulted or non-performing loans.
+Fees and costs of attorneys, insurance, bonds and other direct expenses incurred in connection with the exercise of such remedies are
+our responsibility. We may, however, recoup these expenses from the borrower in the process of pursuing our remedies. The Advisor will
+not receive any additional compensation for services rendered in connection with loan portfolio management or exercising remedies on our
+behalf in the event of a loan default. 
+
+Loan Funding and Bank Borrowing 
+
+Our mortgage loans (and our purchases
+of Church Bonds) are funded with available cash. 
+
+We have established a 4 million-dollar
+line of credit with a local bank with a current outstanding balance of 2,288,000 at December 31, 2020. In addition, we may borrow up
+to 300 of our shareholders equity (in the absence of a satisfactory showing that a higher level of borrowing is appropriate; any
+excess in borrowing over such 300 level must be approved by a majority of the Independent Directors and disclosed to shareholders in
+the next quarterly report along with justification for such excess) to make loans regardless of our capacity to (i) sell our securities
+on a continuing basis, or to (ii) reposition assets from the maturity or early repayment of mortgage loans in our secured investor certificates,
+minus reserves for operating expenses, and bad-debt reserves, as determined by the Advisor. Cash resources available to us for lending
+purposes include, in addition to the net proceeds from any future sales of our common stock, secured investor certificates (if any) or
+other debt securities, (i) principal repayments from borrowers on loans made by us and (ii) funds borrowed under any line of credit arrangement. 
+
+Public Offerings - Secured Investor Certificates 
+
+In September 2017, we filed a
+registration statement with the Securities and Exchange Commission to offer 10,000,000 worth of Series E secured investor certificates.
+The offering was declared effective by the SEC on November 6, 2017. The certificates were offered in multiples of 1,000 with interest
+rates ranging from 4.00 to 6.50 , subject to changing market rates, and maturities from 5 to 15 years. The certificates are 
+
+7 
+
+collateralized
+by certain mortgage loans receivable and church bonds of approximately the same value. As of December 31, 2020, we have sold 3,738 Series
+E Secured Investor Certificates totaling 3,738,000. The offering expired on November 6, 2020. 
+
+In July 2014, we filed a registration
+statement with the Securities and Exchange Commission to offer 10,000,000 worth of Series D secured investor certificates. The offering
+was declared effective by the SEC on August 12, 2014. The offering was renewed with an effective date of September 23, 2016. The certificates
+were offered in multiples of 1,000 with interest rates ranging from 4.00 to 6.50 , subject to changing market rates, and maturities
+from 5 and 7 to 15 years. The certificates are collateralized by certain mortgage loans receivable and church bonds of approximately the
+same value. As of December 31, 2020, approximately 8,029 Series D certificates had been issued and were outstanding for 8,029,000. The
+offering terminated in August 2017. 
+
+Previously, we offered Series
+A, Series B and Series C secured investor certificates, at various maturities and interest rates. The weighted average interest rate on
+all outstanding certificates was 6.19 and 6.33 for the years ended December 31, 2020 and 2019, respectively. Holders of the secured
+investor certificates may renew certificates at the current rates and terms upon maturity at the Company s discretion. Renewals
+upon maturity are considered neither proceeds from nor issuance of secured investor certificates. Renewals of secured investor certificates
+totaled approximately 1,007,000 and 793,000 for the years ended December 31, 2020 and 2019, respectively. There were no Series A secured
+investor certificates outstanding as of December 31, 2020 and 2019. There were 6,022,500 and 8,855,000 representing 6,023 and 8,855
+in outstanding Series B secured investor certificates as of December 31, 2020 and 2019, respectively and there were 6,127,000 and 6,324,000
+representing 6,127 and 6,324 in outstanding Series C secured investor certificates at December 31, 2020 and 2019, respectively. All secured
+investor certificates are collateralized by certain mortgage loans receivable or secured church bonds of approximately the same stated
+value as the certificates. In addition, the secured investor certificates have certain financial and non-financial covenants, as set forth
+in each Series respective trust indenture. 
+
+The Advisory Agreement 
+
+We have entered into a contract
+with the Advisor (the Advisory Agreement under which the Advisor furnishes advice and recommendations concerning our business
+affairs, provides administrative services to us and manages our day-to-day operations. We have no employees, but we do have two executive
+officers. All our personnel needs are met through the personnel and expertise of the Advisor and its affiliates. Among other things, the
+Advisor: 
+
+serves as our mortgage loan underwriter and advisor in connection with our primary business
+of making loans to churches; 
+
+advises and selects Church Bonds to be purchased and held for investment
+by us; 
+
+services all mortgage loans we make; 
+
+provides marketing and advertising and generates loan leads directly and
+through its affiliates; 
+
+deals with regulatory agencies, borrowers, lenders, banks, consultants,
+accountants, brokers, attorneys, appraisers, insurers and others; 
+
+supervises the preparation, filing and distribution of tax returns and reports
+to governmental agencies and to shareholders and acts on our behalf in connection with shareholder relations; 
+
+provides office space and personnel as required for the performance of the
+foregoing services; and 
+
+as requested by us, makes reports to us of its performance of the foregoing
+services and furnishes advice and recommendations with respect to other aspects of our business. 
+
+In performing its services under
+the Advisory Agreement, the Advisor may use facilities, personnel and support services of its affiliates. Expenses such as legal and accounting
+fees, stock transfer agent, registrar and paying agent fees and proxy solicitation expenses are direct expenses of ours and are not provided
+for by the Advisor as part of its services. 
+
+The Advisory Agreement is renewable
+annually by us for one-year periods, subject to our determination, including a majority of the Independent Directors, that the Advisor's
+performance has been satisfactory and that the compensation paid the Advisor has been reasonable. The Advisory Agreement was last approved
+by the Board of Directors (including a majority of the Independent Directors) as of January 20, 2021. We may terminate the Advisory Agreement
+with or without cause upon 60 days written notice to the Advisor. Upon termination of the Advisory Agreement by either party, the Advisor
+may require us to change our name to a name that does not contain the word American, America or the name of the
+Advisor or any approximation or abbreviation thereof, and that is sufficiently dissimilar to the word America or American 
+or the name of the Advisor as to be unlikely to cause confusion or identification with either the Advisor or any person or entity using
+the word American or America in its name. Our Board of Directors shall determine that any successor Advisor possesses
+sufficient qualifications to perform the advisory function for us and justify the compensation provided for in its contract with us. 
+
+8 
+
+Pursuant to the Advisory Agreement,
+the Advisor is required to pay all of the expenses it incurs in providing services to us, including, but not limited to, personnel expenses,
+rental and other office expenses, expenses of officers and employees of the Advisor, including travel and all of its overhead and miscellaneous
+administrative expenses relating to performance of its functions under the Advisory Agreement. We are required to pay all other expenses
+we incur in the daily operations of our business such as the costs and expenses of reporting to various governmental agencies and
+shareholders; the general conduct of our operations as a mortgage lender; fees and expenses of appraisers, directors, auditors, outside
+legal counsel and transfer agents; directors and officers liability insurance premiums; unreimbursed costs directly relating to closing
+of loan transactions; and costs relating to the enforcement of loan agreements and/or foreclosure proceedings. 
+
+In the event that our Total Operating
+Expenses exceed in any calendar year the greater of (a) 2 of our Average Invested Assets or (b) 25 of our net income, the Advisor is
+obligated to reimburse us, to the extent of its fees for such calendar year, for the amount by which the aggregate annual operating expenses
+paid or incurred by us exceed the limitation. Total operating expenses as defined in the Advisory Agreement exclude expenses of raising
+capital, interest payments, taxes, non-cash expenditures (including, but not limited to, depreciation, amortization and bad debt reserves),
+incentive fees and property operation and disposition costs. The Independent Directors may, upon a finding of unusual and non-recurring
+factors which they deem sufficient, determine that a higher level of expenses is justified in any given year. 
+
+Our bylaws provide that the Independent
+Directors are to determine at least annually the reasonableness of the compensation we pay to our Advisor. The Advisory Agreement was
+renewed for a one-year period as of January 20, 2021 and the reasonableness of our Advisor s compensation was reviewed as of this
+date as well. Factors considered in reviewing the Advisory Fee include the size of the fees of the Advisor in relation to the size, composition
+and profitability of our loan portfolio, the rates charged by other advisors performing comparable services, the success of the Advisor
+in generating opportunities that meet our investment objectives, the amount of additional revenues realized by the Advisor for other services
+performed for us, the quality and extent of service and advice furnished by the Advisor, the quality of our investments in relation to
+investments generated by the Advisor for its own account, if any, and the performance of our investments. 
+
+The Advisory Agreement provides
+for indemnification by us of the Advisor and each of its directors, officers and employees against expense or liability arising out of
+such person's activities in rendering services to us, provided that the conduct against which the claim is made was determined by such
+person, in good faith, to be in our best interests and was not the result of negligence or misconduct. 
+
+Financing Policies 
+
+Our business of mortgage lending
+to churches and other non-profit religious organizations is managed in accordance with and subject to the policies, guidelines, restrictions
+and limitations identified herein (collectively, the Financing Policy ). The intent of the Financing Policy is to identify
+for our shareholders not only the general business in which we are involved, but the parameters of our lending business. These policies
+may not be changed (except in certain immaterial respects by majority approval of the Board of Directors) without the approval of a majority
+of the Independent Directors, and the holders of a majority of our outstanding shares at a duly held meeting for that purpose: 
+
+(i) Loans made by us will be limited to churches and other non-profit religious organizations and will be
+secured by mortgages. The total principal amount of all second mortgage loans that we fund is limited to 20 of Average Invested Assets.
+All other loans will be first mortgage loans. 
+
+(ii) The total principal amount of mortgage-secured debt securities we purchase from churches and other non-profit
+religious organizations is limited to 40 of our Average Invested Assets. 
+
+(iii) The loan amount cannot exceed 75 of the value of the real estate and improvements securing each loan,
+such value being determined based on a written appraisal prepared by an appraiser acceptable to the Advisor. On all loans, we will require
+a written appraisal certified by a member of the Appraisal Institute MAI ), or a state-certified appraiser. 
+
+(iv) An ALTA (American Land Title Association) or equivalent Mortgage Title Policy must be furnished to us
+by the borrower insuring our mortgage interest. 
+
+(v) The borrower's long-term debt (including the proposed loan) cannot exceed four times their gross income
+for the previous twelve (12) months. 
+
+9 
+
+(vi) The borrower must furnish us with financial statements (balance sheet and income and expense statement)
+for its last three (3) complete fiscal years and current financial statements for the period within ninety (90) days of the loan closing
+date. A borrower must have the last complete fiscal year financial statements reviewed by a certified public accountant (CPA) engaged
+by the borrower and who is independent of the borrower. On loans in excess of 500,000 our Advisor may require the last complete fiscal
+year be audited by a CPA engaged by the borrower and who is independent of the borrower. In lieu of the above requirement, we or our Advisor
+may employ a qualified accountant. The qualified accountant we employ would be required to be independent of the borrower. Our employed
+qualified accountant would not be independent of us. Compiled financial statements of the borrower are acceptable from our employed qualified
+accountant. Along with the compiled financial statements of the borrower, our employed qualified accountant would perform partial and
+targeted review examination procedures for borrowers. On loans in excess of 500,000, the Advisor may require partial and targeted audit
+examination procedures for borrowers. 
+
+(vii) Borrowers in existence for less than three (3) fiscal years must provide financial statements since their
+inception. No loan will be extended to a borrower in operation less than two (2) calendar years absent express approval by our Board of
+Directors . 
+
+(viii) The Advisor typically requires the borrower to arrange for automatic electronic payment or drafting of
+monthly payments. 
+
+(ix) The Advisor may require (i) key-man life insurance on the life of the senior pastor of a church; (ii)
+personal guarantees of church members and/or affiliates; and (iii) other security enhancements for our benefit. 
+
+(x) The borrower must agree to provide to us annual reports (including financial statements) within 120 days
+of each fiscal year end beginning with the fiscal year end next following the funding of the loan. 
+
+(xi) The Advisor may require the borrower to grant to us a security interest in all personal property located
+and to be located upon the mortgaged premises (excluding property leased by the borrower). 
+
+(xii) We require borrowers to maintain a general perils and liability coverage insurance policy naming us as
+the loss-payee in connection with damage or destruction to the property of the borrower which typically includes weather-related damage,
+fire, vandalism and theft. Our Advisor may require the borrower to provide flood, earthquake and/or other special coverage. 
+
+These Financing Policies are in addition to the prohibited
+investments and activities identified below and which are set forth in our Bylaws. 
+
+Prohibited Investments and Activities 
+
+Our Bylaws impose certain prohibitions
+and restrictions on our investment practices and lending activities, including prohibitions against: 
+
+(i) Investing more than 10 of our total assets in unimproved real property or mortgage loans on unimproved
+real property; 
+
+(ii) Investing in commodities or commodity futures contracts other than interest rate futures contracts
+intended only for hedging purposes; 
+
+(iii) Investing in mortgage loans (including construction loans) on any one property which in the aggregate
+with all other mortgage loans on the property would exceed 75 of the appraised value of the property unless substantial justification
+exists because of the presence of other underwriting criteria; 
+
+(iv) Investing in mortgage loans that are subordinate to any mortgage or equity interest of the Advisor or
+the Directors or any of their affiliates; 
+
+(v) Investing
+in equity securities; 
+
+10 
+
+(vi) Engaging
+in any short sales of securities or in trading, as distinguished from investment activities; 
+
+(vii) Issuing
+redeemable equity securities; 
+
+(viii) Engaging
+in underwriting or the agency distribution of securities issued by others; 
+
+(ix) Issuing options or warrants to purchase our shares at an exercise price less than the fair market value
+of the shares on the date of the issuance or if the issuance thereof would exceed 10 in the aggregate of our outstanding shares; 
+
+(x) The aggregate borrowings of the corporation, secured and unsecured, must be reasonable in relation to
+the Shareholders Equity of the corporation and must be reviewed by the Independent Directors at least quarterly. The maximum amount
+of such borrowings cannot exceed 300 of shareholders equity. Any excess in borrowing over such 300 level must be approved by
+a majority of Independent Directors and disclosed to shareholders in the next quarterly report along with justification for such excess; 
+
+(xi) Investing in real estate contracts of sale unless such contracts are in recordable form and are appropriately
+recorded in the chain of title; 
+
+(xii) Selling or leasing to the Advisor, a Director or any affiliate thereof unless approved by a majority of
+our Directors (including a majority of our Independent Directors), who are not otherwise interested in such transaction, as being fair
+and reasonable to us; 
+
+(xiii) Acquiring property from any Advisor or Director, or any affiliate thereof, unless a majority of our Directors
+(including a majority of our Independent Directors) who are not otherwise interested in such transaction approve the transaction as being
+fair and reasonable and at a price to us which is no greater than the cost of the asset to such Advisor, Director or any affiliate thereof,
+or if the price to us is in excess of such cost, that substantial justification for such excess exists and such excess is reasonable.
+In no event shall the cost of such asset exceed its current appraised value; 
+
+(xiv) Investing or making mortgage loans unless a mortgagee's or owner's title insurance policy or commitment
+as to the priority of the mortgage or condition of title is obtained; or 
+
+(xv) Issuing shares on a deferred payment basis or other similar arrangement. 
+
+We do not invest in the securities
+of other issuers for the purpose of exercising control, engage in the purchase and sale of investments other than as described in this
+Report, offer securities in exchange for property unless deemed prudent by a majority of the Directors, or make loans to other persons
+except in the ordinary course of our business as described herein. 
+
+We will not make loans to or
+borrow from, or enter into any contract, joint venture or transaction with, any of our Directors or officers, the Advisor or any affiliate
+of any of the foregoing unless a majority of our Directors, including a majority of our Independent Directors, approves the transaction
+as fair and reasonable to us and the transaction is on terms and conditions no less favorable to us than those available from unaffiliated
+third parties. Any investment by us in any property, mortgage or other real estate interest pursuant to a transaction with the Advisor
+or any Directors or officers thereof will be based upon an appraisal of the underlying property from an independent qualified appraiser
+selected by the Independent Directors and will not be made at a price greater than fair market value as determined by such appraisal. 
+
+Under Performing and Non-Performing Loans 
+
+As of December 31, 2020, we had
+nine first mortgage loans totaling approximately 3,384,000 that are three or more monthly payments in arrears. We may incur a loss if
+these borrowers are unable to bring their payments current and we are compelled to foreclose on their properties. We may be unable to
+dispose of the foreclosed properties on terms that enable us to recoup our expenses and outstanding balances. 
+
+As of December 31, 2020, we held
+title to one property located in Pine Bluff, Arkansas via deed in lieu of foreclosure, with an outstanding loan balance totaling 237,760.
+The Church is still occupying this property and paying rent while trying to either sell the building or obtain refinancing. We foreclosed
+on another property located in Atlanta, Georgia which we are currently 
+
+11 
+
+owed
+ 551,062. We have obtained title to the property but have not taken possession due to court proceedings in which the previous owner has
+filed numerous appeals regarding our foreclosure. 
+
+As of December 31, 2019, we had
+ten first mortgage loans totaling approximately 4,074,000 that were three or more monthly payments in arrears. In addition, we held title
+to one property located in Bethel, Ohio through a 2018 foreclosure process with an outstanding balance of 114,632. We subsequently sold
+this property in 2020 for 87,594 after realtor fees and closing costs. 
+
+Competition 
+
+The business of making loans
+to churches and other non-profit religious organizations is highly competitive. We compete with a wide variety of investors and other
+lenders, including banks, insurance companies, pension funds and fraternal organizations which may have investment objectives similar
+to our own. A number of these competitors have greater financial resources, larger staffs and longer operating histories than we do. We
+compete principally by limiting our business niche to lending to churches and other non-profit religious organizations, offering
+loans with competitive and flexible terms, and emphasizing our expertise in the specialized industry segment of lending to churches and
+other religious organizations. Our competitive specialty is in offering fixed-rate, long-term loans, which few of our competitors
+make available to churches. 
+
+Employees 
+
+We have no employees, but we
+have two executive officers: Philip J. Myers, our Chief Executive Officer and President, and Scott J. Marquis, our Chief Financial Officer
+and Treasurer. Our daily operations and other material aspects of our business are managed by Church Loan Advisors, Inc. (the Advisor on a turn-key basis using employees of the Advisor and/or its Affiliates. At present, certain officers and directors of
+the Advisor are providing services to us at no charge and which will not be reimbursed to them. These services include, among others,
+legal and analytic services relating to the execution of our business plan, development and preparation of reports to be filed under the
+Securities Exchange Act, and utilization of proprietary forms and documents utilized by the Advisor in connection with our business operations. 
+
+Subject to the supervision of
+the Board of Directors, our business is managed by the Advisor, which provides us investment advisory and administrative services. Philip
+J. Myers, our Chief Executive Officer, President and a Director, is President of the Advisor and President of American Investors Group,
+Inc., the underwriter of our past public offerings and the bond offerings in which we have purchased Church Bonds. The Company utilizes
+two employees of the Advisor on a full-time basis and one member of its staff on a part-time or other basis. The Company does not presently
+expect to directly employ anyone in the foreseeable future, since all of our administrative functions and operations are contracted through
+the Advisor. However, legal, accounting and certain other services are provided to us by outside professionals and paid by us directly. 
+
+Operations 
+
+Our operations are currently
+located in the 3,000 square foot offices of the Advisor s affiliate, Church Loan Advisors, Inc., 10400 Yellow Circle Drive, Ste.
+102, Minnetonka, Minnesota 55343. These facilities are being leased by Church Loan Advisors, Inc. on our behalf. The lease expires November
+30, 2021. We are charged 2,500 for our use of these facilities, but are not charged for our use of computers, copying services, telephones,
+facsimile machines, postage service, office supplies or employee services, since these costs are covered by the advisory fee paid to the
+Advisor. However, we do pay postage service for costs associated with the distribution of dividends and proxy materials to our shareholders. 
+
+Item 1A. Risk Factors. 
+
+Risks Related to Mortgage Lending 
+
+The Outbreak of the Novel Coronavirus
+(COVID-19) has Adversely Affected the Operations of Churches and Other Non-Profit Religious Organizations Operations in general. The
+outbreak of the novel coronavirus (COVID-19) has reduced the ability of people to congregate and has adversely affected the operations
+of churches and other non-profit religious organizations in general. The actual and threatened spread of coronavirus globally or in the
+regions in which we operate, or future widespread outbreak of infectious or contagious disease, such as influenza, coronavirus, measles,
+mumps, zika virus, or similar viruses, can continue to adversely affect the operations of our borrowers in general. 
+
+The extent to which our business
+may be affected by the coronavirus will largely depend on future developments which we cannot accurately predict, and its impact on our
+borrowers, including the duration of the outbreak, the continued spread 
+
+12 
+
+and
+treatment of the coronavirus, and new information and developments that may emerge concerning the severity of the coronavirus and the
+actions to contain the coronavirus or treat its impact, among others. To the extent that churches and other non-profit religious organizations
+operations in the U.S. are materially and adversely affected by the coronavirus, our business and financial results could be materially
+and adversely impacted. 
+
+In 2020, we provided some temporary
+relief by allowing borrowers to either make interest only payments for a period of 90 days or forgo one monthly mortgage payment (forbearance).
+We provided nine churches, totaling approximately 3,209,000 in principal outstanding, ninety days interest only payments. We also provided
+five churches with a total of approximately 2,618,000 in principal outstanding, one-month forbearance of its mortgage payments. As of
+December 31, 2020, all churches, except four, have returned to full monthly amortized payments. These four churches totaling approximately
+ 758,000, in principal outstanding, have remained on interest only payments due to continual shelter-in-place or restrictions on gathering
+by either local or state government agencies. 
+
+A Recession Could have a Material
+Adverse Effect on the Mortgage Lending Industry and Our Results of Operations. The performance of the mortgage lending industry
+usually follows the general economy. During the recession of 2008 and 2009, mortgage lending was reduced and borrowers 
+ability to remain current on loans was severely strained, which had a significant effect on our results of operations. A stall in
+the economic recovery or a resurgent recession could have a material adverse effect on the mortgage lending and church bond industry and,
+thus, on our results of operations. 
+
+We Are Subject to the Risks Generally Associated
+with Mortgage Lending. Mortgage lending involves various risks, many of which are unpredictable and beyond our control and foresight.
+It is not possible to identify all potential risks associated with mortgage lending. Some of the more common risks encountered may be
+summarized as follows: 
+
+low demand for mortgage loans 
+ 
+ interest rate and real estate valuation fluctuations 
+ 
+ changes in the level of consumer confidence 
+ 
+ availability of credit-worthy borrowers 
+ 
+ national and local economic conditions 
+ 
+ demographic and population patterns 
+ 
+ zoning regulations 
+ 
+ taxes and tax law changes 
+
+availability of alternative financing and competitive conditions 
+ 
+ factors affecting specific borrowers 
+ 
+ losses associated with default, foreclosure of a mortgage, and sale of the mortgaged property 
+ 
+ state and federal laws and regulations 
+ 
+ bankruptcy or insolvency of a borrower 
+ 
+ borrower s misrepresentation(s) and/or fraud 
+
+Losses Associated with Default,
+Foreclosure of a Mortgage and Sale of Mortgaged Property Pose Additional Risks . We have experienced losses associated with default,
+foreclosure of mortgages, and sales of mortgaged properties. The time frame to foreclose on a property varies from state to state, and
+delays can occur due to backlog in court dockets; we have experienced delays from 12 to 48 months. Such delays have and can cause the
+value of the mortgaged property to further deteriorate due to lack of maintenance. Theft and vandalism have also occurred on certain of
+our foreclosed properties. Some borrowers have removed fixtures and furnishings including sound systems, chairs, pulpits, appliances,
+mechanical and electrical systems prior to vacating the facility which further reduces the value of our collateral. The properties also
+incur operating expenses pending their sale (resale marketing, property insurance, security, repairs and maintenance) and these expenses
+could be substantial if we cannot readily dispose of the property. Expenses related to the foregoing and diminution in value could prevent
+us from recovering the full value of a loan in the event of foreclosure, which shortfall would decrease the value of assets held by the
+Company and could negatively impact the Company s ability to pay interest on its outstanding secured investor certificates or dividends
+to shareholders. 
+
+Real Estate Taxes Resulting
+from a Foreclosure May Prevent Us from Recovering the Full Value of a Loan . If we foreclose on a mortgage and take legal title to
+a church s real estate, real estate taxes could be levied and assessed against the property since the property would no longer be
+owned by a non-profit entity. These expenses would be our financial responsibility and could be substantial in relation to our prior loan
+if we cannot readily dispose of the property. Such expenses could prevent us from recovering the full value of a loan in the event of
+foreclosure, which shortfall would decrease the value of assets held by the Company. 
+
+Second Mortgage Loans Pose
+Additional Risks . Our financing policies allow us to make second mortgage loans. The principal amount of such loans may not exceed
+20 of our Average Invested Assets. Second mortgage loans entail more risk 
+
+13 
+
+than
+first mortgage loans, as foreclosure of senior indebtedness or liens could require us to pay the senior debt or risk losing our mortgage
+or reduced collateral value may reduce or eliminate our security. 
+
+Fixed and Variable-Rate Debt
+Can Result in Yield Fluctuations . Fixed and variable-rate debt obligations carry certain risks. A general rise in interest rates could
+make the yield on a particular mortgage loan lower than prevailing rates. This could negatively affect our value and consequently the
+value of our shares and certificates. Neither we nor our Advisor can predict changes in interest rates. We will attempt to reduce this
+risk by maintaining medium and longer-term mortgage loans and through offering adjustable rate loans to borrowers. We do not intend to
+borrow funds or sell certificates if the cost of such borrowing exceeds the income we believe we can earn from lending the funds. The
+current average holding period of our debt is approximately seven and a half years, which has mitigated this risk in yield fluctuations. 
+
+The Mortgage Banking Industry
+Is Highly Competitive . We compete with a wide variety of lenders, including banks, credit unions, insurance companies, pension funds
+and fraternal organizations for mortgage loans. Many competitors have greater financial resources, larger staffs and longer operating
+histories than we have, and thus may be a more attractive lender to potential borrowers. We intend to compete by limiting our business
+ niche to lending to churches and other non-profit religious organizations, offering loans with competitive and flexible
+terms, and emphasizing our expertise in the specialized industry segment of lending to churches and other non-profit religious organizations. 
+
+Fluctuations in Interest Rates
+May Affect Our Ability to Generate New Loans . Prevailing market interest rates impact borrower decisions to obtain new loans or to
+refinance existing loans, possibly having a negative effect upon our ability to originate mortgage loans. If interest rates decrease and
+the economic advantages of refinancing mortgage loans increase, then prepayments of higher interest mortgage loans in our portfolio would
+likely reduce our portfolio s overall rate of return (yield). 
+
+We Are Subject to the Risks
+Associated with Fluctuations in National and Local Economic Conditions . The mortgage lending industry is subject to increased credit
+risks and foreclosure rates during economic downturns. In addition, because we provide mortgages to churches and other religious organizations
+who generally receive financing through charitable contributions, our financial results are subject to fluctuations based on a lack of
+consumer confidence or a severe or prolonged national or regional recession. As a result of these and other circumstances, our potential
+borrowers may decide to defer or terminate plans for financing their properties. In addition, during such economic times we may be unable
+to locate as many credit-worthy borrowers. In addition, we believe the risks associated with our business are more severe during periods
+of economic slowdown or recession if these periods are accompanied by declining values in real estate. For example, declining real estate
+values would likely reduce the level of new loan originations, since borrowers often use increases in the value of their existing properties
+to support the purchase of or investment in additional properties. Borrowers may also be less able to pay principal and interest on our
+loans if the real estate economy is weak, which could result in higher default rates. Higher default rates could adversely affect the
+Company s results of operations, which could negatively impact the Company s ability to pay interest on the certificates and
+dividends to shareholders. Further, declining real estate values significantly increase the likelihood that we will incur losses in the
+event of default because the value of our collateral may be insufficient to cover our basis in the investment. 
+
+The Company Faces Certain
+Risks and Uncertainties Related to Financing and Liquidity, and These Volatilities Could Have an Impact on Its Operations and Its Ability
+to Maintain its Long-term Capital Needs and/or Secure Additional Financing. The Company faces certain risks and uncertainties, particularly
+during volatile market conditions. In addition, liquidity, during such time periods, can be tight in all financial markets, including
+the debt and equity markets. These volatilities could have an impact on operations to the extent that the Company experiences slower maturities
+or repayment of mortgage loans, illiquid markets for our bond portfolio, or a higher redemption rate on our secured investor certificates
+than has been the case historically. 
+
+Our Business May Be Adversely
+Affected if Our Borrowers Become Insolvent or Bankrupt . If any of our borrowers become insolvent or bankrupt, the borrower s
+mortgage payments will be delayed and may cease entirely. Because our borrowers are churches and other religious organizations who generally
+receive financing through charitable contributions, if their members experience a decrease in pay or lose their jobs and are unable to
+secure new ones, they may make fewer or no contributions to our borrowers, which could result in the borrower s inability to make
+mortgage payments or make them on time. In those situations, we may be forced to foreclose on the mortgage and take legal title to the
+real estate and incur expenses related to the foreclosure and disposition of the property. Such increased expenses paired with possible
+lower real estate values (having been reduced by the foregoing expenses) could adversely affect the Company s results of operations. 
+
+We Have Fluctuating Earnings.
+ As a mortgage lender, we make provision for losses relating to our loan portfolio and sometimes take impairment charges due to our
+borrowers defaulting or declaring bankruptcy. Increases in the occurrence of such events results in greater fluctuation of our earnings,
+which reduces our net income. Our earnings are also impacted by 
+
+14 
+
+non-performing
+assets and the carrying cost of maintaining such assets (taxes, insurance and maintenance). Inconsistent earnings could adversely affect
+the Company s financial condition and results of operations. 
+
+Risks Related to Mortgage Lending to Churches 
+
+Churches Rely on Member Contributions
+to Repay Our Loans. Churches typically rely on member contributions for their primary source of income. As such, member contributions
+are the primary source used to repay our loans. The membership of a church or the per capita contributions of its members may not increase
+or remain constant after a loan is funded. A decrease in a church s income could result in its temporary or continued inability
+to pay its obligation to us, which may affect our ability to pay dividends on our common stock or pay interest or principal due on certificates.
+We have no control over the financial performance of a borrowing church after a loan is funded. 
+
+Churches Depend Upon Their
+Senior Pastors. A church s senior pastor usually plays an important role in the management, leadership and continued viability
+of that church. A senior pastor s absence, resignation or death could have a negative impact on a church s operations, and
+thus its continued ability to generate revenues sufficient to service its obligations to us. 
+
+The Limited Use Nature of
+Church Facilities Can Limit the Resale Value of Our Mortgage Collateral . Our loans are secured principally by first mortgages upon
+the real estate and improvements owned or to be owned by borrowing churches. Although we will require an appraisal of the premises as
+a pre-condition to making a loan, the appraised value of the premises cannot be relied upon as being the actual amount which might be
+obtained in the event we need to foreclose after a default by the borrower. The actual liquidation value of a church, school or other
+institutional premises could be adversely affected by, among other factors: (i) its limited use nature; (ii) the availability on the market
+of similar properties; (iii) the availability and cost of financing, rehabilitation or renovation to prospective buyers; (iv) the length
+of time the seller is willing to hold the property on the market; or (v) the availability in the area of the mortgaged property of congregations
+or other buyers willing to pay the fair value for a church facility. These factors may influence our decision to restructure the terms
+of a non-performing loan rather than foreclose on a church property which may decrease the amount of the loan we recover. 
+
+Expenses of Foreclosure May
+Prevent Us from Recovering the Full Value of a Loan . If we foreclose on a mortgage and take legal title to a church s real estate,
+real estate taxes could be levied and assessed against the property until sold since the property would no longer be owned by a non-profit
+entity. The property may also incur operating expenses pending its sale, such as resale marketing, property insurance, utilities, security,
+repairs and maintenance. These expenses would be our financial responsibility and could be substantial in relation to our prior loan if
+we cannot readily dispose of the property. Such expenses could prevent us from recovering the full value of a loan in the event of foreclosure. 
+
+Risks Related to Us 
+
+Our Failure to Qualify as
+a Real Estate Investment Trust Could Reduce the Funds We Have Available For Investment . We operate as a real estate investment trust REIT ). As a REIT, we are allowed a deduction for dividends paid to our shareholders in computing our taxable income. Thus,
+only our shareholders are taxed on our taxable income that we distribute. This treatment substantially eliminates the double taxation 
+of earnings to which most corporations and their shareholders are subject. Qualification as a REIT involves the application of highly
+technical and complex Internal Revenue Code provisions. 
+
+To qualify and maintain our status
+as a REIT, we must meet certain share ownership, income, asset and distribution tests on a continuing basis. No assurance can be given
+that we will satisfy these tests at all times. Further, the requirements for a REIT may substantially affect day-to-day decision-making
+by our Advisor. Our Advisor may be forced to take action it would not otherwise take or refrain from action which might otherwise be desirable
+in order to maintain our REIT status. 
+
+If we fail to qualify as a REIT
+in any taxable year, then we would be subject to federal income tax on our taxable income at regular corporate rates and not be allowed
+a deduction for distributions to shareholders. We would be disqualified from treatment as a REIT for the four taxable years following
+the year of losing our REIT status. We intend to continue to operate as a REIT. However, future economic, market, legal, tax or other
+consequences may cause our Board of Directors to revoke the REIT election. The payment of taxes resulting from our disqualification as
+a REIT or revocation of REIT status would reduce the funds available for distribution to shareholders or for investment. 
+
+Consistent with our qualification
+as a REIT for federal income tax purposes, we do not file state income tax returns in all states in which the collateral securing our
+loans is located. Since our inception, no state has ever asserted a claim for income taxes on any amount of our earnings or any aspect
+of our operations. Although we believe our position as it relates to state 
+
+15 
+
+income
+taxes is appropriate, there can be no assurance that in the future any state tax jurisdiction will not pursue payment of some amount
+of state income taxes. 
+
+Conflicts of Interest Arise
+from Our Relationship with Our Advisor . The terms of transactions involving our formation and the formation of our Advisor, and our
+contractual relationship with our Advisor, were not negotiated at arm s-length. Our non-independent directors and officers may have
+conflicts of interest in enforcing agreements between us and our Advisor. Future business arrangements and agreements between us and our
+Advisor and their affiliates must be approved by our Board of Directors, including a majority of our Independent Directors. 
+
+Risks Related to the Shares 
+
+Lack of Liquidity and Inconsistent
+Public Market Price. Our common stock is not currently listed or traded on any exchange. Pink Sheet price quotations
+for our stock under the symbol ACMC were made at certain isolated times during 2020 by other broker-dealers at prices as
+low as 0.53 per share and as high as 2.40 per share. In addition, the market for REIT securities historically has been less liquid than
+non-real estate types of publicly-traded equity securities. Because of such illiquidity and the fact that the shares would be valued by
+market-makers (if a material market develops) based on market forces which consider various factors beyond our control, there can be no
+assurance that the market value of the shares at any given time would be the same or higher than the public purchase price of our shares.
+In addition, the market price, if a material market develops, could decline if the yields from other competitive investments exceed the
+actual dividends paid by us on our shares. 
+
+There Are Restrictions on
+Certain Transfers of Our Shares. Our Articles of Incorporation and Bylaws prohibit a transfer of shares to any person who, as a result,
+would beneficially own shares in excess of 9.8 of the outstanding capital stock and allow us to redeem shares held by any person in excess
+of 9.8 of the outstanding capital stock. These provisions may reduce market activity for the shares and the opportunity for shareholders
+to receive a premium for their shares. 
+
+Fluctuations in Interest Rates
+May Cause the Value of Our Shares to Fluctuate. Prevailing market interest rates impact borrower decisions to obtain new loans or
+to refinance existing loans, possibly having a negative effect upon our ability to originate mortgage loans. Fluctuations in interest
+rates may cause the value of the shares to fluctuate unpredictably. If interest rates increase and we are unable to deploy funds into
+higher yielding mortgage loans, the dividends we pay may be less than other organizations which may have investment objectives similar
+to our own. 
+
+Interest Payments to Certificate
+Holders May Reduce Dividend Payments on Our Shares. We attempt to deploy our capital into new loans at rates that provide a positive
+interest rate spread. This spread, however, may be materially and adversely affected by changes in prevailing interest rates which would
+reduce our net income. If this occurs, we may not have sufficient net income after paying interest on the certificates to maintain dividends
+to shareholders at the levels paid in the past or even to pay dividends at all. In addition, because dividends are directly affected by
+the yields generated on the Company s portfolio of loans and bonds, shareholders dividends can be expected to fluctuate significantly
+with interest rates generally. 
+
+Risks Related to the Indebtedness/Certificates 
+
+We May Be Unable to Generate
+Sufficient Cash Flow to Service Our Debt Obligations. Our ability to make payments on our indebtedness and to fund our operations
+depends on our ability to generate cash in the future. Our ability to generate future cash is subject to general economic, industry, financial,
+competitive, operating, legislative, regulatory and other factors that are beyond our control. As such, we cannot assure you that our
+business will generate sufficient cash flow from operations or that future borrowings will be available to us under a credit arrangement
+in an amount sufficient to enable us to pay amounts due on our indebtedness or to fund our other liquidity needs. 
+
+Our ability to obtain additional
+financing, if needed, will depend on, among other things: (i) our financial condition at the time; (ii) restrictions on outstanding indebtedness;
+and (iii) other factors, including the condition of the financial markets or the real estate and real estate lending markets. If we do
+not generate sufficient cash flow from operations, and additional borrowings or proceeds of asset sales are not available to us, we may
+not have sufficient cash to enable us to meet all of our obligations, which could affect our tax status as a REIT. 
+
+We May Incur More Indebtedness.
+ We may incur additional indebtedness in the future. We may assign or pledge some of our mortgage-secured promissory notes or other
+collateral in connection with incurring any additional indebtedness. Under our Bylaws, as amended, we may incur indebtedness up to 300 
+of our shareholder s equity, the level permitted under North American Securities Administrators Association NASAA guidelines, in the absence of a satisfactory showing that a higher 
+
+16 
+
+level
+of borrowing is appropriate; any excess in borrowing over such 300 level must be approved by a majority of the Independent Directors
+and disclosed to shareholders in the next quarterly report along with justification for such excess. 
+
+There Are Potential Adverse
+Effects Associated with Lending Borrowed Funds. In the past, we have deployed the proceeds from the sale of secured investor certificates
+into loans to, and bonds issued by, churches and other non-profit religious organizations. We have also used a credit facility from time
+to time to fund loans and purchase bonds. Lending borrowed funds is subject to greater risks than in unleveraged lending. The profit we
+realize from lending borrowed funds is largely determined by the difference, or spread, between the interest rates we pay
+on the borrowed funds and the interest rates that our borrowers pay us. Our spread may be materially and adversely affected by changes
+in prevailing interest rates. Furthermore, the financing costs associated with lending borrowed funds could decrease the effective spread
+in lending borrowed funds, which could adversely affect our ability to pay interest on and repay the certificates as they mature. 
+
+There Is No Public Market
+for the Secured Investor Certificates . There is no market for the secured investor certificates. It is unlikely that a market will
+develop. There are no current plans to list the secured investor certificates on any exchange or for a broker-dealer to make a market
+in the secured investor certificates. In addition, the market for REIT securities historically has been less liquid than the markets for
+other types of publicly-traded securities. 
+
+There Is No Sinking Fund,
+Insurance or Guarantee Associated with the Secured Investor Certificates. We do not contribute funds to a separate account, commonly
+known as a sinking fund, to repay principal or interest on the secured investor certificates upon maturity or default. Our secured investor
+certificates are not certificates of deposit or similar obligations of, or guaranteed by, any depository institution. Further, no governmental
+or other entity insures or guarantees payment on the secured investor certificates if we do not have enough funds to make principal or
+interest payments. Therefore, holders of our secured investor certificates have to rely on our revenue from operations, along with the
+security provided by the collateral for the secured investor certificates, for repayment of principal and interest on them. 
+
+The Collateral for the Secured
+Investor Certificates May Not Be Adequate If We Default . The secured investor certificates must at all times be secured by mortgage-secured
+promissory notes and church bonds having an outstanding principal balance equal to at least 100 of the outstanding principal balance
+of the secured investor certificates. If we default in the repayment of the secured investor certificates, or another event of default
+occurs, the trustee will not be able to foreclose on the mortgages securing the promissory notes and bonds in order to obtain funds to
+repay certificate holders. Rather, the trustee will need to look to the revenue stream associated with our borrowers payments on
+or repayment of the promissory notes and bonds or revenue derived from sale of the promissory notes or bonds to repay certificate holders.
+If the trustee chooses to rely on revenues received from our borrowers, certificate holders may face a delay in payment on certificates
+in the event of default, as borrowers will repay their obligations to us in accordance with amortization schedules associated with their
+promissory notes or bonds. If the trustee chooses to sell promissory notes or bonds in the event of our default, the proceeds from the
+sales may not be sufficient to repay our obligations on all outstanding or defaulted secured investor certificates. 
+
+The Secured Investor Certificates
+Are Not Negotiable Instruments and Are Subject to Restrictions on Transfer. The secured investor certificates are not negotiable debt
+instruments. Rights of record ownership of the secured investor certificates may be transferred only with our Advisor s prior written
+consent. Certificate holders are not able to freely transfer the secured investor certificates. 
+
+We Are Obligated to Redeem
+Secured Investor Certificates Only In Limited Circumstances. Certificate holders have no right to require us to prepay or redeem any
+certificate prior to its maturity date, except in the case of death or if we replace our current Advisor. Further, even in the event of
+death, we will not be required to redeem secured investor certificates if we have redeemed at least 25,000 of principal amount of certificates
+for the benefit of estates during the calendar quarter. There is no present intention to redeem secured investor certificates prior to
+maturity except in the case of death of a certificate holder. 
+
+We May Not Have Sufficient
+Available Cash to Redeem Secured Investor Certificates If We Terminate Our Advisory Agreement with Our Current Advisor. We will be
+required to offer to redeem all outstanding secured investor certificates if we terminate our advisory agreement with Church Loan Advisors,
+Inc., our Advisor, for any reason. If the holders of a significant principal amount of secured investor certificates request that we redeem
+their certificates, we may be required to sell a portion of our mortgage loan and church bond portfolio to satisfy the redemption requests.
+Any such sale could be at a discount to the recorded value of the mortgage loans and bonds being sold. Further, if we are unable to sell
+loans or church bonds in our portfolio, we may be unable to satisfy the redemption obligations. 
+
+The Indenture Contains Limited
+Protection for Holders of Secured Investor Certificates . The indenture governing the secured investor certificates contains only limited
+events of default other than our failure to pay principal and interest on the 
+
+17 
+
+certificates
+on time. Further, the indenture provides for only limited protection for holders of certificates upon a consolidation or merger between
+us and another entity or the sale or transfer of all or substantially all of our assets. If we default in the repayment of the secured
+investor certificates under the indenture, certificate holders will have to rely on the trustee to exercise any remedies on their behalf.
+Certificate holders will not be able to seek remedies against us directly. 
+
+Risks Related to Management 
+
+We Are Dependent Upon Our
+Advisor . Our Advisor, Church Loan Advisors, Inc., has managed us since commencement of active business operations in 1996 and selects
+our investments subject to general supervision by our Board of Directors and compliance with our lending policies. We depend upon our
+Advisor and its personnel for most aspects of our business operations. Our success depends on the success of our Advisor in locating borrowers
+and negotiating loans upon terms favorable to us. Among others, our Advisor performs the following services for us: 
+
+mortgage loan marketing and procurement 
+ 
+ bond portfolio selection and investment 
+ 
+ mortgage loan underwriting 
+ 
+ mortgage loan servicing 
+ 
+ money management 
+ 
+ developing and maintaining business relationships 
+ 
+ maintaining goodwill 
+
+managing relationships with our accountants and attorneys 
+ 
+ corporate management 
+ 
+ bookkeeping 
+ 
+ reporting to state, federal, tax and other regulatory authorities 
+ 
+ reports to shareholders and shareholder relations 
+ 
+ loan enforcement and collections 
+
+Our shareholders right
+to participate in management is generally limited to the election of directors. Certificate holders have no right to participate in our
+management or the election of directors. Certificate holders must be willing to entrust our management to our Advisor and our Board of
+Directors. 
+
+We Have Conflicts of Interest
+with Our Advisor and Affiliates. Affiliations and conflicts of interests exist among our officers and directors and the owner and
+officers and directors of our Advisor and affiliates. Our Advisor and affiliates are controlled by our Chief Executive Officer and President,
+Philip J. Myers. 
+
+Our Bylaws limit the amount of
+all commissions, mark-downs or mark-ups paid to American. Our business dealings with our Advisor and its affiliates outside of the ordinary
+course of our activities are subject to approval by a majority of our Board of Directors, including a majority of our Independent Directors. 
+
+Generally, mortgage loans we
+originate are smaller than the bond financings originated by American. However, there may be circumstances where our Advisor and American
+could recommend either type of financing to a prospective borrower. The decisions of our Advisor and American could affect the credit
+quality of our portfolio. 
+
+Redemption Obligations Relating
+to the Secured Investor Certificates May Affect Our Ability to Replace Our Advisor. We will be required to offer to redeem all outstanding
+secured investor certificates if we terminate our Advisory Agreement with Church Loan Advisors, Inc. Our Independent Directors are required
+to review and approve the advisory agreement with our Advisor on an annual basis. The redemption provision relating to the secured investor
+certificates may have the effect of reducing our ability to replace our current Advisor. 
+
+Risks Related to Environmental Laws 
+
+We May Face Liability Under
+Environmental Laws. Under federal, state and local laws and regulations, a secured lender (like us) may be liable, under certain limited
+circumstances, for the costs of removal or remediation of certain hazardous or toxic substances and other costs (including government
+fines and injuries to persons and adjacent property). Liability may be imposed whether or not the owner or lender knew of, or was responsible
+for, the presence of hazardous or toxic substances. The costs of remediation or removal of hazardous or toxic substances, or of fines
+for personal or property damages, may be substantial and material to our business operations. The presence of hazardous or toxic substances,
+or the failure to promptly remediate such substances, may adversely affect our ability to resell real estate collateral after foreclosure
+or could cause us to forego foreclosure. This is a changing area of the law. The courts have found both in favor and against lender liability
+in this area under various factual scenarios. 
+
+The Collateral For Our Loans
+and Our Lenders May Be Subject to Environmental Claims. If there are environmental problems associated with the real estate securing
+any of our loans, the associated remediation or removal requirements imposed 
+
+18 
+
+by
+federal, state and local laws could affect our ability to realize value on our collateral or our borrowers ability to repay their
+loans. 
+
+Item 1B. Unresolved Staff Comments. 
+
+Not applicable. 
+
+Item 2. Properties. 
+
+Our operations are located in
+the leased offices of Church Loan Advisors, Inc. It is expected that for the foreseeable future our operations will continue to be housed
+in these or similar leased premises along with the Advisor. We are directly charged for rent, but we do not incur other costs relating
+to such leased space, because our Advisor includes these expenses in the Advisory Fee. 
+
+Real Estate Held for Sale/Description of Properties
+Acquired through Foreclosure 
+
+As of December 31, 2020, we owned
+two properties which we acquired through the foreclosure process. The first property, located in Atlanta, Georgia had a carrying value
+of approximately 433,000. We have obtained title to the property but have not taken possession due to court proceedings in which the
+previous owner has filed numerous appeals regarding our foreclosure. The second property we own is located in Pine Bluff, Arkansas and
+was acquired via deed in lieu of foreclosure and is available for sale. However, it is currently not listed as we have allowed the church
+to either obtain financing from another source or list the property for sale. The Church is paying rent while trying to either sell the
+building or obtain refinancing. We received approximately 15,000 in rental payments from the Church for the year ended December 31, 2020.
+This property is being carried at the fair value which is approximately 226,000 as of December 31, 2020. The situation with respect to
+each property is reviewed periodically. The general competitive conditions surrounding the potential sale of our properties are tied,
+in large part, to the fact that they are special-use properties with variable zoning restrictions. We principally lend to churches, which
+are commonly exempt from zoning restrictions. However, while a church property may be exempt from zoning restrictions, if it is located
+in a residential area, it still may only be used as a church, thereby limiting the pool of potential buyers. On the other hand, a church
+or other property that is zoned for commercial use generally experiences higher demand, as potential buyers can convert the property to
+their own business use. As such, our properties located in residential areas typically experience less demand than those zoned for commercial
+use. Both the Pine Bluff, Arkansas and Atlanta, Georgia properties are in a residential area. 
+
+Item 3. Legal Proceedings. 
+
+There are presently no legal
+actions against us, pending or threatened. 
+
+Item 4. Mine Safety Disclosures 
+
+Not applicable. 
+
+19 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity
+Securities. 
+
+Outstanding Securities 
+
+As of December 31, 2020, 1,676,598
+shares of our common stock and 23,916,500 in aggregate principal amount of secured investor certificates were issued and outstanding. 
+
+Lack of Liquidity and Absence of Public Market
+Price. 
+
+There is virtually no market
+for our common shares. It is not expected that a material market for the shares will develop any time soon. In addition, the market for
+REIT securities historically has been less liquid than non-real estate types of publicly-traded equity securities. Because of such illiquidity
+and the fact that the shares would be valued by market-makers (if a market develops) based on market forces which consider various factors
+beyond our control, there can be no assurance that the market value of the shares would reflect the value of our assets or business and
+no assurance that at any given time would be the same or higher than the public purchase price of our shares. In addition, the market
+price, if a market develops, could decline if the yields from other competitive investments exceed the actual dividends paid by us on
+our shares. Our common stock is not currently listed or traded on any exchange or market. 
+
+Our Common Stock, .01 par value
+per share, occasionally trades on the over-the-counter market Pink Sheets under the symbol ACMC.PK . The following table
+sets forth the high bid quotation and the low bid quotation as quoted by the Pink Sheets in 2020 and 2019. Such over-the-counter market
+quotations reflect inter-dealer prices, without retail mark-up, mark-down or commission and may not necessarily represent actual transactions.
+We did not purchase or sell any common stock shares in 2020. 
+
+High 
+ Low 
+ 
+ Calendar Year 2020 
+
+First Quarter 
+ 2.40 
+ 1.40 
+ 
+ Second Quarter 
+ 1.95 
+ 1.51 
+ 
+ Third Quarter 
+ 1.70 
+ 0.93 
+ 
+ Fourth Quarter 
+ 1.12 
+ 0.53 
+
+Calendar Year 2019 
+
+First Quarter 
+ 2.65 
+ 2.05 
+ 
+ Second Quarter 
+ 2.65 
+ 2.02 
+ 
+ Third Quarter 
+ 2.59 
+ 1.85 
+ 
+ Fourth Quarter 
+ 2.34 
+ 1.83 
+
+Holders of Our Common Shares 
+
+As of December 31, 2020, we had
+438 record holders of our common stock, .01 par value per share (excluding shareholders for whom shares are held in a nominee 
+or street name). 
+
+We paid dividends on our common
+stock for the fiscal years ended December 31, 2020 and 2019 as follows: 
+
+For Quarter Ended: 
+ 
+ Dollar Amount Distributed 
+ Per Share: 
+ 
+ Annualized Yield Per 10 
+ Share Represented: 
+
+2020 
+ 2019 
+ 2020 
+ 2019 
+ 
+ March 31 
+ .040 
+ .055 
+ 1.60 
+ 2.20 
+ 
+ June 30 
+ .010 
+ .060 
+ 0.40 
+ 2.40 
+ 
+ September 30 
+ .020 
+ .100 
+ 0.80 
+ 4.00 
+
+20 
+
+For Quarter Ended: 
+ Dollar Amount Distributed 
+ Per Share: 
+ Annualized Yield Per 10 
+ Share Represented 
+
+2020 
+ 2019 
+ 2020 
+ 2019 
+ 
+ December 31 
+ .010 
+ .075 
+ 0.40 
+ 3.00 
+ 
+ Totals : 
+ .080 
+ .290 
+ 0.80 
+ 2.90 
+
+As a Real Estate Investment Trust,
+we make regular quarterly distributions to shareholders. The amount of distributions to our shareholders must equal at least 90 of our
+ real estate investment trust taxable income in order for us to retain REIT status. Shareholder distributions are estimated
+for our first three quarters of each fiscal year and adjusted annually based upon our final year-end financial report. Cash available
+for distribution to our shareholders is derived primarily from the interest portion of monthly mortgage payments we receive from churches
+borrowing money from us, from origination and other fees paid to us by borrowers in connection with loans we make, interest income from
+mortgage-backed securities issued by churches and other non-profit religious organizations purchased and held by us for investment purposes,
+and earnings on any permitted temporary investments made by us. All dividends are paid by us at the discretion of the Board of Directors
+and will depend upon our earnings and financial condition, maintenance of REIT status, funds available for distribution, results of operations,
+economic conditions, and such other factors as our Board of Directors deems relevant. 
+
+From time to time we offer the
+sale of shares of our common stock or secured investor certificates, the proceeds of which are typically used to fund loans to be made
+by us. Until we have fully invested such funds into loans, the relative yield generated by sales of our shares, and thus, dividends (if
+any) to shareholders, could be less than expected. We seek to address this issue by (i) collecting from borrowers an origination fee at
+the time a loan is made, (ii) timing our lending activities to coincide as much as possible with sales of our securities, and (iii) investing
+our un-deployed capital in permitted temporary investments that offer the highest yields together with safety and liquidity. However,
+there can be no assurance that these strategies will improve current yields to our shareholders. In order to qualify for the beneficial
+tax treatment afforded real estate investment trusts by the Internal Revenue Code, we are required to pay dividends to holders of our
+shares in annual amounts which are equal to at least 90 of our real estate investment trust taxable income. For the fiscal
+year ended December 31, 2020, we distributed 100 of our taxable income to our shareholders in the form of quarterly dividends. We intend
+to continue distributing virtually all of such income to our shareholders on a quarterly basis, subject to (i) limitations imposed by
+applicable state law, and (ii) the factors identified above. The portion of any dividend that exceeds our earnings and profits will be
+considered a return of capital and will not currently be subject to federal income tax to the extent that such dividends do not exceed
+a shareholder's basis in their shares. 100 of the dividends paid to shareholders for the tax year 2020 were non-dividend distributions
+due to the realized (carry-forward) loss totaling approximately 1,935,000 in 2020. We expect dividends paid in 2021 to be 100 non-dividend
+distributions due to the realized (carry-forward) loss totaling approximately 1,620,000. 
+
+Funds available to us from the
+repayment of principal (whether at maturity or otherwise) of loans made by us, or from sale or other disposition of any properties or
+any of our other investments, may be reinvested in additional loans to churches, invested in mortgage-backed securities issued by churches
+or other non-profit organizations, or in permitted temporary investments, rather than distributed to the shareholders. We can pass through
+the capital gain character of any income generated by computing its net capital gains and designating a like amount of our distribution
+to our shareholders as capital gain dividends. The distribution requirement to maintain qualification as a real estate investment
+trust does not require distribution of net capital gains, if generated. However, if we decide to distribute any such gains, undistributed
+net capital gains (if any) will be taxable to us. The Board of Directors, including a majority of our Independent Directors, will determine
+whether and to what extent the proceeds of any disposition of property will be distributed to our shareholders. 
+
+Equity Compensation Plans 
+
+We do not have any equity compensation
+plans under which equity securities of the Company are authorized for issuance. 
+
+Item 6. [Reserved] 
+
+Item 7. Management's Discussion and Analysis of
+Financial Condition and Results of Operations. 
+
+The following discussion regarding
+our financial statements should be read in conjunction with the financial statements and notes thereto included in this Annual Report
+beginning at page F-1 and our forward-looking statement disclosure at the beginning of Part I to this Annual Report. 
+
+21 
+
+Financial Condition 
+
+Our total assets decreased from
+ 37,942,640 at December 31, 2019 to 35,574,723 at December 31, 2020. The primary reason for the decrease in total assets from December
+31, 2019 through December 31, 2020 was a decrease in our mortgage loans receivable. Shareholders equity decreased from 10,347,772
+at December 31, 2019 to 10,085,327 at December 31, 2020. This was primarily due to a net loss of 125,580) and dividends declared and
+paid totaling 134,176. Our primary liabilities at December 31, 2020 and 2019 were our secured investor certificates, which were 23,916,500
+and 26,850,000, respectively. We also had dividends declared as of the end of the period reported on, but which are not paid before the
+30 th day of the ensuing month. We anticipate that funds from maturing loans and bonds will equal or exceed obligations due
+on our certificates after 2020. To the extent necessary, we will seek short-term financing or a new working capital facility, including
+our line of credit with a local bank, to meet any short-term cash requirements. 
+
+Comparison of the Fiscal Years ended December 31, 2020 and 2019 
+
+The following table shows the results of our operations for fiscal 2020
+and 2019: 
+
+For the Year Ended December 31, 
+
+Statement of Operations Data 
+ 2020 
+ 2019 
+
+Interest and other income 
+ 2,543,507 
+ 2,808,534 
+ 
+ Interest expense 
+ 1,776,427 
+ 1,882,290 
+ 
+ Net interest income 
+ 777,080 
+ 926,244 
+ 
+ Total provision for losses on mortgage loans and bonds 
+ 64,509 
+ 87,727 
+ 
+ Net interest income after provision for mortgage and bonds losses 
+ 712,571 
+ 838,517 
+ 
+ Operating expenses 
+ 838,430 
+ 780,731 
+ 
+ Net (loss) income 
+ (125,859 
+ 57,786 
+ 
+ Basic and diluted (loss) income per share 
+ (0.08 
+ 0.03 
+
+Results of Operations 
+
+Since we began active business
+operations on April 15, 1996, we have paid 99 consecutive quarterly dividend payments to shareholders. These dividend payments have resulted
+in an average annual return of 5.083 to shareholders who purchased shares at 10 per share in our public offerings of stock. Each loan
+funded during the quarter generates origination income of which one-half is due and payable to shareholders as taxable income even though
+origination income is not recognized in its entirety for the period under accounting principles generally accepted in the United States
+of America GAAP ). The other one-half of any origination income generated is due to our Advisor. We anticipate distributing
+all of our taxable income in the form of dividends to our shareholders in the foreseeable future to maintain our REIT status and to provide
+income to our shareholders. 
+
+Net (loss) for our year ended
+December 31, 2020 was (125,859) on total interest and other income of 2,543,507 compared to net income of 57,786 on total interest
+and other income of 2,808,534 for the year ended December 31, 2019. The decrease in net income was primarily due to the decrease in size
+of loans outstanding and interest income received from our loan portfolio and an increase in other operating expenses. 
+
+Net interest income earned on
+the Company's portfolio of loans was 777,080 for the year ended December 31, 2020, compared to 926,244 for December 31, 2019. The decrease
+in net interest income was due to the decrease in loans outstanding in our loan portfolio. 
+
+Our operating expenses for our
+fiscal year ended December 31, 2020 were 838,430 compared to 780,731 for our year ended December 31, 2019. The increase in operating
+expenses was primarily a result of an increase in our legal fees involving our properties in foreclosure. 
+
+Our Board of Directors declared
+dividends of .040 for each share of record on April 28, 2020, .010 for each share of record on July 29, 2020, .020 for each shares
+of record on October 30, 2020 and .010 for each shares of record on January 28, 2021. Based on the quarters ended March 31, 2020, June
+30, 2020, September 30, 2020 and December 31, 2020 and assuming a share purchase price of 10.00, the dividends paid represented a 0.80 
+annual yield in 2020. 100 of the dividends paid to shareholders for the tax year 2020 were non-dividend distributions due to the realized
+(carry-forward) loss of approximately 
+
+22 
+
+1,935,000.
+We expect dividends paid in 2021 to be 100 non-dividend distributions due to the realized (carry-forward) losses totaling approximately
+ 1,620,000 for the period ended December 31, 2021. 
+
+We choose to distribute income
+from ongoing operations in the form of dividends to shareholders. As a Real Estate Investment Trust we are required to distribute up to
+90 of our taxable income. The table below reflects taxable income, net income from operations, dividend distributions and the effect
+of the distributions to shareholders for the periods ended December 31, 2020 and 2019. Any amount distributed to shareholders in excess
+of income from ongoing operations is deemed to be return of principal which results in a reduction of our shareholder equity. 
+
+December 31, 2020 
+ December 31, 2019 
+
+Net Taxable Income 
+ 18,484 
+ 152,233 
+ 
+ Net Income From Operations (EBITA) 
+ 125,317 
+ 485,011 
+ 
+ Total Dividend Distributions 
+ 134,176 
+ 486,562 
+ 
+ Principal Distribution 
+ 8,859 
+ 1,551 
+ 
+ Number of Shares Outstanding 
+ 1,676,598 
+ 1,667,798 
+ 
+ Amount of Principal Distributed per Share 
+ 0.00 
+ 0.00 
+
+Liquidity and Capital Resources 
+
+Our revenue is derived principally
+from interest income, and secondarily, from origination fees and renewal fees generated by mortgage loans that we make. We also earn income
+through interest on funds that are invested pending their use in funding mortgage loans or distributions of dividends to our shareholders,
+and on income generated on church bonds we may purchase and own. We generate revenue through (i) permitted temporary investments of cash,
+and (ii) making mortgage loans to churches and other non-profit religious organizations. Our principal expenses are interest on our secured
+investor certificates, advisory fees, legal and auditing fees, communications costs with our shareholders, and the expenses of our transfer
+agent and registrar. 
+
+Our loan portfolio consists primarily
+of long-term fixed rate loans. Historically, loans in our portfolio are outstanding for an average of approximately seven and a half years.
+Our borrowers are typically small independent churches with little or no borrowing history. Once a church establishes a payment history
+with us, they often look to re-finance their loan with a local bank, credit union or other financial institution that is willing to provide
+financing since the borrower has established a payment history and has demonstrated they can meet their mortgage debt obligations. 
+
+Currently, our bond portfolio
+comprises 35 of our assets under management. The total principal amount of mortgage- secured debt securities we purchase from churches
+and other non-profit religious organizations is limited to 40 of our Average Invested Assets. Excluded from this ratio of 40 for the
+year ended December 31, 2020 are bonds issued of which we hold 100 of the total bonds outstanding. The total principal amount outstanding
+is approximately 18,299,000 as of December 31, 2020 and was approximately 16,688,000 as of December 31, 2019. We earned approximately
+ 1,011,000 on our bond portfolio in 2020 and approximately 1,054,000 in 2019. 
+
+In addition, we are able to borrow
+funds in an amount up to 300 of shareholder s equity (in the absence of a satisfactory showing that a higher level of borrowing
+is appropriate; any excess in borrowing over such 300 level must be approved by a majority of the Independent Directors and disclosed
+to shareholders in the next quarterly report along with justification for such excess) in order to increase our lending capacity. 
+
+In September 2017, we filed a
+registration statement with the Securities and Exchange Commission to offer 10,000,000 worth of Series E secured investor certificates.
+The offering was declared effective by the SEC on November 6, 2017. We sold 3,738 Series E secured investor certificates for a total of
+ 3,738,000 for as of December 31, 2020. The offering terminated November 6, 2020. 
+
+In July 2014, we filed a registration
+statement with the Securities and Exchange Commission to offer 10,000,000 worth of Series D secured investor certificates. The offering
+was declared effective by the SEC on August 12, 2014. The offering was renewed with an effective date of September 23, 2016. The certificates
+were offered in multiples of 1,000 with interest rates ranging from 4.00 to 6.50 , subject to changing market rates, and maturities
+from 5 and 7 to 15 years. The certificates are collateralized by certain mortgage loans receivable and church bonds of approximately the
+same value. As of December 31, 2020, approximately 8,029 Series D certificates had been issued and were outstanding for 8,029,000. The
+offering terminated in August 2017. 
+
+23 
+
+The table below shows the principal
+amount of loans and bonds to be paid during 2021 and the number of secured investor certificates maturing in 2021. We may need to obtain
+additional funds from other sources to meet our certificate maturity obligations. One source is the potential sale of bonds in our portfolio.
+In addition, at December 31, 2020 we held 87,702 in cash and cash equivalents and currently have a 4,000,000 working line of credit
+with a local bank of which 1,712,000 was available to us for the year ended December 31, 2020. This facility was renewed and expires
+January 19, 2022. 
+
+Fiscal Year 2021 
+
+Contractual maturity schedule mortgage loans 
+ 825,073 
+ 
+ Contractual maturity schedule bond portfolio 
+ 283,000 
+ 
+ Total 
+ 1,108,073 
+
+Contractual maturity schedule secured investor certificates 
+ 2,168,000 
+
+Holders of our secured investor
+certificates may renew certificates at the current rates and terms upon maturity at our discretion. Renewals upon maturity are considered
+neither proceeds from nor issuance of secured investor certificates. Renewals totaled approximately 1,007,250 and 793,000 during 2020
+and 2019, respectively. These renewals represent 28 and 38 of the maturing certificates for the period ended December 31, 2020 and 2019,
+respectively. We believe that renewals we offer to maturing certificate holders will reduce the amount of cash needed to pay maturing
+certificates in fiscal year 2021. 
+
+Loan Loss Reserve Policy 
+
+We follow a loan loss reserve
+policy on our portfolio of loans outstanding. This critical policy requires complex judgments and estimates. We record mortgage loans
+receivable at their estimated net realizable value, which is the unpaid principal balance less the allowance for mortgage loans. Our loan
+policy provides an allowance for estimated uncollectible loans based on an evaluation of the current status of the loan portfolio. This
+policy reserves for principal amounts outstanding on a particular loan if cumulative interruptions occur in the normal payment schedule
+of a loan. Our policy will reserve for the outstanding principal amount of a loan in our portfolio if the amount is in doubt of being
+collected. Additionally, no interest income is recognized on impaired loans that are declared to be in default and are in the foreclosure
+process. 
+
+The Company will declare a loan
+to be in default and will place the loan on non-accrual status when the following thresholds have been met: (i) the borrower has missed
+three consecutive mortgage payments; (ii) the borrower has not communicated to the Company any legitimate reason for delinquency in its
+payments to the Company and has not arranged for the re-continuance of payments; (iii) lines of communication to the borrower have broken
+down such that any reasonable prospect of rehabilitating the loan and return of regular payments is gone. 
+
+The Company s policies
+on payments received and interest accrued on non-accrual loans are as follows: (i) The Company will accept payments on loans that are
+currently on non-accrual status when a borrower has communicated to us that they intend to meet their mortgage obligations. A payment
+made on a non-accrual loan is considered a good faith deposit as to the intent to resume their mortgage payment obligation. This good
+faith deposit is credited back to interest first then principal as stated in the mortgage loan documentation. (ii) A letter outlining
+the re-payment terms or the restructure terms (if any) of the loan is provided to the borrower. This letter will be signed by the Senior
+Pastor and all board members of the borrower. This letter resumes the obligation to make payments on non-accrual loans. (iii) The borrower
+must meet all its payment obligations for the next 120 days without interruption in order to be removed from non-accrual status. 
+
+When a loan is declared in default
+according to the Company s policy or deemed to be doubtful of collection, the loan committee of the Advisor to the Company will
+direct the staff to charge-off uncollectable receivables. 
+
+At December 31, 2020, we reserved
+ 1,493,996 against fourteen mortgage loans, of which nine churches were three or more mortgage payments in arrears and two of the Churches
+are declared to be in default. At December 31, 2019, we reserved 1,429,487 against fourteen mortgage loans, of which ten churches were
+three or more mortgage payments in arrears, three were declared to be in default. 
+
+The total value of impaired loans,
+which are loans that are in the foreclosure process or are declared to be in default, was approximately 38,000 and 256,000 at December
+31, 2020 and 2019, respectively. We believe that the total amount of non-performing loans is adequately secured by the underlying collateral
+and the allowance for mortgage loans. 
+
+24 
+
+Of the nine loans which were
+three or more payments in arrears, the first impaired loan has an outstanding balance of 543,822. This loan has been declared in default.
+The church is located in Detroit, Michigan and is located in an area suffering from urban blight and high crime. We are continually assessing
+our options with a local realtor. This church is located in a commercial area. Therefore, the facility can be converted and used other
+than as a church. We have reserved against the total outstanding amount of this loan since we have determined that there is little to
+no value left to recover with regards to the collateral of the property. 
+
+The second impaired loan has
+an outstanding balance of 44,965. The church is located in Chicago, Illinois. We have a second mortgage loan. We have been made aware
+that the church defaulted on its first mortgage loan as well. We will wait to see what the outcome with the first mortgage holder will
+be. 
+
+The third impaired loan has an
+outstanding balance of 284,960. The church is located in Raleigh, North Carolina. The church has missed six mortgage payments since the
+loan was re-structured in June 2008, the church has missed one payment in 2020. We are working with the church to bring its payments current. 
+
+The fourth impaired loan has
+an outstanding balance of 294,275. The church is located in Seagoville, Texas. The church has missed seven payments since the loan was
+funded in August 2006. However, the church did not miss any payments in 2020. We are working with the church to bring its payments current. 
+
+The fifth impaired loan has an
+outstanding balance of 689,060. The church is located in Dallas, Texas. The church has missed five payments since the loan was funded
+in September 2008. However, the church did not miss any payments in 2020. We are working with the church to bring its payments current.
+This is a commercial property. 
+
+The sixth impaired loan has an
+outstanding balance of 703,100. The church is located in Richmond Hills, Texas. The church has missed numerous payments since the loan
+was funded in November 2004. However, the church has been making regular payments which are being applied to the arrearage. We are continually
+working with the church to bring its payments current. 
+
+The seventh impaired loan has an outstanding balance
+of 220,968. The church is located in Kirbyville, Texas. The church has missed three payments since the loan was funded in June 2003.
+However, the church did not miss any payments in 2020. We are working with the church to bring its payments current. 
+
+The eighth impaired loan has
+an outstanding balance of 221,683. The church is located in Leslie, Georgia. The Church s loan was restructured in 2018 and the
+Church has not missed any mortgage payments since the restructure. 
+
+The ninth impaired loan has an outstanding balance
+of 381,130. The church is located in Waterbury, Connecticut. The church has missed five payments since the loan was re-structured in
+the April 2015. One payment was missed in 2020. We are working with the church to bring its payments current. 
+
+We presently expect our allowance
+for mortgage loans to be adequate to cover all losses incurred and probable. Listed below is our current loan loss reserve policy: 
+
+Incident 
+ Percentage of Loan Reserved 
+ Status of Loan 
+ 
+ 1. 
+ None 
+ Loan is current, no interruption in payments during history of the loan, interruption means receipt by us more than 30 days after scheduled payment date). 
+ 
+ 2. 
+ None 
+ Loan current, previous interruptions experienced, but none in the last six month period. Applies to restructured loans or loans given forbearance. 
+ 
+ 3. 
+ None 
+ Loan current, previous interruptions experienced, but none in the last 90 day period. 
+ 
+ 4. 
+ 1.00 
+ Loan serviced regularly, but 2 or 3 payments cumulative in arrears. Delinquency notice has been sent. 
+ 
+ 5. 
+ 5.00 
+ Loan serviced regularly, but 4 or 5 payments cumulative in arrears. Repayment plan requested. 
+
+25 
+
+6. 
+ 10.00 
+ Loan is declared to be in default. Legal counsel engaged to begin foreclosure. Additional accrual of overdue payments and penalties ceased. 
+ 
+ 7. 
+ The greater of: (i) accumulated reserve during default period equal to principal loan balance in excess of 65 of original collateral value; or (ii) 1 of the remaining principal balance each quarter during which the default remains in effect. 
+ Foreclosure proceeding underway. Accrual of all overdue interest and principal payments including penalties to be expensed. Reserve amount dependent on value of collateral. All expenses related to enforcing loan agreements are expensed. 
+
+The Company s Advisor,
+on an ongoing basis, reviews reserve amounts under the policy stated above and determines the need, if any, to reserve amounts in excess
+of its current policy. Any additional reserve amounts will be equal to or greater than its current reserve policy. Allowance for mortgage
+loans are calculated on the remaining principal balance on the date of calculation and recorded on a quarterly basis. 
+
+Our borrowers are typically small
+independent churches with little or no borrowing history. Small independent churches have limited resources to pay missed mortgage payments.
+We continually monitor these missed payments and determine on a case by case basis if a restructure of the current loan terms will help
+the church recover from its payment issues or by communication with the church, or lack thereof, if we should foreclose on the property.
+We did not see a substantial increase in delinquent payments in 2020. However, we can provide no assurance that delinquent loan payments
+will be paid or a restructure of the loan will result in the borrowing church meeting their payment obligations. 
+
+The Novel Coronavirus (COVID-19)
+has recently affected global markets, supply chains, employees of companies, and the communities of our borrowers. Specific to us, COVID-19
+may impact various parts of our 2021 operations and financial results including potential reduced revenue caused by new public health
+mandates including shelter in place orders, material supply chain interruption, economic hardships effecting our borrowers and effects
+on our workforce. Management believes we are taking appropriate actions to mitigate the negative impact. However, the full impact of COVID-19
+is unknown and cannot be reasonably estimated as the date of this report. 
+
+Our loan loss reserve policy
+requires removal of a borrower from accrual status if the borrowing church misses three payments over a twenty-four month period. 
+
+Bond Loss Policy 
+
+Other than the temporary impairment,
+the impairment on bonds is estimated by management and is determined by reviewing: (i) payment history, (ii) our experience with defaulted
+bond issues, (iii) the issuer s payment history as well as (iv) historical trends. 
+
+We currently own 529,000 First Mortgage Bonds and
+ 497,000 Second Mortgage Bonds issued by Agape Assembly Baptist Church located in Orlando, Florida. The total principal amount of First
+Mortgage Bonds issued by Agape is 7,200,000, and the total principal amount of Second Mortgage Bonds issued is 715,000. Agape defaulted
+on its payment obligations to bondholders in September 2010. The church subsequently commenced a Chapter 11 bankruptcy reorganization
+proceeding regarding the property that secures the First Mortgage Bonds in December 2010. In October 2014, the bondholders of Agape agreed
+to a modification in the terms of their bonds which resulted in the temporary resumption of both principal and interest payments to both
+the first and second mortgage bond holders. Both the First Mortgage Bonds and Second Mortgage Bonds were modified to a fully amortized
+fixed rate, quarterly interest payment of 6.25 with a new maturity date of September 2037 for all the issued and outstanding bonds. We,
+along with all other bondholders, have a superior lien over all other creditors. The Church subsequently defaulted on their modification
+agreement in 2016 and no interest payments were made to bondholders during the year ended December 31, 2020. However, the trustee made
+a distribution to bondholders during 2017 of 18.75 per 1,000 bond as a repayment of principal only, effectively reducing the outstanding
+balance of each 1,000 bond to approximately 826. The trustee again initiated foreclosure action against the Church and prevailed in
+its pursuit to foreclose on the Church s property on November 1, 2019. However, on the eve of the foreclosure sale, the Church again
+filed for bankruptcy protection. In October 2020, bondholders were asked by the trustee to accept or reject a plan of reorganization.
+The trustee is recommending bondholders accept the reorganization plan. We accepted the reorganization plan. Acceptance of the plan by
+bondholders could 
+
+26 
+
+result in a return of approximately 67 of the original principal investment outstanding. As of December 31, 2020, we
+have not been updated as to the status of the reorganization plan. 
+
+We currently own 900,000 First Mortgage Bonds issued
+by Soul Reapers Worship Center International located in Raleigh, North Carolina. The total principal amount of First Mortgage Bonds issued
+by Soul Reapers is 1,920,000. The Church has failed to make payments as required under the terms of the Trust Indenture. As a Bondholder,
+we expected to receive interest and principal payment(s) on time and according to the terms of the Bonds. We did not receive any quarterly
+interest payments from the issuer for the year ended December 31, 2020. 
+
+We have an aggregate other than temporary impairment
+of 834,226 and 658,000 for our bond portfolio at December 31, 2020 and 2019, respectively, which effectively reduces the bonds to the
+fair value amount we believe will be recovered. 
+
+Critical Accounting Policies and Estimates 
+
+Preparation of our financial
+statements requires estimates and judgments to be made that affect the amounts of assets, liabilities, revenues and expenses reported.
+Such decisions include the selection of the appropriate accounting principles to be applied and the assumptions on which to base accounting
+estimates. We evaluate these estimates based on assumptions we believe to be reasonable under the circumstances. 
+
+The difficulty in applying these
+policies arises from the assumptions, estimates and judgments that have to be made currently about matters that are inherently uncertain,
+such as future economic conditions, operating results and valuations as well as management intentions. As the difficulty increases, the
+level of precision decreases, meaning that actual results can and probably will be different from those currently estimated. 
+
+Management uses estimates and
+assumptions in preparing these financial statements in accordance with generally accepted accounting principles generally accepted in
+the United States. Those estimates and assumptions affect the reported amounts of assets and liabilities, the disclosure of contingent
+assets and liabilities, and the reported revenues and expenses. Actual results could differ from those estimates. The most sensitive estimates
+relate to the realizability of the mortgage loans receivable and the valuation of the bond portfolio and real estate held for sale. It
+is at least reasonably possible that these estimates could change in the near term and that the effect of the change, if any, may be material
+to the financial statements. 
+
+We estimate the value of real
+estate we hold pending re-sale based on a number of factors. We look at the current condition of the property as well as current market
+conditions in determining a fair value, which will determine the listing price of each property. Each property is valued based on its
+current listing price less any anticipated selling costs, including for example, realtor commissions. Since churches are single use facilities
+the listing price of the property may be lower than the total amount owed to us. Attorney fees, taxes, utilities along with real estate
+commission fees will also reduce the amount we collect from the sale of a property we have acquired through foreclosure. The fair value
+of the real estate held for sale includes estimates of expenses related to the sale of the real estate. 
+
+Off Balance Sheet Arrangements 
+
+We have no off-balance sheet
+arrangements, that have or are reasonably likely to have a current or future effect that is material to investors on our financial condition,
+revenues or expenses, results of operations, liquidity, capital resources or capital expenditures. 
+
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk. 
+
+As a smaller reporting company,
+as defined in Rule 12b-2 of the Securities Exchange Act of 1934 (the Exchange Act ), we are not required to provide the information
+required by this item. 
+
+Item 8. Financial Statements and Supplementary
+Data. 
+
+Financial Statements required
+by this item can be found at pages F-1 through F-20 of this Form 10-K and are deemed incorporated herein by reference. 
+
+Item 9. Changes in and Disagreements with Accountants
+on Accounting and Financial Disclosure. 
+
+None. 
+
+27 
+
+Item 9A. Controls and Procedures. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We maintain a set of disclosure controls and procedures,
+as defined in Section 13a-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act ), that are designed
+to ensure that information required to be disclosed by us in the reports filed by us under the Securities Exchange Act of 1934, as amended
+(the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s
+rules and forms. We carried out an evaluation, under the supervision and with the participation of our Chief Executive Officer and our
+Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures pursuant to Rule 13a-15(b)
+of the Exchange Act. 
+
+Based on that evaluation, our Chief Executive Officer
+and Chief Financial Officer concluded that the Company did not maintain effective internal control over financial reporting due to a material
+weakness in the internal controls over financial reporting for impaired loans and debt securities valuations. In addition our disclosure
+controls and procedures are not effective as a result of limited resources such that financial information required to be disclosed in
+our Securities and Exchange Commission SEC reports (i) is recorded, processed, summarized and reported within the time
+periods specified in SEC rules and forms; and (ii) is accumulated and communicated to our management, including our Chief Executive Officer
+and Chief Financial Officer as appropriate to allow timely decisions regarding required disclosure. 
+
+With respect to impaired loan and debt securities
+valuations, the documentation and process supporting the valuations, including the stale nature of appraisals, with respect to our current
+church properties, was determined to be a material weakness. In addition, the Company has limited number of personnel performing
+finance and accounting functions. Were there a larger staff, it would be possible to provide for enhanced disclosure of financial reporting
+matters. Management is required to apply its judgment in evaluating the cost benefit relationship of possible controls and procedures.
+Management recognizes this is a material weakness. 
+
+Management s Report on Internal Control Over Financial Reporting 
+
+Our management is responsible
+for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). Internal
+control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Internal
+control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable
+detail, accurately and fairly reflect the transactions and dispositions of our assets; (ii) provide reasonable assurance that transactions
+are recorded as necessary to permit preparation of the financial statements in accordance with generally accepted accounting principles,
+and that receipts and expenditures are being made only with proper authorizations; and (iii) provide reasonable assurance regarding prevention
+or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on the financial statements. 
+
+Because of its inherent limitations,
+internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness
+to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate. 
+
+Our management, under the supervision
+of and with the participation of the Chief Executive Officer and Chief Financial Officer, assessed the effectiveness of our internal
+control over financial reporting as of December 31, 2020 based on criteria for effective control over financial reporting set forth by
+the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control Integrated Framework . 
+Based on this assessment, our management concluded that, as of the Evaluation Date, we did not maintain effective internal control over
+financial reporting as a result of the material weakness described above. We continue to evaluate internal control improvements, particularly
+related to financial reporting for ongoing changes to our operations and segregation of duties, to provide greater segregation and improve
+overall internal control. 
+
+Internal control over financial
+reporting cannot provide absolute assurance of achieving financial reporting objectives because of its inherent limitations. Internal
+control over financial reporting is a process that involves human diligence and is subject to lapses in judgment or breakdowns resulting
+from human failures. Internal control over financial reporting also can be circumvented by collusion or improper management override.
+Because of such limitations, there is a risk that material misstatements may not be prevented or detected on a timely basis by internal
+control over financial reporting. However, these inherent limitations are known features of the financial reporting process. Therefore,
+it is possible to design into the process safeguards to reduce, though not eliminate, this risk. 
+
+28 
+
+This Annual Report does not include
+an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management s
+report was not subject to attestation by our registered public accounting firm pursuant to rules of the Securities and Exchange Commission
+that permit us to provide only management s report in this Annual Report. 
+
+Changes in Internal Control over Financial Reporting
+
+There were no changes in our
+internal control over financial reporting, that occurred during the last fiscal quarter of the period covered by this report that have
+materially affected or are reasonably likely to materially affect our internal control over financial reporting. 
+
+Item 9B. Other Information. 
+
+None. 
+
+PART III 
+
+Item 10. Directors, Executive Officers and Corporate Governance. 
+
+The information required by Item
+10 will be included in the Company s definitive proxy statement for the annual meeting of shareholders to be held on or about June
+24, 2021, to be filed with the Securities and Exchange Commission not later than 120 days after the end of the fiscal year covered by
+this report and is incorporated herein by reference. 
+
+Item 11. Executive Compensation. 
+
+The information required by Item
+11 will be included in the Company s definitive proxy statement for the annual meeting of shareholders to be held on or about June
+24, 2021, to be filed with the Securities and Exchange Commission not later than 120 days after the end of the fiscal year covered by
+this report and is incorporated herein by reference. 
+
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters. 
+
+The information required by Item
+12 will be included in the Company s definitive proxy statement for the annual meeting of shareholders to be held on or about June
+24, 2021, to be filed with the Securities and Exchange Commission not later than 120 days after the end of the fiscal year covered by
+this report and is incorporated herein by reference. 
+
+Item 13. Certain Relationships and Related Transactions,
+and Director Independence. 
+
+The information required by Item
+13 will be included in the Company s definitive proxy statement for the annual meeting of shareholders to be held on or about June
+24, 2021, to be filed with the Securities and Exchange Commission not later than 120 days after the end of the fiscal year covered by
+this report and is incorporated herein by reference. 
+
+Item 14. Principal Accounting
+Fees and Services. 
+
+The information required by Item
+14 will be included in the Company s definitive proxy statement for the annual meeting of shareholders to be held on or about June
+24, 2021, to be filed with the Securities and Exchange Commission not later than 120 days after the end of the fiscal year covered by
+this report and is incorporated herein by reference. 
+
+29 
+
+PART IV 
+
+Item 15. Exhibits,
+Financial Statement Schedules. 
+
+Exhibit 
+ No. 
+
+Title 
+
+3.1 
+ Amended and Restated Articles of Incorporation 
+ 1 
+ 
+ 3.2 
+ Third Amended and Restated Bylaws 
+ 2 
+ 
+ 3.3 
+ Bylaw Interpretation dated July 2, 2019 
+ 12 
+ 
+ 4.1 
+ Description of Common Stock 
+ 9 
+ 
+ 4.3 
+ Supplemental Trust Indenture between the Company and The Herring National Bank dated September 28, 2004 
+ 3 
+ 
+ 4.5 
+ First Supplemental Indenture to 2004 Indenture dated July 2, 2007 
+ 2 
+ 
+ 4.6 
+ Trust Indenture between the Company and Herring Bank dated April 1, 2009 
+ 4 
+ 
+ 4.7 
+ Trust Indenture between the Company and Herring Bank dated August 12, 2014 
+ 5 
+ 
+ 4.8 
+ Trust Indenture between the Company and Herring Bank dated November 6, 2017 
+ 10 
+ 
+ 10.1 
+ Amended and Restated REIT Advisory Agreement with Church Loan Advisors, Inc. dated January 22, 2004 
+ 7 
+ 
+ 10.3 
+ Supplemental Security Agreement between the Company and The Herring National Bank, as Trustee dated September 28, 2004 
+ 3 
+ 
+ 10.4 
+ Security Agreement between the Company and the Herring National Bank, as Trustee dated April 1, 2009 
+ 8 
+ 
+ 10.5 
+ Security Agreement between the Company and Herring Bank, as Trustee dated August 12, 2014 
+ 6 
+ 
+ 10.5 
+ Security Agreement between the Company and Herring Bank, as Trustee dated November 6, 2017 
+ 11 
+ 
+ 10.6 
+ Second Amendment to Loan by and between American Church Mortgage Company and Alerus Financial, N.A., dated January 20, 2021 
+ 13 
+ 
+ 10.7 
+ Promissory Note between American Church Mortgage Company and Alerus Financial N.A., dated January 20, 2021 
+ 14 
+ 
+ 23.1 
+ Consent of Independent Registered Public Accounting Firm 
+ 9 
+ 
+ 31.1 
+ Certification of the Chief Executive Officer Pursuant to Section 302 of Sarbanes Oxley Act of 2002 
+ 9 
+ 
+ 31.2 
+ Certification of the Chief Financial Officer Pursuant to Section 302 of Sarbanes Oxley Act of 2002 
+ 9 
+ 
+ 32.1 
+ Certification of the Chief Executive Officer Pursuant to 19 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act of 2002 
+ 9 
+ 
+ 32.2 
+ Certification of the Chief Financial Officer Pursuant to 19 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act of 2002 
+ 9 
+ 
+ 101 
+
+The following financial information from
+ our Annual Report on Form 10-K for the fiscal year ended on 2020 filed with the Securities and Exchange Commission on March 31, 2021,
+ is formatted in eXtensible Business Reporting Language (XBRL): (i) the Balance Sheets at December 31, 2020 and 2019; (ii) Statements of
+ Operations for the year ended December 31, 2020 and 2019; (iii) the Statements of Cash Flows for the year ended December 31, 2020 and
+ 2019; and (iv) the Notes to Financial Statements. 
+ 9 
+
+30 
+
+(1) Incorporated herein by reference to the Company s Registration Statement on Form 8-A (File No. 000-25919),
+filed April 30, 1999. 
+
+(2) Incorporated herein by reference to the Company s Current Report on Form 8-K, filed July 3, 2007. 
+
+(3) Incorporated herein by reference to the Company s Registration Statement on Form S-11/A (File No.
+333-116919), filed September 29, 2004. 
+
+(4) Incorporated herein by reference to Exhibit 4.1 of the Company s Prospectus Supplement (filed April
+1, 2009) to Registration Statement on Form S-11 (File No. 333-154831), filed October 30, 2008. 
+
+(5) Incorporated herein by reference to Exhibit 4.1 of the Company s Registration Statement on Form
+S-11 (File No. 333-197326), filed August 12, 2014. 
+
+(6) Incorporated herein by reference to Exhibit 10.5 of the Company s Registration Statement on Form
+S-11 (File No. 333-197326), filed August 12, 2014. 
+
+(7) Incorporated herein by reference to the Company s Current Report on Form 8-K/A, filed August 1,
+2007. 
+
+(8) Incorporated herein by reference to Exhibit 10.5 of the Company s Prospectus Supplement (filed April
+1, 2009) to Registration Statement on Form S-11 (File No. 333-154831), filed October 30, 2008. 
+
+(9) Incorporated herein by reference to Exhibit 4.1 to the Company s Form 10-K files April 23, 2020 
+
+(10) Incorporated herein by reference to Exhibit 4.1 of the Company s Registration Statement on Form
+S-11 (File No. 333-220531). 
+
+(11) Incorporated herein by reference to Exhibit 10.5 of the Company s Registration Statement on Form
+S-11 (File No. 333-220531). 
+
+(12) Incorporated herein by reference to the Company s Current Report on Form 8-K, filed July 2, 2019. 
+
+(13) Incorporated herein by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K, filed
+January 27, 2021. 
+
+(14) Incorporated herein by reference to Exhibit 10.2 to the Company s Current Report on Form 8-K, filed
+January 27, 2021. 
+
+Item 16. Form 10-K Summary 
+
+Not applicable 
+
+SIGNATURES 
+
+In accordance with Section 13
+or 15(d) of the Exchange Act, the registrant has caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Dated: March 31, 2021 
+ AMERICAN CHURCH MORTGAGE COMPANY 
+
+By: 
+ /s/ Philip J. Myers 
+
+Philip J. Myers 
+
+(Chief Executive Officer and President) 
+
+By: 
+ /s/ Scott J. Marquis 
+
+Scott J. Marquis 
+
+(Chief Financial Officer, Principal Financial and Accounting Officer) 
+
+Pursuant to the requirements of
+the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the
+capacities indicated. 
+
+By: 
+ /s/ Philip J. Myers 
+ Date: 
+ 03/31/2021 
+
+Philip J. Myers 
+
+Chief Financial Officer, President and Director 
+
+By: 
+ /s/ Michael G. Holmquist 
+ Date: 
+ 03/31/2021 
+
+Michael G. Holmquist, Director 
+
+31 
+
+AMERICAN CHURCH MORTGAGE COMPANY 
+
+Minnetonka, Minnesota 
+
+Financial Statements 
+
+As of for the Years Ended December 31, 2020 and 2019 
+
+Report of Independent Registered Public Accounting Firm 
+
+To the Shareholders and the Board of Directors 
+
+ American Church Mortgage Company 
+
+ Minnetonka, Minnesota 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheet of American Church Mortgage
+Company (the Company as of December 31, 2020 and 2019, the related statements of operations, stockholders equity,
+and cash flows for each of the years in the two-year period ended December 31, 2020, and the related notes (collectively referred to as
+the financial statements). In our opinion, the financial statements referred to above present fairly, in all material respects, the financial
+position of American Church Mortgage Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for
+each of the years in the two-year period ended December 31, 2020, in conformity with accounting principles generally accepted in the United
+States. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company s
+management. Our responsibility is to express an opinion on these financial statements based on our audits. We are a public accounting
+firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect
+to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange
+Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free
+of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit
+of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control
+over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over
+financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material
+misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation
+of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matters communicated below are matters arising from
+the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and
+that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging,
+subjective, or complex judgments. This communication of critical audit matters does not alter in any way our opinion on the financial
+statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical
+audit matters or on the accounts or disclosures to which they relate. 
+
+Allowance for Loan Losses on Mortgage Loans Receivable 
+
+As discussed in Note 2 to the financial statements, the Company s
+loan policy provides an allowance for estimated uncollectible loans based on an evaluation of the current status of the loan portfolio.
+As of December 31, 2020, the outbreak of the novel coronavirus has adversely affected many industries in general and resulted in preventing
+the gathering of church congregations which impacts the ability of churches and other non-profit religious organizations normal methods
+of worship potentially causing a decline in membership and offerings. 
+
+F- 1 
+
+We identified the assessment of the mortgage loans receivable valuation
+as of December 31, 2020 as a critical audit matter. The impact the coronavirus had on the valuation of the mortgage receivable loan portfolio
+included a high degree of audit effort and auditor judgment. The allowance for loan loss totaled 1,429,487 as of December 31, 2020 and
+was determined by the Company s loan policy to reserve against loans that have cumulative interruptions in the normal payment schedule. 
+
+The following are the primary procedures we performed to address this
+critical audit matter: 
+
+We tested the completeness and accuracy of the data used
+by management in calculating the allowance for loan losses. 
+
+We tested the payment history for a selection of loans within
+the loan portfolio in conjunction with our evaluation of problem loans. 
+
+We have served as the Company s auditor since 2019. 
+
+ March 31, 2021 
+
+ Minneapolis, Minnesota 
+
+F- 2 
+
+AMERICAN CHURCH MORTGAGE COMPANY 
+
+Balance Sheets 
+
+As of December 31, 
+ 
+ ASSETS 
+ 2020 
+ 2019 
+
+Assets 
+
+Cash and cash equivalents 
+ 87,702 
+ 191,987 
+ 
+ Accounts receivable 
+ 101,532 
+ 125,539 
+ 
+ Interest receivable 
+ 242,019 
+ 185,190 
+ 
+ Investments 
+ 
+ 2,410 
+ 
+ Prepaid expenses 
+ 7,796 
+ 13,121 
+ 
+ Total current assets 
+ 439,049 
+ 518,247 
+
+Mortgage Loans Receivable , net of allowance of 
+
+1,493,996 and 1,429,487 and deferred origination fees of 
+
+198,816 and 278,633 at December 31, 2020 and 2019, respectively 
+ 16,605,967 
+ 20,717,058 
+
+Bond Portfolio 
+ 18,100,711 
+ 16,055,937 
+
+Real Estate Held for Sale 
+ 428,996 
+ 651,398 
+ 
+ Total Assets 
+ 35,574,723 
+ 37,942,640 
+
+Notes to Financial Statements are an integral part of this Statement. 
+
+F- 3 
+
+AMERICAN CHURCH MORTGAGE COMPANY 
+
+Balance Sheets 
+
+As of December 31, 
+ 
+ LIABILITIES AND STOCKHOLDERS EQUITY 
+ 2020 
+ 2019 
+
+Liabilities 
+
+Accounts payable 
+ 14,400 
+ 12,311 
+ 
+ Management fee payable 
+ 22,908 
+ 27,255 
+ 
+ Line of Credit 
+ 2,288,000 
+ 1,445,000 
+ 
+ Dividends payable 
+ 16,766 
+ 125,835 
+
+Secured Investor Certificates, Series B 
+ 6,022,500 
+ 8,855,000 
+ 
+ Secured Investor Certificates, Series C 
+ 6,127,000 
+ 6,324,000 
+ 
+ Secured Investor Certificates, Series D 
+ 8,029,000 
+ 8,109,000 
+ 
+ Secured Investor Certificates, Series E 
+ 3,738,000 
+ 3,562,000 
+
+(Less) Deferred Offering Costs , net of accumulated amortization 
+
+of 1,066,068 and 956,811 at December 31, 2020 and 
+
+2019, respectively 
+ (769,178 
+ (865,533 
+ 
+ Total liabilities 
+ 25,489,396 
+ 27,594,868 
+
+Stockholders Equity 
+
+Common stock, par value .01 per share 
+
+authorized, 30,000,000 shares, 
+
+issued and outstanding, 1,676,598 shares at December 31, 2020 and 
+
+and 1,677,798 at December 31, 2019, respectively 
+ 16,766 
+ 16,778 
+ 
+ Additional paid-in capital 
+ 19,111,060 
+ 19,113,458 
+ 
+ Accumulated deficit 
+ (9,042,499 
+ (8,782,464 
+ 
+ Total stockholders equity 
+ 10,085,327 
+ 10,347,772 
+
+Total liabilities and stockholders' equity 
+ 35,574,723 
+ 37,942,640 
+
+Notes to Financial Statements are an integral part of this Statement. 
+
+F- 4 
+
+AMERICAN CHURCH MORTGAGE COMPANY 
+
+Statements of Operations 
+
+Years Ended December 31, 
+
+2020 
+ 2019 
+
+Interest and Other Income 
+ 2,543,507 
+ 2,808,534 
+
+Interest Expense 
+ 1,766,427 
+ 1,882,290 
+
+Net Interest Income 
+ 777,080 
+ 926,244 
+
+Provision for losses on mortgage loans receivable 
+ 64,509 
+ 87,727 
+
+Net Interest Income after Provision for Mortgage Loans Receivable 
+ 712,571 
+ 838,517 
+
+Operating Expenses 
+
+Other than temporary impairment on bond portfolio 
+ 176,226 
+ 200,000 
+ 
+ Other operating expenses 
+ 662,204 
+ 580,731 
+
+838,430 
+ 780,731 
+
+Net (Loss) Income 
+ (125,859 
+ 57,786 
+
+Basic and Diluted Income (Loss) Per Share 
+ (0.08 
+ 0.03 
+
+Dividends Declared Per Share 
+ 0.08 
+ 0.29 
+
+Weighted Average Common Shares Outstanding - 
+
+Basic and Diluted 
+ 1,676,896 
+ 1,677,798 
+
+Notes to Financial Statements are an integral part of this Statement. 
+
+F- 5 
+
+AMERICAN CHURCH MORTGAGE COMPANY 
+
+Statements of Stockholders Equity 
+
+Years Ended December 31, 2020 and 2019 
+
+Additional 
+
+Common Stock 
+ Paid-In 
+ Accumulated 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Totals 
+
+Balance, December 31, 2018 
+ 1,677,798 
+ 16,778 
+ 19,113,458 
+ (8,353,688 
+ 10,776,548 
+
+Net income 
+
+57,786 
+ 57,786 
+
+Dividends declared 
+
+(486,562 
+ (486,562 
+
+Balance, December 31, 2019 
+ 1,677,798 
+ 16,778 
+ 19,113,458 
+ (8,782,464 
+ 10,347,772 
+
+Re-purchase 1,200 shares 
+ (1,200 
+ (12 
+ (2,398 
+ 
+ (2,410 
+
+Net (loss) 
+
+(125,859 
+ (125,859 
+
+Dividends declared 
+
+(134,176 
+ (134,176 
+
+Balance, December 31, 2020 
+ 1,676,598 
+ 16,766 
+ 19,111,060 
+ (9,042,499 
+ 10,085,327 
+
+Notes to Financial Statements are an integral part of this Statement. 
+
+F- 6 
+
+AMERICAN CHURCH MORTGAGE COMPANY 
+
+Statements of Cash Flows 
+
+Years Ended December 31, 
+
+2020 
+ 2019 
+
+Cash Flows from Operating Activities 
+
+Net (loss) income 
+ (125,859 
+ 57,786 
+ 
+ Adjustments to reconcile net income to net cash 
+
+from operating activities: 
+
+Net loss on sales and impairment on real estate held for sale 
+ 134,808 
+ 10,617 
+ 
+ Provision for losses on mortgage loans receivable 
+ 64,509 
+ 87,727 
+ 
+ Other than temporary impairment on bond portfolio 
+ 176,226 
+ 200,000 
+ 
+ Net amortization of loan origination discounts 
+ 79,818 
+ 6,721 
+ 
+ Amortization of deferred offering costs 
+ 109,257 
+ 110,223 
+ 
+ Change in assets and liabilities 
+
+Accounts receivable 
+ 24,007 
+ 125,996 
+ 
+ Interest receivable 
+ (56,829 
+ (321 
+ 
+ Prepaid expenses 
+ 5,325 
+ (5,955 
+ 
+ Accounts payable 
+ 2,089 
+ (564,864 
+ 
+ Management fee payable 
+ (4,347 
+ (446 
+ 
+ Net cash provided by operating activities 
+ 409,004 
+ 27,484 
+
+Cash Flows from Investing Activities 
+
+Net decrease in loans 
+ 3,966,764 
+ 470,376 
+ 
+ Investment in bonds 
+ (2,472,000 
+ (1,934,000 
+ 
+ Proceeds from bonds 
+ 251,000 
+ 1,067,870 
+ 
+ Proceeds from real estate held for sale 
+ 87,594 
+ 60,501 
+ 
+ Net cash provided by (used for) investing activities 
+ 1,833,358 
+ (335,253 
+
+Cash Flows from Financing Activities 
+
+Net (decrease) in secured investor certificates 
+ (2,933,500 
+ (2,536,000 
+ 
+ Payments for deferred costs 
+ (12,902 
+ (89,345 
+ 
+ Net change in line of credit 
+ 843,000 
+ 1,445,000 
+ 
+ Dividends paid 
+ (243,245 
+ (503,340 
+ 
+ Net cash (used for) provided by financing activities 
+ (2,346,647 
+ (1,683,685 
+
+Net (Decrease) in Cash and Cash Equivalents 
+ (104,285 
+ (1,991,454 
+
+Cash and Cash Equivalents - Beginning of Year 
+ 191,987 
+ 2,183,441 
+
+Cash and Cash Equivalents - End of Year 
+ 87,702 
+ 191,987 
+
+Notes to Financial Statements are an integral part of this Statement. 
+
+F- 7 
+
+AMERICAN CHURCH MORTGAGE COMPANY 
+
+Statements of Cash Flows - Continued 
+
+Years Ended December 31, 
+
+2020 
+ 2019 
+
+Supplemental Cash Flow Information 
+
+Interest paid 
+ 1,657,169 
+ 1,772,067 
+
+Loans transferred to real estate held for sale 
+ 
+ 321,356 
+
+Notes to Financial Statements are an integral part of this Statement. 
+
+F- 8 
+
+1. BASIS OF PRESENTATION 
+
+The accompanying audited financial statements of American
+Church Mortgage Company, (the Company were prepared in accordance with instructions for Form 10-K and Regulation S-X and
+include information or footnotes necessary for a complete presentation of financial condition, results of operations, changes in equity
+and cash flows in conformity with accounting principles generally accepted in the United States of America. 
+
+In the opinion of management, all adjustments necessary
+for a fair presentation of the financial statements have been included. 
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Nature of Business 
+
+American Church Mortgage Company, a Minnesota corporation,
+was incorporated on May 27, 1994. The Company is engaged primarily in the business of making mortgage loans to churches and other nonprofit
+religious organizations throughout the United States, on terms established for individual organizations. 
+
+Accounting Estimates 
+
+Management uses estimates and assumptions in preparing
+these financial statements in accordance with accounting principles generally accepted in the United States of America. Those estimates
+and assumptions affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities, and the reported
+revenues and expenses. Actual results could differ from those estimates. The most sensitive estimates relate to the realizability of the
+mortgage loans receivable, the valuation of the bond portfolio and the valuation of real estate held for sale. It is at least reasonably
+possible that these estimates could change in the near term and that the effect of the change, if any, may be material to the financial
+statements. 
+
+Risks and Uncertainties 
+
+The United States and world economies continue to
+suffer adverse effects from the COVID-19 virus pandemic COVID-19 ). The Company has not experienced a material adverse impact
+to the financial statements. Future potential impacts to the Company may include disruptions or restrictions on employers and contracted
+agents ability to work, reduced demand for new loans and increased repurchase risk of loan or bond defaults. The future impact
+of the COVID-19 pandemic on the Company cannot be reasonably estimated at this time. 
+
+F- 9 
+
+Concentration of Credit Risk 
+
+The Company's loans have been granted to churches and other non-profit
+religious organizations. The ability of the Company s debtors to honor their contracts is dependent on member contributions and
+the involvement in the church or organization of its senior pastor. 
+
+Cash and Cash Equivalents 
+
+The Company considers all highly liquid debt instruments
+purchased with maturities of three months or less to be cash equivalents. 
+
+The Company maintains accounts primarily at two financial
+institutions. At times throughout the year, the Company s cash and equivalents balances may exceed amounts insured by the Federal
+Deposit Insurance Corporation. Cash in money market funds is not federally insured. Management believes these financial institutions have
+strong credit ratings and that the credit related to these deposits is minimal. The Company has not experienced any losses in such accounts. 
+
+Bond Portfolio 
+
+Bonds that management has the intent to hold to maturity
+are classified as held to maturity and recorded at amortized costs. Bonds not classified as held to maturity are classified as available
+for sale and are carried at fair value, with unrealized gains and losses reported in other comprehensive income. Amortization of premiums
+and accretion of discounts (if any) are recognized in interest income using the interest method over the estimated lives of the securities. 
+
+Declines in fair value of bonds that are deemed to
+be other than temporary, if applicable, are reflected in earnings as realized losses. In estimating other-than temporary impairment losses,
+management considered the length of time and the extent to which fair value has been less than cost, the financial condition and near-term
+prospects of the issuer, and the interest and the ability of the Company to retain its investment in the issuer for a period of time sufficient
+to allow for any anticipated recovery in fair value. Gains and losses on the sales of securities are recorded on the trade date and determined
+using the specific-identification method. 
+
+Bonds transferred from the available for sale category
+to the held to maturity category are recorded at fair value at the date of transfer. During 2020, the Company reclassified approximately
+ 18,101,000 of bonds available for sale to bonds held to maturity. These bonds were transferred at fair value, which became the costs
+basis for the bonds held to maturity. There were no unrealized gains or losses at the time of transfer of bonds from available for sale
+to held to maturity. 
+
+Allowance for Loan Losses on Mortgage Loans
+Receivable 
+
+The Company records mortgage loans receivable at estimated
+net realizable value, which is the unpaid principal balances of the mortgage loans receivable, less the allowance for loan losses on mortgage
+loans receivable and less deferred loan origination fees. The Company s loan policy provides an allowance for estimated uncollectible
+loans based on an evaluation of the current status of the loan portfolio with 
+
+F- 10 
+
+application of reserve percentages to specific loans based
+on payment status. This policy reserves for principal amounts outstanding on a specific loan if cumulative interruptions occur in the
+normal payment schedule of the loan, therefore, the Company recognizes a provision for losses and an allowance for the outstanding principal
+amount of the loan in the Company s portfolio if the amount is in doubt of collection. Additionally, no interest income is recognized
+on impaired loans that are declared to be in default and are in the foreclosure process. At December 31, 2020, the Company reserved 1,493,996
+for fourteen mortgage loans. Nine of these loans are three or more mortgage payments in arrears of which two are declared to be in default.
+The total principal amount of these fourteen loans totaled approximately 6,498 ,000 at December
+31, 2020. At December 31, 2019, the Company reserved 1,429,487 for fourteen mortgage loans. Ten of these loans were three or more mortgage
+payments in arrears of which three were declared to be in default. The total principal amount of these fourteen loans totaled approximately
+ 5,987 ,000 at December 31, 2019. 
+
+A summary of transactions in the allowance for mortgage
+loans for the years ended December 31, 2020 and 2019 is as follows: 
+
+Balance at December 31, 2019 
+ 1,429,487 
+ 
+ Provisions for loan losses 
+ 64,509 
+ 
+ Loan charge-offs 
+ - 
+ 
+ Balance at December 31, 2020 
+ 1,493,996 
+
+Balance at December 31, 2018 
+ 1,672,003 
+ 
+ Provisions for loan losses 
+ 87,727 
+ 
+ Loan charge-offs 
+ (330,243) 
+ 
+ Balance at December 31, 2019 
+ 1,429,487 
+
+Loans that are in the foreclosure process or are declared
+to be in default, had a principal balance of 588,787 and were considered impaired and written down to their estimated fair value of 37,771
+as of December 31, 2020. As a result, the Company recognized a specific valuation allowance against these impaired loans totaling 551,016
+as of December 31, 2020. 
+
+Loans that are in the foreclosure process or are declared
+to be in default, had a principal balance of 810,470 and were considered impaired and written down to their estimated fair value of 255,797
+as of December 31, 2019. As a result, the Company recognized a specific valuation allowance against these impaired loans totaling 554,673
+as of December 31, 2019. 
+
+The outbreak of COVID-19 has affected churches due
+to shelter-in-place directives which has ceased or greatly curtailed social gatherings such as church worship services. The Company s
+borrowers have experienced financial duress during the Covid-19 shelter in place restrictions, amplified by the financial setbacks for
+many of the church members who have lost their jobs, been furloughed, or had their incomes diminished. The Company has provided some temporary
+relief by allowing its borrower s to either make 
+
+F- 11 
+
+interest only payments for a period of ninety days or forgo one monthly mortgage
+payment (forbearance). The Company provided nine churches totaling approximately 3,209,000, in principal outstanding, ninety days interest
+only payments and five churches totaling approximately 2,618,000, in principal outstanding, one-month forbearance of its mortgage payments.
+As of December 31, 2020, all churches, except four, have returned to full monthly amortization payments. These four churches totaling
+approximately 758,000, in principal outstanding, have remained on interest only payments. This relief will impact the Company s
+revenue and the Company will experience declines in payments due from borrowers and missed bond payments on the bonds owned by the Company
+which will impact operating income and may potentially impact future distributions and the ability to make payments due on the Company s
+certificates and dividends to its shareholders. The future impact of COVID-19 on the Company s investments or operations cannot
+be reasonably estimated at this time. 
+
+The Company will declare a loan to be in default and
+will place the loan on non-accrual status when the following thresholds have been met: (i) the borrower has missed three consecutive mortgage
+payments; (ii) the borrower has not communicated to the Company any legitimate reason for delinquency in its payments to the Company and
+has not arranged for the re-continuance of payments; (iii) lines of communication to the borrower have broken down such that any reasonable
+prospect of rehabilitating the loan and return of regular payments is gone. 
+
+The Company will accept payments on loans that are
+currently on non-accrual status when a borrower has communicated to us that they intend to meet their mortgage obligations. The accrual
+of interest on a loan is discontinued when the loan becomes 90 consecutive days delinquent or whenever management believes the borrower
+will be unable to make payments as they become due. The interest on these loans is subsequently accounted for on the cash basis or using
+the cost-recovery method until qualifying for return to accrual. Loans are returned to accrual status when all the principal and interest
+amounts contractually due are brought current or restructured and future payments are reasonably assured. No interest income was recognized
+on non-accrual loans for the years ended December 31, 2020 and 2019, respectively. 
+
+When a loan is declared in default according to the
+Company s policy or deemed to be doubtful of collection, the loan committee of the Advisor to the Company will direct the staff
+to charge-off the uncollectable receivables. 
+
+Loans that exceed 90 days past due but continue to
+accrue interest had a principal balance of 2,795,175 and 3,263,492 for the years ended December 31, 2020 and 2019, respectively. These
+loans were considered impaired and written down to their estimated fair value of 2,218,773 and 2,716,445 as of December 31, 2020 and
+2019, respectively. As a result, the Company recognized a specific valuation allowance against these impaired loans totaling 576,442
+and 547,053 for the years ended December 31, 2020 and 2019, respectively. The Company believes that continued interest accruals are appropriate
+because the loans are well secured, not deemed to be in technical default and the Company is actively pursuing collection of past due
+payments. 
+
+F- 12 
+
+Real Estate Held for Sale 
+
+The Company records real estate held for sale at the
+estimated fair value, which is net of the expected expenses related to the sale of the real estate. The fair value of our real estate
+held for sale, which represents the carrying value, totaled 428,996 and 651,398 for the years ended December 31, 2020 and 2019, respectively. 
+
+Carrying Value of Long-Lived Assets 
+
+The Company tests long-lived assets or asset groups
+for recoverability when events or changes in circumstances indicate that the carrying amount may not be recoverable. Circumstances which
+could trigger a review include, but are not limited to: significant decreases in the market price of the asset; significant adverse changes
+in the business climate or legal factors; accumulation of costs significantly in excess of the amount originally expected for the acquisition
+or construction of the asset; current period cash flow or operating losses combined with a history of losses or a forecast of continuing
+losses associated with the use of the asset; and current expectation that the asset will more likely than not be sold or disposed of significantly
+before the end of the estimated useful life. 
+
+Recoverability is assessed based on the carrying amount
+of the asset compared to the sum of the undiscounted cash flows expected to result from the use and the eventual disposal of the asset,
+as well as specific appraisal in certain instances. An impairment loss is recognized when the carrying amount is deemed not recoverable
+and exceeds fair value as determined through various valuation techniques including, but not limited to, discounted cash flow models,
+quoted market values, and third party independent appraisals. 
+
+Revenue Recognition 
+
+Interest income on mortgage loans receivable and the
+bond portfolio is recognized as earned per the terms of the specific asset. Other income included with interest represents cash received
+for loan origination fees, which are recognized over the life of the loan as an adjustment to the yield on the loan. 
+
+Gain (Losses) on Real Estate Held For Sale 
+
+The Company records a gain or loss from real estate
+held for sale when control of the property transfers to the buyer, which generally occurs at the time of an executed deed. When the Company
+finances real estate held for sale to the buyer, the Company assesses whether the buyer is committed to perform their obligations under
+the contract and whether collectability of the transaction price is probable. Once these criteria are met, real estate held for sale is
+derecognized and the gain or loss on sale is recorded upon the transfer of control of the property to the buyer. In determining the gain
+or loss on the sale, the Company adjusts the transaction prices and related gain (loss) on sale if a significant financing component is
+present. 
+
+F- 13 
+
+Deferred Financing Costs 
+
+The Company defers the costs related to obtaining
+financing. These costs are amortized over the life of the financing using the straight-line method, which approximates the effective interest
+method. 
+
+Income (Loss) Per Common Share 
+
+There were no dilutive shares for the years ended
+December 31, 2020 and 2019, respectively. 
+
+Recent Accounting Pronouncements 
+
+In 2016 the FASB issued ASU 2016-13, Financial
+Instruments-Credit Losses (Topic 326), Measurement of Credit Losses on Financial Instruments. ASU 2016-13 is intended to provide
+financial statement users with more decision-useful information about the expected credit losses on financial instruments and other commitments
+to extend credit. For public entities, deemed smaller reporting companies, such as the Company, ASU 2016-13 is effective for fiscal years
+beginning after December 15, 2022, including interim periods within those fiscal years. The Company has not yet fully evaluated the potential
+effects of adopting ASU 2016-13 on the Company s results of operations, financial position or cash flows. 
+
+Income Taxes 
+
+The Company elected to be taxed as a Real Estate Investment
+Trust (REIT). Accordingly, the Company is not subject to Federal income tax to the extent of distributions to its shareholders if the
+Company meets all the requirements under the REIT provisions of the Internal Revenue Code. 
+
+The Company evaluated its recognition of income tax
+benefits using a two-step approach to recognizing and measuring tax benefits when realization of the benefits is uncertain. The first
+step is to determine whether the benefit meets the more-likely-than-not condition for recognition and the second step is to determine
+the amount to be recognized based on the cumulative probability that exceeds 50 . Primarily due to the Company s tax status as a
+REIT, the Company does not have any significant tax uncertainties that would require recognition or disclosure. 
+
+Subsequent Events 
+
+The Company has evaluated events and transactions
+through March 31, 2021, the date the financial statements were available to be issued, and no subsequent events have occurred. 
+
+3. FAIR VALUE MEASUREMENT 
+
+Some assets and liabilities, such as securities available
+for sale, are measured at fair value on a recurring basis under accounting principles generally accepted in the United States. Other assets
+and liabilities, such as impaired loans, may be measured at fair value on a nonrecurring basis. 
+
+F- 14 
+
+Following is a description of the valuation methodology
+and significant inputs used for each asset and liability measured at fair value on a recurring or nonrecurring basis, as well as the classification
+of the asset or liability within the fair value hierarchy. 
+
+Bonds available for sale 
+
+Securities available for sale may be classified as
+Level 1, Level 2, or Level 3 measurements within the fair value hierarchy. Level 1 securities include debt securities traded on a national
+exchange. The fair value measurement of a Level 1 security is based on the quoted price of the security. Level 2 securities include U.S.
+government and agency securities, obligations of states and political subdivisions, corporate debt securities, and mortgage related securities.
+The fair value measurement of a Level 2 security is obtained from an independent pricing service and is based on recent sales of similar
+securities and other observable market data. Level 3 securities include church bonds that are not traded in a market. The fair value measurements
+of Level 3 securities are determined by management. Fair values are calculated using discounted cash flow models that incorporate various
+assumptions, including expected cash flows and market credit spreads. When comparable sales are available, these are used to validate
+the models used. Other available industry data, such as information regarding defaults and deferrals, are incorporated into the expected
+cash flows. 
+
+Bonds held to maturity 
+
+Securities held to maturity are not measured at fair
+value on a recurring basis. However, securities deemed other-than-temporarily impaired are measured at fair value. The fair value measurement
+of such securities is obtained from an independent firm and is based on a valuation model that incorporates various assumptions market
+participants would use to value the securities, such as current interest rates, estimated credit and liquidity spreads, conditional default
+and loss severity rates, and available credit support. Since some of these assumptions are unobservable in the current market environment,
+the fair value measurement of other-than-temporarily impaired securities held to maturity is considered a Level 3 measurement. 
+
+Loans 
+
+Loans are not measured at fair value on a recurring
+basis. However, loans considered to be impaired (see Note 1) may be measured at fair value on a nonrecurring basis. The fair value measurement
+of an impaired loan that is collateral dependent is based on the fair value of the underlying collateral. Independent appraisals are obtained
+that utilize one or more valuation methodologies - typically they will incorporate a comparable sales approach and an income approach.
+Management routinely evaluates the fair value measurements of independent appraisers and adjusts those valuations based on differences
+noted between actual selling prices of collateral and the most recent appraised value. Such adjustments are usually significant, which
+results in a Level 3 classification. All other impaired loan measurements are based on the present value of expected future cash flows
+discounted at the applicable effective interest rate and, thus, are not fair value measurements. 
+
+F- 15 
+
+Real estate held for sale 
+
+Real estate and other property acquired through or
+in lieu of loan foreclosure are not measured at fair value on a recurring basis. However, foreclosed assets are initially measured at
+fair value (less estimated costs to sell) when they are acquired and may also be measured at fair value (less estimated costs to sell)
+if they become subsequently impaired. The fair value measurement for each asset may be obtained from an independent appraiser or prepared
+internally. Fair value measurements obtained from independent appraisers generally utilize a market approach based on sales of comparable
+assets and/or an income approach. Such measurements are usually considered Level 2 measurements. However, management routinely evaluates
+fair value measurements of independent appraisers by comparing actual selling prices to the most recent appraisals. If management determines
+significant adjustments should be made to the independent appraisals based on these evaluations, these measurements are considered Level
+3 measurements. Fair value measurements prepared internally are based on management's comparisons to sales of comparable assets, but include
+significant unobservable data and are therefore considered Level 3 measurements. 
+
+Information regarding the fair value of assets and
+liabilities measured at fair value on a recurring basis as of December 31, 2019 follows: 
+
+Recurring Fair Value at December 31, 2019 
+ 
+ Assets: 
+ Quoted Prices in Active Markets for Identical Instruments Level 1 
+ Significant Other Observable Inputs Level 2 
+ Significant Unobservable Inputs Level 3 
+ Total 
+ 
+ Bond portfolio available for sale 
+
+16,055,937 
+ 16,055,937 
+
+Information regarding the fair value of assets and liabilities
+measured at fair value on a nonrecurring basis as of December 31, 2020 and 2019 follows: 
+
+Nonrecurring Fair Value at December 31, 2020 
+ 
+ Assets: 
+ Quoted Prices in Active Markets for Identical Instruments Level 1 
+ Significant Other Observable Inputs Level 2 
+ Significant Unobservable Inputs Level 3 
+ Total 
+ 
+ Bond portfolio 
+
+4,650,372 
+ 4,650,372 
+ 
+ Impaired loans 
+
+5,004,424 
+ 5,004,424 
+ 
+ Real estate held for sale 
+
+428,996 
+ 428,996 
+
+F- 16 
+
+Nonrecurring Fair Value at December 31, 2019 
+ 
+ Assets: 
+ Quoted Prices in Active Markets for Identical Instruments Level 1 
+ Significant Other Observable Inputs Level 2 
+ Significant Unobservable Inputs Level 3 
+ Total 
+ 
+ Impaired loans 
+
+4,557,326 
+ 4,557,326 
+ 
+ Real estate held for sale 
+
+651,398 
+ 651,398 
+
+During 2020, bonds held to maturity with a carrying
+value of 5,484,988 were written down to their fair value of 4,650,372 since this impairment was deemed to be other than temporary. As
+a result, an impairment charge of 834,226 was included in earnings for the year ended December 31, 2020. 
+
+During 2020, loans with a carrying amount of 6,498,421
+were considered impaired and were written down to their estimated fair value of 5,004,424 by recognizing a specific valuation allowance
+of 1,493,996. During 2019, loans with a carrying amount of 5,986,813 were considered impaired and were written down to their estimated
+fair value of 4,557,326 by recognizing a specific valuation allowance of 1,429,487. 
+
+Real estate held for sale is recognized at fair value,
+less costs to sell. Impairment charge of 118,232 and 10,617 were recognized in earnings for the years ended December 31, 2020 and 2019,
+respectively. 
+
+The following presents quantitative information about nonrecurring Level
+3 fair value measurements at December 31, 2020 and 2019: 
+
+Fair Value 
+ Valuation Technique 
+ Significant Unobservable Inputs(s) 
+ Range/Weighted 
+
+December 31, 2020 
+
+Bond Portfolio 
+ 4,650,372 
+ Market or Income Approach 
+ Discount to Appraised Values 
+ 10-20 
+ 
+ Impaired Loans 
+ 5,004,424 
+ Market or Income Approach 
+ Discount to Appraised Values 
+ 10-20 
+ 
+ Real Estate Held for Sale 
+ 428,996 
+ Market or Income Approach 
+ Discount to Appraised Values 
+ 10-20 
+
+December 31, 2019 
+
+Impaired Loans 
+ 4,557,326 
+ Market or Income Approach 
+ Discount to Appraised Values 
+ 10-20 
+ 
+ Real Estate Held for Sale 
+ 651,398 
+ Market or Income Approach 
+ Discount to Appraised Values 
+ 10-20 
+
+The carrying value and estimated fair values of the
+Company s financial instruments are as follows: 
+
+December 31, 2020 
+
+Level 1 
+ Level 2 
+ Level 3 
+ Carrying Value at December 31, 2020 
+ 
+ Cash and equivalents 
+ 87,702 
+
+87,702 
+
+F- 17 
+
+Accounts receivable 
+ 101,532 
+
+101,532 
+ 
+ Interest receivable 
+ 242,019 
+
+242,019 
+ 
+ Mortgage loans receivable 
+
+16,605,967 
+ 16,605,967 
+ 
+ Bond portfolio 
+
+18,100,711 
+ 18,100,711 
+ 
+ Line of credit 
+ 2,288,000 
+
+2,288,000 
+ 
+ Secured investor certificates 
+ 
+ 23,916,500 
+ 
+ 23,916,500 
+ 
+ Totals 
+ 2,719,253 
+ 23,916,500 
+ 34,706,678 
+ 61,342,431 
+
+December 31, 2019 
+
+Level 1 
+ Level 2 
+ Level 3 
+ Carrying Value at December 31, 2019 
+ 
+ Cash and equivalents 
+ 191,987 
+
+191,987 
+ 
+ Accounts receivable 
+ 125,539 
+
+125,539 
+ 
+ Interest receivable 
+ 185,190 
+
+185,190 
+ 
+ Mortgage loans receivable 
+
+20,717,058 
+ 20,717,058 
+ 
+ Bond portfolio 
+
+16,055,937 
+ 16,055,937 
+ 
+ Line of credit 
+ 1,445,000 
+
+1,445,000 
+ 
+ Secured investor certificates 
+ 
+ 26,850,000 
+ 
+ 26,850,000 
+ 
+ Totals 
+ 1,947,716 
+ 26,850,000 
+ 38,481,114 
+ 67,278,830 
+
+Limitations 
+
+The fair value of a financial instrument is the current
+amount that would be exchanged between market participants, other than in a forced liquidation. Fair value is best determined based upon
+quoted market prices. However, in many instances, there are no quoted market prices for the Company's various financial instruments. In
+cases where quoted market prices are not available, fair values are based on estimates using present value or other valuation techniques.
+Those techniques are significantly affected by the assumptions used, including the discount rate and estimates of future cash flows. Accordingly,
+the fair value estimates may not be realized in an immediate settlement of the instrument. Consequently, the aggregate fair value amounts
+presented may not necessarily represent the underlying fair value of the Company. 
+
+Fair value estimates are made at a specific point
+in time based on relevant market information and information about the financial instrument. These estimates do not reflect any premium
+or discount that could result from offering for sale at one time the Company's entire holdings of a particular instrument. Because no
+market exists for a significant portion of the Company's financial instruments, fair value estimates are based on judgments regarding
+future expected loss experience, current economic conditions, risk characteristics of various financial instruments, and other factors.
+These estimates are subjective in nature and involve uncertainties and matters that could affect the estimates. Fair value estimates are
+based on existing on balance-sheet financial instruments without attempting to estimate the value of anticipated future business. Deposits
+with no stated maturities are defined as having a fair value equivalent to the amount payable on demand. This prohibits adjusting fair
+value derived from retaining those deposits for an expected future period of time. This component, commonly referred to as a deposit 
+
+F- 18 
+
+base
+intangible, is neither considered in the above amounts nor is it recorded as an intangible asset on the balance sheet. In addition, the
+tax ramifications related to the realization of the unrealized gains and losses can have a significant effect on fair value estimates
+and have not been considered in the estimates. 
+
+4. MORTGAGE LOANS RECEIVABLE AND BOND PORTFOLIO 
+
+At December 31, 2020, the Company had mortgage loans
+receivable totaling 18,298,779. The loans bear interest ranging from 0 to 10.25 with a weighted average of approximately 7.68 at December
+31, 2020. At December 31, 2019, the Company had mortgage loans receivable totaling 22,425,178. The loans bear interest ranging from 0 
+to 10.25 with a weighted average of approximately 7.86 at December 31, 2019. 
+
+The Company has a portfolio of secured church bonds
+at December 31, 2020 and 2019, which are carried at amortized cost. The bonds pay either semi-annual or quarterly interest ranging from
+3.50 to 9.75 . The aggregate par value of secured church bonds equaled 18,934,937 at December 31, 2020 with a weighted average interest
+rate of 6.70 and 16,713,937 at December 31, 2019 with a weighted average interest rate of 6.43 . These bonds are due at various maturity
+dates through February 2047. The Company has recorded an aggregate other than temporary impairment of 834,226 and 658,000 for the years
+ended December 31, 2020 and 2019, respectively primarily for the First Mortgage Bonds issued by Agape Assembly Baptist Church and Soul
+Reapers Worship Center. These bond series in the aggregate constitute approximately 10.17 and 6.13 of the bond portfolio at December
+31, 2020 and 2019, respectively. The Company had maturities and redemptions of bonds of approximately 251,000 and 1,137,000 for the
+years ended December 31, 2020 and 2019, respectively. 
+
+The contractual
+maturity schedule for mortgage loans receivable and the bond portfolio as of December 31, 2020, is as follows: 
+
+Mortgage Loans 
+ Bond Portfolio 
+
+2021 
+ 825,073 
+ 283,000 
+ 
+ 2022 
+ 1,060,158 
+ 144,000 
+ 
+ 2023 
+ 735,480 
+ 275,000 
+ 
+ 2024 
+ 1,735,211 
+ 471,000 
+ 
+ 2025 
+ 1,258,901 
+ 261,000 
+ 
+ Thereafter 
+ 12,683,956 
+ 17,630,937 
+
+18,298,779 
+ 18,934,937 
+ 
+ Less loan loss and other than temporary impairment on bonds allowance 
+ (1,493,996) 
+ (834,226) 
+ 
+ Less deferred origination fees 
+ (198,816 
+ ___-____ 
+ 
+ Totals 
+ 16,605,967 
+ 18,100,711 
+
+F- 19 
+
+The Company currently owns 529,000 First
+Mortgage Bonds and 497,000 Second Mortgage Bonds issued by Agape Assembly Baptist Church located in Orlando, Florida. The total
+principal amount of First Mortgage Bonds issued by Agape is 7,200,000, and the total principal amount of Second Mortgage Bonds
+issued is 715,000. Agape defaulted on its payment obligations to bondholders in September 2010. The church subsequently commenced a
+Chapter 11 bankruptcy reorganization proceeding regarding the property that secures the First Mortgage Bonds in December 2010. In
+October 2014, the bondholders of Agape agreed to a modification in the terms of their bonds which resulted in the temporary
+resumption of both principal and interest payments to both the first and second mortgage bond holders. Both the First Mortgage Bonds
+and Second Mortgage Bonds were modified to a fully amortized fixed rate, quarterly interest payment of 6.25 with a new maturity
+date of September 2037 for all the issued and outstanding bonds. The Company, along with all other bondholders, has a superior lien
+over all other creditors. The Church subsequently defaulted on their modification agreement in 2016 and no interest payments were
+made to bondholders during the year ended December 31, 2020. However, the trustee made a distribution to bondholders during 2017 of
+ 18.54 per 1,000 bond as a repayment of principal only, effectively reducing the outstanding balance of each 1,000 bond to
+approximately 826. The trustee again initiated foreclosure action against the Church and prevailed in its pursuit to foreclose on
+the Church s property on November 1, 2019. However, on the eve of the foreclosure sale, the Church again filed for bankruptcy
+protection. In October 2020, bondholders were asked by the trustee to accept or reject a plan of reorganization. The trustee is
+recommending bondholders accept the reorganization plan. The Company accepted the reorganization plan. Acceptance of the plan by
+bondholders could result in a return of approximately 67 of the original principal investment outstanding. The reorganization plan
+has been accepted by a majority of the bondholders. However, the trustee has not finalized the plan as of December 31, 2020. 
+
+The Company currently owns 900,000 First Mortgage
+Bonds issued by Soul Reapers Worship Center International located in Raleigh, North Carolina. The total principal amount of First Mortgage
+Bonds issued by Soul Reapers is 1,920,000. The Church has failed to make payments as required under the terms of the Trust Indenture.
+As a Bondholder, the Company expected to receive interest and principal payment(s) on time and according to the terms of the Bonds. The
+Company has not received any quarterly interest payments from the issuer for the year ended December 31, 2020. 
+
+The Company did restructure one loan during the year
+ended December 31, 2020 and none for the year ended December 31, 2019, respectively. A summary of loans restructured or modified as of
+December 31, 2020 and 2019 are shown below. All of the loans shown, except one, are currently performing under the terms of the modifications
+for their mortgage obligations. The non-performing loan is a second mortgage loan with a current unpaid principal balance of approximately
+ 45,000. This loan has been declared to be in default. 
+
+F- 20 
+
+December 31, 2020 
+
+Type of Loan 
+ Number of Loans 
+ Original Principal Balance 
+ Original Average Interest Rate 
+ Unpaid Principal Balance 
+ Modified Average Interest Rate 
+ 
+ Mortgage Loans 
+ 7 
+ 4,696,544 
+ 8.193 
+ 3,523,123 
+ 6.059 
+
+December 31, 2019 
+
+Type of Loan 
+ Number of Loans 
+ Original Principal Balance 
+ Original Average Interest Rate 
+ Unpaid Principal Balance 
+ Modified Average Interest Rate 
+ 
+ Mortgage Loans 
+ 6 
+ 4,100,544 
+ 7.892 
+ 3,185,720 
+ 5.58 
+
+5. SECURED INVESTOR CERTIFICATES 
+
+Secured investor certificates are collateralized by
+certain mortgage loans receivable or secured church bonds of approximately the same value as the certificates. The weighted average interest
+rate on the certificates was 6.19 and 6.33 for the years ended December 31, 2020 and 2019, respectively. Holders of the secured investor
+certificates may renew certificates at the current rates and terms upon maturity at the Company s discretion. Renewals upon maturity
+are considered neither proceeds from nor issuance of secured investor certificates. Renewals totaled approximately 1,007,000 and 793,000
+for the years ended December 31, 2020 and 2019, respectively. The secured investor certificates have certain financial and non-financial
+covenants identified in the respective series trust indentures. 
+
+The estimated maturity schedule for the secured investor
+certificates at December 31, 2020 is as follows: 
+
+2021 
+ 2,168,000 
+
+2022 
+ 1,042,000 
+
+2023 
+ 3,404,000 
+
+2024 
+ 1,396,000 
+
+2025 
+ 1,093,000 
+
+Thereafter 
+ 14,813,500 
+
+23,916,500 
+
+Less deferred offering costs 
+ (769,178) 
+
+Totals 
+ 23,146,782 
+
+The Company s current certificate offering terminated
+November 6, 2020. As a result, no new secured investor certificates are not being offered and instead the Company is financing loan requests
+and liquidity needs through loan and bond payments received and its line of credit. 
+
+F- 21 
+
+6. TRANSACTIONS WITH AFFILIATES 
+
+The Company has an Advisory Agreement with Church
+Loan Advisors, Inc. (the Advisor ). The Advisor is responsible for the day-to-day operations of the Company and provides
+office space and administrative services. The Advisor and the Company are related through common management. For its services, the Advisor
+is entitled to receive a management fee equal to 1.25 annually of the Company's Average Invested Assets, plus one-half of any origination
+fee charged to borrowers on mortgage loans made by the Company. A majority of the independent board members approve the Advisory Agreement
+on an annual basis. The Company paid the Advisor management and origination fees of approximately 284,000 and 323,000 for years ended
+December 31, 2020 and 2019, respectively. 
+
+7. LINE OF CREDIT 
+
+ On April 9, 2018, the Company entered into a Loan
+and Security Agreement (the Loan Agreement with Alerus Financial, N.A., as lender (the Lender ), and a Revolving
+Note (the Note evidencing a 4,000,000 revolving loan (the Revolving Loan ). The Lender agrees to make loans
+to the Company from time to time and after the date of the loan agreement and the Company may repay and re-borrow pursuant to the terms
+and conditions of the Revolving Loan as long as no borrowing causes that dollar limit to be exceeded and the Company is not otherwise
+in default on the Revolving Loan. The Revolving Loan is secured by a first priority security interest in substantially all of the Company s
+assets other than collateral pledged to secure the Company s secured investor certificates, both those currently issued and any
+potentially issued in the future. The Company borrowed against the line of credit and has an outstanding balance of 2,288,000 and 1,145,000
+for the years December 31, 2020 and 2019, respectively. The interest rate on the Note is the prevailing London Interbank Offering Rate
+(LIBOR) plus 2.70 . On January 20, 2021, the revolving loan was extended through January 19, 2022. 
+
+8. INCOME TAXES 
+
+As discussed in Note 1, a REIT is subject to taxation
+to the extent that taxable income exceeds dividend distributions to shareholders. In order to maintain status as a REIT, the Company is
+required to distribute at least 90 of its taxable income. In 2020, the Company had pretax loss of (125,859) and distributions to shareholders
+in the form of dividends during the tax year of 134,176. In 2019, the Company had pretax income of 57,786 and distributions to shareholders
+in the form of dividends during the tax year of 486,562. The Company paid out 100 of taxable income in dividends in 2020 and 2019. 
+
+The Company has federal and Minnesota net operating
+loss carryforwards of approximately 2,600,000. The federal losses start to expire in 2034 and the Minnesota losses start to expire in
+2029. The carrying amounts of some assets differ for tax basis than book basis. At December 31, 2020 and 2019, the cumulative tax basis
+in the Company s assets and liabilities exceeded book basis by approximately 1,934,000 and 1,960,000, respectively. The Company
+has no deferred tax assets or liabilities on its balance sheet. 
+
+F- 22 
+
+<EX-101.INS>
+ 2
+ acmc-20201231.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.PRE>
+ 3
+ acmc-20201231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+
+<EX-101.SCH>
+ 4
+ acmc-20201231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 5
+ acmc-20201231_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ acmc-20201231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ acmc-20201231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-23.1>
+ 8
+ exhibit231.htm
+ CONSENT OF INDEPENDENT REGISTEREDD PUBLIC ACCOUNTING FIRM
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+We consent to the incorporation within the Form 10-K
+dated March 31, 2021 of our report dated March 31, 2021 of our audit of the financial statements of American Church Mortgage Company as
+of and for the year ended December 31, 2020, which is included in this Annual Report on Form 10-K of American Church Mortgage Company,
+for the year ended December 31, 2020. 
+
+Wipfli LLP 
+
+Minneapolis, Minnesota 
+
+ March 31, 2021 
+
+</EX-23.1>
+
+<EX-31.1>
+ 9
+ exhibit311.htm
+ CERTIFICATION CHIEF EXECUTIVE OFFICER
+
+Exhibit 31.1 
+
+CERTIFICATION 
+
+I, Philip J. Myers, certify that: 
+
+1. I have reviewed this annual report on Form 10-K for American Church Mortgage Company. 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to
+state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements and other financial information included in this report
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of and for,
+the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-5(e) and 15d-15 (e)) and internal control over financial reporting
+(as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such
+disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such
+internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the
+effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in
+this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board
+of directors (or persons performing the equivalent functions): 
+
+(a) All significant
+deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely
+to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether
+or not material, that involves management or other employees who have a significant role in the registrant s internal control over
+financial reporting. 
+
+Dated: March
+31, 2021 
+
+By: /s/ Philip J. Myers
+
+Chief Executive Officer 
+
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 10
+ exhibit312.htm
+ CERTIFICATION CHIEF FINANCIAL OFFICER
+
+Exhibit 31.2 
+
+CERTIFICATION 
+
+I, Scott J. Marquis, certify that: 
+
+1. I have reviewed this annual report on Form 10-K for American Church Mortgage Company. 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to
+state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements and other financial information included in this report
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of and for,
+the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-5(e) and 15d-15 (e)) and internal control over financial reporting
+(as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such
+disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such
+internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the
+effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in
+this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board
+of directors (or persons performing the equivalent functions): 
+
+(a) All significant
+deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely
+to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether
+or not material, that involves management or other employees who have a significant role in the registrant s internal control over
+financial reporting. 
+
+Dated: March
+31, 2021 
+
+By: /s/ Scott J. Marquis
+
+Chief Financial Officer 
+
+ (Principal Financial and Accounting
+Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 11
+ exhibit321.htm
+ CERTIFICATION PURSUANT TO 18U.S.C.SECTION 1350
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual
+Report of American Church Mortgage Company (the Company on Form 10-K for the period ended December 31, 2020 as filed with
+the Securities and Exchange Commission on the date hereof (the Report ), the undersigned, in the capacities and on the date
+indicated below, hereby certifies pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that: 
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934; and 
+
+2. The information contained in the Report fairly presents, in all material respects, the financial condition
+and results of operation of the Company. 
+
+Dated: March 31, 2021 
+ By: /s/ Philip J. Myers 
+
+Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 12
+ exhibit322.htm
+ CERTIFICATION PURSUANT TO 18U.S.C.SECTION 1350
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual
+Report of American Church Mortgage Company (the Company on Form 10-K for the period ended December 31, 2020 as filed with
+the Securities and Exchange Commission on the date hereof (the Report ), the undersigned, in the capacities and on the date
+indicated below, hereby certifies pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that: 
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934; and 
+
+2. The information contained in the Report fairly presents, in all material respects, the financial condition
+and results of operation of the Company. 
+
+Dated: March 31, 2021 
+ By: /s/ Scott J. Marquis 
+
+Chief Financial Officer 
+
+</EX-32.2>
+
